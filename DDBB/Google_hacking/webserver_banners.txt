@@ -1,0 +1,92 @@
+"About Mac OS Personal Web Sharing"
+"AnWeb/1.42h" intitle:index.of
+"CERN httpd 3.0B (VAX VMS)"
+"JRun Web Server" intitle:index.of
+"MaXX/3.1" intitle:index.of
+"Microsoft-IIS/* server at" intitle:index.of
+"Microsoft-IIS/4.0" intitle:index.of
+"Microsoft-IIS/5.0 server at"
+"Microsoft-IIS/6.0" intitle:index.of
+"Netware * Home" inurl:nav.html
+"Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright  -inurl:help -guides|guide
+"OmniHTTPd/2.10" intitle:index.of
+"OpenSA/1.0.4" intitle:index.of
+"Red Hat Secure/2.0"
+"Red Hat Secure/3.0 server at"
+"Switch to table format" inurl:table|plain
+"httpd+ssl/kttd" * server at intitle:index.of
+"powered by openbsd" +"powered by apache"
+"powered by" "shoutstats" hourly daily
+"seeing this instead" intitle:"test page for apache"
+(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co
+(inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+About Mac OS Personal Web Sharing
+AnWeb/1.42h intitle:index.of
+CERN httpd 3.0B (VAX VMS)
+HTTP_USER_AGENT=Googlebot
+JRun Web Server intitle:index.of
+MaXX/3.1 intitle:index.of
+Microsoft-IIS/* server at intitle:index.of
+Microsoft-IIS/4.0 intitle:index.of
+Microsoft-IIS/5.0 server at
+Microsoft-IIS/6.0 intitle:index.of
+Netware * Home inurl:nav.html
+Novell, Inc WEBACCESS Username Password "Version *.*" Copyright  -inurl:help -guides|guide
+OmniHTTPd/2.10 intitle:index.of
+OpenSA/1.0.4 intitle:index.of
+Powered.by.RaidenHTTPD intitle:index.of
+Red Hat Secure/2.0
+Red Hat Secure/3.0 server at
+Switch to table format inurl:table|plain
+XAMPP "inurl:xampp/index"
+aboutprinter.shtml
+allintext:"Powered by LionMax Software" "WWW File Share"
+allintitle:Netscape FastTrack Server Home Page
+allinurl:".nsconfig" -sample -howto -tutorial
+fitweb-wwws * server at intitle:index.of
+httpd+ssl/kttd * server at intitle:index.of
+i_index.shtml Ready
+intext:"404 Object Not Found" Microsoft-IIS/5.0
+intext:"Target Multicast Group" "beacon"
+intitle:"300 multiple choices"
+intitle:"Apache HTTP Server" intitle:"documentation"
+intitle:"Apache Status" "Apache Server Status for"
+intitle:"BadBlue: the file-sharing web server anyone can use"
+intitle:"Directory Listing, Index of /*/"
+intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"
+intitle:"IPC@CHIP Infopage"
+intitle:"Index of *" mode links bytes last-changed name
+intitle:"Lotus Domino Go Webserver:" "Tuning your webserver" -site:ibm.com
+intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
+intitle:"Object not found" netware "apache 1.."
+intitle:"Open WebMail" "Open WebMail version (2.20|2.21|2.30) "
+intitle:"Page rev */*/*" inurl:"admin
+intitle:"Resin Default Home Page"
+intitle:"Shoutcast Administrator"
+intitle:"Test Page for Apache"
+intitle:"Test Page for Apache" "It Worked!"
+intitle:"Test Page for Apache" "It Worked!" "on this web"
+intitle:"Test Page for the Apache HTTP Server on Fedora Core" intext:"Fedora Core Test Page"
+intitle:"Welcome To Xitami" -site:xitami.com
+intitle:"Welcome To Your WebSTAR Home Page"
+intitle:"Welcome to 602LAN SUITE *"
+intitle:"Welcome to IIS 4.0"
+intitle:"Welcome to Windows 2000 Internet Services"
+intitle:"Welcome to Windows Small Business Server 2003"
+intitle:"Welcome to Your New Home Page!" "by the Debian release"
+intitle:"Welcome to the Advanced Extranet Server, ADVX!"
+intitle:"error 404" "From RFC 2068 "
+intitle:"welcome to mono xsp"
+intitle:AnswerBook2 inurl:ab2/ (inurl:8888 | inurl:8889)
+intitle:Snap.Server inurl:Func=
+inurl:2506/jana-admin
+inurl:domcfg.nsf
+inurl:nnls_brand.html OR inurl:nnls_nav.html
+inurl:oraweb -site:oraweb.org
+inurl:tech-support inurl:show Cisco
+inurl:wl.exe inurl:?SS1= intext:"Operating system:" -edu -gov -mil
+powered by "shoutstats" hourly daily
+powered by openbsd +"powered by apache"
+sEDWebserver * server +at intitle:index.of
+seeing this instead intitle:"test page for apache"
+yaws.*.server.at

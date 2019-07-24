@@ -1,0 +1,15 @@
+dns
+ftplib
+googlesearch
+itertools
+netaddr
+paramiko
+PIL
+pprintpp
+PyPDF2
+pygeoip
+scapy
+shodan
+termcolor
+urllib
+whois

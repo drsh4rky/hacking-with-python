@@ -1,0 +1,274 @@
+"About Winamp Web Interface" intitle:"Winamp Web Interface"
+"Copyright (c) Tektronix, Inc." "printer status"
+"LANCOM DSL/*-* Office *" "Entry Page"
+"OK logout" inurl:vb.htm?logout=1
+"Phaser 6250" "Printer Neighborhood" "XEROX CORPORATION"
+"Phaser 8200" "© Xerox" "refresh" " Email Alerts"
+"Phaser® 740 Color Printer" "printer named: "
+"Phaser® 840 Color Printer" "Current Status" "printer named:"
+"Please use Netscape 2.0 or enhance !!" -site:dlink.com -site:ovislink.com.tw
+"RICOH Network Printer D model-Restore Factory"
+"SnapGear Management Console" "Welcome to the SnapGear Unit!" -pdf
+"Starting SiteZAP 6.0"
+"Summary View of Sensors" | "sensorProbe8 v *" | "
+"This page is for configuring Samsung Network Printer" | printerDetails.htm
+"To view the Web interface of the SpeedTouch, Java
+"Webthru User Login"
+"Welcome to the CyberGuard unit!"
+"display printer status" intitle:"Home"
+"intitle:Cisco Systems, Inc. VPN 3000 Concentrator"
+"please visit" intitle:"i-Catcher Console" Copyright "iCode Systems"
+"powered by webcamXP" "Pro|Broadcast"
+( intitle:"PacketShaper Login")|(intitle:"PacketShaper Customer Login")
+("Fiery WebTools" inurl:index2.html) | "WebTools enable * * observe, *, * * * flow * print jobs"
+("port_255/home")|(inurl:"home?port=255")
+(cam1java)|(cam2java)|(cam3java)|(cam4java)|(cam5java)|(cam6java) -navy.mil -backflip -power.ne.jp
+(intext:"MOBOTIX M1" | intext:"MOBOTIX M10") intext:"Open Menu" Shift-Reload
+(intitle:"VisionGS Webcam Software")|(intext:"Powered by VisionGS Webcam") -showthread.php -showpost.php -"Search Engine" -computersglobal.com -site:g
+(intitle:(EyeSpyFX|OptiCamFX) "go to camera")|(inurl:servlet/DetectBrowser)
+(intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
+(inurl:webArch/mainFrame.cgi ) | (intitle:"web image monitor" -htm -solutions)
+About Winamp Web Interface intitle:"Winamp Web Interface"
+Canon Webview Cameras: intitle:liveapplet inurl:LvAppl
+Copyright (c) Tektronix
+DCS inurl:"/web/login.asp"
+DVR Web Clients: intitle:"DVR Web client"
+Display Cameras intitle:"Express6 Live Image"
+LANCOM DSL/*-* Office * "Entry Page"
+Linksys Wireless Cameras: inurl:"next_file=main_fs.htm" inurl:img inurl:image.cgi
+Mobotix Network Cameras: (intext:"MOBOTIX M1? | intext:"MOBOTIX M10?) intext:"Open Menu" Shift-Reload
+More Axis Cameras: intitle:"Live View / – AXIS"
+More Axis Cams: intitle:"Live View / – AXIS" | inurl:view/view.sht
+More Sony Network Cameras: intitle:snc-z20 inurl:home/
+OK logout inurl:vb.htm?logout=1
+Panasonic Network Cameras: inurl:"ViewerFrame?Mode="
+Panasonic ViewNetcam Network: site:.viewnetcam.com -www.viewnetcam.com
+Phaser 6250 "Printer Neighborhood" "XEROX CORPORATION"
+Phaser 8200 "© Xerox" "refresh" " Email Alerts"
+Phaser numrange:100-100000 Name DNS IP "More Printers" index help filetype:html | filetype:shtml
+Phaser® 740 Color Printer "printer named: "
+Phaser® 840 Color Printer "Current Status" "printer named:"
+Please use Netscape 2.0 or enhance !! -site:dlink.com -site:ovislink.com.tw
+RICOH Network Printer D model-Restore Factory
+Seyeon FlexWATCH Cameras: intitle:flexwatch intext:"Home page ver"
+SnapGear Management Console "Welcome to the SnapGear Unit!" -pdf
+Sony Network Cameras: sNC-RZ30 HOME
+Starting SiteZAP 6.0
+Summary View of Sensors | "sensorProbe8 v *" | "
+This page is for configuring Samsung Network Printer | printerDetails.htm
+To view the Web interface of the SpeedTouch, Java"
+Toshiba Network Cameras: intitle:"toshiba network camera – User Login"
+WebControl intitle:"AMX NetLinx"
+WebcamXP: “powered by webcamXP" “Pro|Broadcast"
+Webthru User Login
+Welcome to the CyberGuard unit!
+allintitle:  EDR1600 login | Welcome
+allintitle:  EDR400 login | Welcome
+allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 OR 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+allintitle: EverFocus | EDSR | EDSR400 Applet
+allintitle:"DVR login"
+allintitle:"Network Camera NetworkCamera"
+allintitle:"SyncThru Web Service"
+allintitle:Brains, Corp. camera
+allintitle:Edr1680 remote viewer
+allinurl:index.htm?cus?audio
+axis storpoint "file view" inurl:/volumes/
+camera linksys inurl:main.cgi
+display printer status intitle:"Home"
+ext:dhtml intitle:"document centre|(home)" OR intitle:"xerox"
+filetype:cgi transcoder.cgi
+http://www.google.com/search?q=intitle:%22Network+Storage+Link+for+USB+2.0+Disks%22+Firmware&num=100&hl=en&lr=&c2coff=1&safe=off&filter=0
+http://www.google.com/search?q=intitle:%22Webview+Logon+Page%22&filter=0
+intext:"MOBOTIX D10″ intext:"Open Menu"
+intext:"MOBOTIX M10″ intext:"Open Menu"
+intext:"MOBOTIX M1″ intext:"Open Menu"
+intext:"MaiLinX Alert (Notify)" -site:networkprinters.com
+intext:"Please enter correct password for Administrator Access. Thank you" "Copyright Ãƒâ€šÃ‚Â© 2003 SMC Networks, Inc. All rights reserved."
+intext:"Powered by: Adobe PrintGear" inurl:admin
+intext:"Ready with 10/100T Ethernet"
+intext:"UAA (MSB)"  Lexmark -ext:pdf
+intext:"Videoconference Management System" ext:htm
+intext:"Welcome to Taurus" "The Taurus Server Appliance" intitle:"The Taurus Server Appliance"
+intext:"you to handle frequent configuration jobs easily and quickly" | intitle:"Show/Search other devices"
+intext:centreware inurl:status
+intitle:"--- VIDEO WEB SERVER ---" intext:"Video Web Server" "Any time & Any where" username password
+intitle:"::::: INTELLINET IP Camera Homepage :::::
+intitle:"AR-*" "browser of frame dealing is necessary"
+intitle:"AXIS 240 Camera Server" intext:"server push" -help
+intitle:"AudioReQuest.web.server"
+intitle:"Biromsoft WebCam" -4.0 -serial -ask -crack -software -a -the -build -download -v4 -3.01 -numrange:1-10000
+intitle:"BlueNet Video Viewer"
+intitle:"BorderManager Information alert"
+intitle:"BorderWare MXtreme Mail Firewall Login"
+intitle:"Brother" intext:"View Configuration" intext:"Brother Industries, Ltd."
+intitle:"Browser Launch Page"
+intitle:"Cayman-DSL.home"
+intitle:"Cisco Systems,  Inc. VPN 3000 Concentrator"
+intitle:"Connection Status" intext:"Current login"
+intitle:"DEFAULT_CONFIG - HP"
+intitle:"DVR Client" -the -free -pdf -downloads -blog -download -dvrtop
+intitle:"DVR Web client"
+intitle:"Dell *" inurl:port_0
+intitle:"Dell Laser Printer *" port_0 -johnny.ihackstuff
+intitle:"Dell Laser Printer M5200" port_0
+intitle:"Dell Laser Printer" ews
+intitle:"Device Status Summary Page" -demo
+intitle:"Divar Web Client"
+intitle:"Edr1680 remote viewer"
+intitle:"EpsonNet WebAssist Rev"
+intitle:"Ethernet Network Attached Storage  Utility"
+intitle:"EverFocus.EDSR.applet"
+intitle:"EvoCam" inurl:"webcam.html"
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+intitle:"Freifunk.Net - Status" -site:commando.de
+intitle:"GCC WebAdmin" -gcc.ru
+intitle:"GigaDrive Utility"
+intitle:"HP ProCurve Switch *" "This product requi
+intitle:"Home" "Xerox Corporation" "Refresh Status"
+intitle:"INTELLINET" intitle:"IP Camera Homepage"
+intitle:"IQeye302 | IQeye303 | IQeye601 | IQeye602 | IQeye603" intitle:"Live Images"
+intitle:"IVC Control Panel"
+intitle:"InterJak Web Manager"
+intitle:"Iomega NAS Manager" -ihackstuff.com
+intitle:"Java Applet Page" inurl:ml
+intitle:"Lexmark *" inurl:port_0
+intitle:"Live NetSnap Cam-Server feed"
+intitle:"Live View / - AXIS"
+intitle:"Live View / - AXIS" | inurl:view/view.sht
+intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" |  "intext:Select preset position"
+intitle:"Live View / – AXIS 206M"
+intitle:"Live View / – AXIS 206W"
+intitle:"Live View / – AXIS 210″
+intitle:"Live View / – AXIS"
+intitle:"Live View / – AXIS" | inurl:view/view.shtml^
+intitle:"Middle frame of Videoconference Management System" ext:htm
+intitle:"NAS" inurl:indexeng.html
+intitle:"NeroNET - burning online"
+intitle:"Net2Phone Init Page"
+intitle:"NetCam Live Image" -.edu -.gov -johnny.ihackstuff.com
+intitle:"Netcam" intitle:"user login"
+intitle:"Netopia Router (*.)""to view this site"
+intitle:"Network Print Server" filetype:shtm ( inurl:u_printjobs | inurl:u_server | inurl:a_server | inurl:u_generalhelp | u_printjobs )
+intitle:"Network Print Server" intext:"http://www.axis.com" filetype:shtm
+intitle:"OfficeConnect Cable/DSL Gateway" intext:"Checking your browser"
+intitle:"OfficeConnect Wireless 11g Access Point" "Checking your browser"
+intitle:"Orite IC301" | intitle:"ORITE Audio IP-Camera IC-301" -the -a
+intitle:"PacketShaper Customer Login"
+intitle:"SNC-RZ30" -demo
+intitle:"SNOIE Intel Web Netport Manager" OR intitle:"Intel Web Netport Manager Setup/Status"
+intitle:"SWW link" "Please wait....."
+intitle:"Service Managed Gateway Login"
+intitle:"Setup Home" "You will need * log in before * * change * settings"
+intitle:"Sipura.SPA.Configuration" -.pdf
+intitle:"Skystream Networks Edge Media Router" -securitytracker.com
+intitle:"Smoothwall Express" inurl:cgi-bin "up * days"
+intitle:"Snap Server" intitle:"Home" "Active Users"
+intitle:"Sony SNT-V304 Video Network Station" inurl:hsrindex.shtml
+intitle:"Spam Firewall" inurl:"8000/cgi-bin/index.cgi"
+intitle:"SpeedStream * Management Interface"
+intitle:"Summit Management Interface" -georgewbush.org.uk
+intitle:"TANDBERG" "This page requires a frame capable browser!"
+intitle:"The AXIS 200 Home Page"
+intitle:"Toshiba Network Camera" user login
+intitle:"V-Gear BEE"
+intitle:"V1" "welcome to phone settings" password
+intitle:"Veo Observer Web Client"
+intitle:"Veo Observer XT" -inurl:shtml|pl|php|htm|asp|aspx|pdf|cfm -intext:observer
+intitle:"View and Configure PhaserLink"
+intitle:"WEBDVR" -inurl:product -inurl:demo
+intitle:"WJ-NT104 Main Page"
+intitle:"WxGoos-" ("Camera image"|"60 seconds" )
+intitle:"Your Network Device" Status (LAN | WAN)
+intitle:"actiontec" main setup status "Copyright 2001 Actiontec Electronics Inc"
+intitle:"active webcam page"
+intitle:"axis storpoint CD" intitle:"ip address"
+intitle:"configuration" inurl:port_0
+intitle:"dreambox web"
+intitle:"i-Catcher Console – Web Monitor"
+intitle:"iGuard Fingerprint Security System"
+intitle:"iVISTA.Main.Page"
+intitle:"ipcop - main"
+intitle:"lantronix web-manager"
+intitle:"live view" intitle:axis
+intitle:"my webcamXP server!" inurl:":8080"
+intitle:"netbotz appliance" -inurl:.php -inurl:.asp -inurl:.pdf -inurl:securitypipeline -announces
+intitle:"netcam live image"
+intitle:"network administration" inurl:"nic"
+intitle:"remote ui:top page"
+intitle:"sony network camera snc-m1″
+intitle:"sony network camera snc-p1″
+intitle:"stingray fts login" | ( login.jsp intitle:StingRay )
+intitle:"supervisioncam protocol"
+intitle:"switch home page" "cisco systems" "Telnet - to"
+intitle:"switch login" "IBM Fast Ethernet Desktop"
+intitle:"toshiba network camera - User Login"
+intitle:"— VIDEO WEB SERVER —" intext:"Video Web Server" "Any time & Any where" username password
+intitle:Axis 2400 video server
+intitle:Axis inurl:"/admin/admin.shtml"
+intitle:Brother" intext:"View Configuration" intext:"Brother Industries, Ltd."
+intitle:Cisco "You are using an old browser or have disabled javascript. You must use version 4 or higher of Netscape Navigator/Communicator"
+intitle:HomeSeer.Web.Control | Home.Status.Events.Log
+intitle:Linksys site:ourlinksys.com
+intitle:Netopia Router (*.)"""to view this site""
+intitle:RICOH intitle:"Network Administration"
+intitle:Top "Vantage Service Gateway" -inurl:zyxel
+intitle:asterisk.management.portal web-access
+intitle:axis intitle:"video server"
+intitle:flexwatch intext:"Home page ver"
+intitle:iDVR -intitle:"com | net | shop" -inurl:"asp | htm | pdf | html | php | shtml | com | at | cgi | tv"
+intitle:jdewshlp "Welcome to the Embedded Web Server!"
+intitle:liveapplet
+intitle:liveapplet inurl:LvAppl
+intitle:snc-cs3 inurl:home/
+intitle:snc-rz30 inurl:home/
+intitle:snc-z20 inurl:home/
+intitle:start inurl:cgistart
+intitle:webeye inurl:login.ml
+intitle:”EvoCam” inurl:”webcam.html”
+inurl:"8003/Display?what="
+inurl:":631/printers" -php -demo
+inurl:"CgiStart?page="
+inurl:"MultiCameraFrame?Mode=Motion"
+inurl:"S=320x240" | inurl:"S=160x120" inurl:"Q=Mob
+inurl:"S=320×240" | inurl:"S=160×120" inurl:"Q=Mob
+inurl:"ViewerFrame?Mode=
+inurl:"ViewerFrame?Mode="
+inurl:"ipp/pdisplay.htm"
+inurl:"level/15/exec/-/show"
+inurl:"next_file=main_fs.htm" inurl:img inurl:image.cgi
+inurl:"port_255" -htm
+inurl:"printer/main.html" intext:"settings"
+inurl:/en/help.cgi "ID=*"
+inurl:/exec/show/tech-support/cr
+inurl:/img/vr.htm
+inurl:/level/15/exec/-
+inurl:/level/15/exec/-/configure/http
+inurl:/view.shtml
+inurl:JPGLogin.htm
+inurl:Printers/ipp_0001.asp
+inurl:TiVoConnect?Command=QueryServer
+inurl:ViewerFrame?Mode=
+inurl:ViewerFrame?Mode=Refresh
+inurl:axis-cgi
+inurl:axis-cgi/jpg
+inurl:axis-cgi/mjpg (motion-JPEG)
+inurl:camctrl.cgi
+inurl:cgi-bin/guestimage.html
+inurl:hp/device/this.LCDispatcher
+inurl:indexFrame.shtml Axis
+inurl:na_admin
+inurl:netw_tcp.shtml
+inurl:setdo.cgi intext:"Set DO OK"
+inurl:start.htm?scrw=
+inurl:sts_index.cgi
+inurl:view/index.shtml
+inurl:view/indexFrame.shtml
+inurl:view/view.shtml
+inurl:wrcontrollite
+liveapplet
+please visit intitle:"i-Catcher Console" Copyright "iCode Systems"
+powered by webcamXP "Pro|Broadcast"
+printers/printman.html
+sNC-RZ30 HOME
+site:.viewnetcam.com -www.viewnetcam.com
+tilt intitle:"Live View / - AXIS" | inurl:view/view.shtml

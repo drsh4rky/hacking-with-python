@@ -1,0 +1,251 @@
+filetype:conf inurl:psybnc.conf "USER.PASS="
+filetype:ini inurl:trillian.ini
+inurl:vtund.conf intext: pass-cvs
+filetype:r1w r1w
+filetype:r4w r4w
+inurl:error.log filetype:log -cvs
+inurl:access.log filetype:log -cvs
+filetype:log inurl:cache.log
+filetype:log inurl:store.log
+filetype:log inurl:access.og TCP_HIT
+filetype:log inurl:useragent.log
+filetype:log inurl:useragent.log
+filetype:log hijackthis "scan saved"
+filetype:log iserror.log
+iletype:log inurl:"password.log"
+filetpe:log access.log -CVS
+intitle:"Index Of" -inurl:maillog maillog size
+inurl:password.log filetype:log
+inurl:people.lst filetype:lst
+filetype:config config intext: appSettings "User ID"
+inurl:default_content.asp ClearQuest
+phpinfo.php -manual
+deteced an internal error [IBM] [CLI Driver][DB2|6000]
+filetype:conf inurl:psybnc.conf "USER.PASS="
+index.of.etc tial files
+inurl:cfg OR inurl:config
+filetype:cfg mrtg "target(*)" -sample -cvs -example
+filetype:cfg ks intext:rootpw -sample -test -howto
+filetype:conf inrul:firewall -intitle:vs
+filetype:xls inurl:"password.xls"
+filetype:xls private
+filetype:xls inurl:contact
+data filetype:mdb
+inurl:profiels filetype:mdb
+inurl:*db filetype.mdb
+Axis Network Cameras: inurl:indexFrame.shtml Axis
+ext:log password END_FILE
+ZoneAlamr Logging Client"
+filetype:log "PHP Parse error" | "PHP Warning" | "
+intext:/help/help6_client.nsf
+inurl:/com/novell/gwmonitor
+inurl:"/com/novell/webaccess"
+inurl:"/com/novell/webpublisher"
+# phpMyAdmin MySQL-Dump filtype:txt
+intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php | inurl:list.php | inurl:browse.php)
+intitle:"phpremoteview" filetype: php "Name, Size, inurl:"plog/register.php"
+rename to
+File Upload Manager v1.3
+inurl:temp | inurl:tmp |
+inurl:backup | inurl:bak
+inurl:intranet | help.desk
+admin account info" filetype:log
+# -FrontPage- ext:pwd inurl:(service | authors | administrators | users) "# -FrontPage-" inurl:service.pwd
+http://*:*@www domainname
+Duclassified" -site:duware.com "DUware All Rights reserved"
+duclassmate" -site:duware.com
+Dudirectory" -site:duware.com
+dudownload" -site:duware.com
+Elite Forum Version *.*"
+Link Department"
+DUpaypal" -site:duware.com
+auth_user_file.txt
+config.php
+etc (index.of)
+filetype:cfg mrtg "target
+filetype:log "See `ipsec --copyright"
+filetype:reg reg +intext:?? WINVNC3??
+filetype:reg reg +intext: "internet account manager"
+filetype:url +inurl:"ftp://" +inurl:";@"
+htpasswd
+htpasswd / htgroup
+htpasswd / htpasswd.bak
+intext:"EZGuestbook"
+intext:"Web Wiz Journal"
+intitle:"Index of" sc_serv.conf sc_serv content
+inurl:"slapd.conf" intext:"rootpw" -manpage -"Manual Page" -man: -sample
+inurl:pass.dat
+inurl:server.cfg rcon password
+master.passwd
+mysql history files
+NickServ registration passwords
+passlist
+passlist.txt (a better way)
+passwd
+passwd / etc (reliable)
+people.lst
+psyBNC config files
+pwd.db
+spwd.db / passwd
+trillian.ini
+wwwboard WebAdmin inurl:passwd.txt wwwboard|webadmin
+intitle:"remote assessment" OpenAanval Console
+intitle:opengroupware.org "resistance is obsolete" "Report Bugs" "Username" "password"
+CuteNews" "2003..2005 CutePHP"
+DWMail" password intitle:dwmail
+Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com
+Midmart Messageboard" "Administrator Login"
+Monster Top List" MTL numrange:200-
+UebiMiau" -site:sourceforge.net
+VHCS Pro ver -demo
+You have requested to access the management functions -.edu
+(intitle:"Please login - Forums
+UBB.threads")|(inurl:login.php "ubb")
+(intitle:"Please login - Forums
+WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+(intitle:"rymo Login")|(intext:"Welcome to rymo") -family
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp) -site:remedy.com -site:mil
+CGI:IRC Login
+ez Publish administration
+intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in" -demo -site:b2evolution.net
+intitle:"communigate pro * *" intitle:"entrance"
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo
+intitle:"EXTRANET login" -.edu -.mil -.gov
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+intitle:"Icecast Administration Admin Page"
+intitle:"Login -
+Easy File Sharing Web Server"
+intitle:"Login Forum
+AnyBoard" intitle:"If you are a new user:" intext:"Forum
+AnyBoard" inurl:gochat -edu
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+intitle:"MX Control Console" "If you can't remember"
+intitle:"oMail-admin Administration - Login" -inurl:omnis.ch
+intitle:"OnLine Recruitment Program - Login"
+intitle:"php icalendar administration" -site:sourceforge.net
+intitle:"php icalendar administration" -site:sourceforge.net
+intitle:"Remote Desktop Web Connection" inurl:tsweb
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site:web-cyradm.org
+intitle:asterisk.management.portal web-access
+intitle:endymion.sak?.mail.login.page | inurl:sake.servlet
+intitle:ilohamail "
+IlohaMail"
+intitle:ilohamail intext:"Version 0.8.10" "
+IlohaMail"
+inurl:"vsadmin/login" | inurl:"vsadmin/admin" inurl:.php|.asp
+Code:
+шnurl:/admin/login.asp
+inurl:2000 intitle:RemotelyAnywhere -site:realvnc.com
+inurl:webvpn.html "login" "Please enter your" Login ("Jetbox One CMS ???" | "Jetstream ? *")
+Outlook Web Access (a better way)
+PhotoPost PHP Upload
+PHPhotoalbum Statistics
+PHPhotoalbum Upload
+phpWebMail
+Ultima Online loginservers
+W-Nailer Upload Area
+intitle:"DocuShare" inurl:"docushare/dsweb/" -faq -gov -edu
+generated by wwwstat
+HTTP_FROM=googlebot googlebot.com "Server_Software="
+produced by getstats
+-site:php.net -"The PHP Group" inurl:source inurl:url ext:pHp
+AIM buddy lists
+cgiirc.conf
+cgiirc.conf
+exported email addresses
+ext:mdb inurl:*.mdb inurl:fpdb shop.mdb
+filetype:eml eml +intext:"Subject" +intext:"From" +intext:"To"
+Financial spreadsheets: finance.xls
+Financial spreadsheets: finances.xls
+Ganglia Cluster Reports
+haccess.ctl (one way)
+haccess.ctl (VERY reliable)
+ICQ chat logs, please...
+intext:(password | passcode) intext:(username | userid | user) filetype:csv
+intitle:"admin panel" +"RedKernel"
+intitle:"Index Of" -inurl:maillog maillog size
+intitle:"Index Of" cookies.txt size
+intitle:admin intitle:login
+intitle:index.of cleanup.log
+intitle:index.of inbox dbx
+inurl:"smb.conf" intext:"workgroup" filetype:conf conf
+inurl:netscape.hst
+inurl:netscape.hst
+inurl:wp-mail.php + "There doesn't seem to be any new mail."
+ipsec.conf
+ipsec.secrets
+ipsec.secrets
+Lotus Domino address books
+Microsoft Money Data Files
+mt-db-pass.cgi files
+MySQL tabledata dumps
+mystuff.xml - Trillian data files
+OWA Public Folders (direct view)
+Peoples MSN contact lists
+php-addressbook "This is the addressbook for *" -warning
+phpinfo()
+phpMyAdmin dumps
+phpMyAdmin dumps
+private key files (.csr)
+private key files (.key)
+Quicken data files
+robots.txt
+SQL data dumps
+Squid cache server reports
+Unreal IRCd
+WebLog Referrers
+Welcome to ntop!
+Fichier contenant des informations sur le r?seau :
+filetype:log intext:"ConnectionManager2"
+phpOpenTracker" Statistics
+powered | performed by Beyond Security's Automated Scanning -kazaa -example
+Analysis Console for Incident Databases
+intitle:"Belarc Advisor Current Profile" intext:"Click here for Belarc's PC Management products, for large and small companies."
+Looking Glass
+site:netcraft.com intitle:That.Site.Running Apache
+Can't connect to local intitle:warning
+Chatologica MetaSearch "stack tracking"
+PostgreSQL query failed: ERROR: parser: parse error
+Supplied argument is not a valid MySQL result resource
+Warning: mysql_connect(): Access denied for user: '*@* "on line" -help -forum
+SQL Server Driver][SQL Server]Line 1: Incorrect syntax near
+Coldfusion Error Pages
+filetype:asp + "[ODBC SQL"
+ht://Dig htsearch error
+IIS 4.0 error messages
+IIS web server error messages
+Internal Server Error
+intitle:"Error Occurred While Processing Request" +WHERE (SELECT|INSERT) filetype:cfm
+MYSQL error message: supplied argument....
+Netscape Application Server Error page
+ORA-00921: unexpected end of SQL command
+ORA-00921: unexpected end of SQL command
+sitebuildercontent
+sitebuilderfiles
+sitebuilderpictures
+Snitz! forums db path error
+SQL syntax error
+Windows 2000 web server error messages
+you can now password | "this is a special page only seen by you. your profile visitors" inurl:imchaos ("Indexed.By"|"Monitored.By") hAcxFtpScan
+Gallery in configuration mode
+Hassan Consulting's Shopping Cart Version 1.18
+intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -
+intitle:"Terminal Services Web Connecti+kon"
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU" intext:"Online Catalog" -demo -site:oscommerce.com
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+inurl:"index.php? module=ew_filemanager"
+inurl:htpasswd filetype:htpasswd
+inurl:yapboz_detay.asp + View Webcam User Accessing
+allinurl:control/multiview
+ClearQuest Web Logon
+filetype:fp5 fp5 -"cvs lgo"
+Welcome to YourCo Financial
+"(C) Copyright IBM Welcome to Websphere"
+intitle:"messaging login" "(C) Copyright IBM"
+intitle:oracle http server inde" "Copyright *Oracle Corporation."
+inurl:admin_/globalsettings.htm
+Welcome to phpMyAdmin "Create new database"
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"

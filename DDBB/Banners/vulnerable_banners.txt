@@ -1,0 +1,3 @@
+metasploitable.localdomain ESMTP Postfix (Ubuntu)
+SSH-2.0-dropbear_0.52
+vsFTPd 2.3.4

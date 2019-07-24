@@ -1,0 +1,170 @@
+"CGI-Telnet Unit-x Team Connected to *.com" OR "CGI-Telnet Unit-x Team Connected to"
+"Please re-enter your password It must match exactly"
+"Powered by PHPFM" filetype:php -username
+"Powered by: vBulletin Version 1.1.5"
+"Select a database to view" intitle:"filemaker pro"
+"There are no Administrators Accounts" inurl:admin.php -mysql_fetch_row
+"Welcome to Administration" "General" "Local Domains" "SMTP Authentication" inurl:admin
+"Welcome to Intranet"
+"Welcome to PHP-Nuke" congratulations
+"Welcome to the Prestige Web-Based Configurator"
+"YaBB SE Dev Team"
+"[ phpinfo ]  [ php.ini ]  [ cpu ]  [ mem ]  [ users ]  [ tmp ]  [ delete ]"
+"adding new user" inurl:addnewuser -"there are no domains"
+"ftp://" "www.eastgame.net"
+"html allowed" guestbook
+"index of /" ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+"r57shell 1.4"
+"r57shell"
+"safe_mode: *  PHP version: *  cURL: *  MySQL: *  MSSQL: *  PostgreSQL: *  Oracle: *"
+"set up the administrator user" inurl:pivot
+"www.*.com - c99shell" OR "www.*.net - c99shell" OR "www.*.org - c99shell"
+"you can now password" | "this is a special page only seen by you. your profile visitors"  inurl:imchaos
+("Indexed.By"|"Monitored.By") hAcxFtpScan
+(intitle:"SHOUTcast Administrator")|(intext:"U SHOUTcast D.N.A.S. Status")
+(intitle:"WordPress Setup Configuration File")|(inurl:"setup-config.php?step=")
+(inurl:/shop.cgi/page=) | (inurl:/shop.pl/page=)
+(inurl:81/cgi-bin/.cobalt/)  | (intext:"Welcome to the Cobalt RaQ")
++htpasswd +WS_FTP.LOG filetype:log
+MySQL: ON MSSQL: OFF Oracle: OFF MSSQL: OFF PostgreSQL: OFF cURL: ON WGet: ON Fetch: OFF Perl: ON
+PHPKonsole PHPShell filetype:php -echo
+Please re-enter your password It must match exactly
+Powered by PHPFM filetype:php -username
+Powered by: vBulletin Version 1.1.5
+Select a database to view intitle:"filemaker pro"
+There are no Administrators Accounts inurl:admin.php -mysql_fetch_row
+Welcome to Administration "General" "Local Domains" "SMTP Authentication" inurl:admin
+Welcome to Intranet
+Welcome to PHP-Nuke congratulations
+Welcome to the Prestige Web-Based Configurator
+XOOPS Custom Installation
+YaBB SE Dev Team
+adding new user inurl:addnewuser -"there are no domains"
+allintext:"fs-admin.php"
+allinurl:"index.php" "site=sglinks"
+allinurl:install/install.php
+allinurl:intranet admin
+filetype:cgi inurl:"Web_Store.cgi"
+filetype:cgi inurl:"fileman.cgi"
+filetype:php HAXPLORER "Server Files Browser"
+filetype:php inurl:vAuthenticate
+filetype:pl intitle:"Ultraboard Setup"
+ftp:// "www.eastgame.net"
+html allowed guestbook
+http://www.google.com/search?q=inurl%3Aindex.php%3Fpagedb%3Drss
+index of / ( upload.cfm | upload.asp | upload.php | upload.cgi | upload.jsp | upload.pl )
+intext:"Warning: * am able * write ** configuration file" "includes/configure.php" -Forums
+intitle:"ERROR: The requested URL could not be retrieved" "While trying to retrieve the URL" "The following error was encountered:"
+intitle:"Gallery in Configuration mode"
+intitle:"Gateway Configuration Menu"
+intitle:"Horde :: My Portal" -"[Tickets"
+intitle:"Mail Server CMailServer Webmail" "5.2"
+intitle:"MvBlog powered"
+intitle:"PHP Shell *" "Enable stderr" filetype:php
+intitle:"Remote Desktop Web Connection"
+intitle:"Samba Web Administration Tool" intext:"Help Workgroup"
+intitle:"Terminal Services Web Connection"
+intitle:"Uploader - Uploader v6" -pixloads.com
+intitle:"Web Data Administrator - Login"
+intitle:"YALA: Yet Another LDAP Administrator"
+intitle:"net2ftp" "powered by net2ftp" inurl:ftp OR intext:login OR inurl:login
+intitle:MyShell 1.1.0 build 20010923
+intitle:admin intitle:login
+intitle:cyber anarchy shell
+intitle:osCommerce inurl:admin intext:"redistributable under the GNU"intext:"Online Catalog" -demo -site:oscommerce.com
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+inurl:"/NSearch/AdminServlet"
+inurl:"index.php?module=ew_filemanager"
+inurl:"phpOracleAdmin/php" -download -cvs
+inurl:"tmtrack.dll?"
+inurl:/vb/install/install.php
+inurl:/vb/install/upgrade.php 
+inurl:ConnectComputer/precheck.htm | inurl:Remote/logon.aspx
+inurl:ManyServers.htm
+inurl:aol*/_do/rss_popup?blogID=
+inurl:footer.inc.php
+inurl:info.inc.php
+inurl:newsdesk.cgi? inurl:"t="
+inurl:pls/admin_/gateway.htm
+inurl:polly/CP
+inurl:rpSys.html
+inurl:search.php vbulletin
+inurl:servlet/webacc
+inurl:shop "Hassan Consulting's Shopping Cart Version 1.18"
+natterchat inurl:home.asp -site:natterchat.co.uk
+set up the administrator user inurl:pivot
+you can now password | "this is a special page only seen by you. your profile visitors"  inurl:imchaos
+filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+"File Upload Manager v1.3" "rename to"
+"Mail-it Now!" intitle:"Contact form" | inurl:contact.php
+"Powered By: Simplicity oF Upload" inurl:download.php | inurl:upload.php
+"Powered by FlexPHPNews" inurl:news | inurl:press
+"Powered by FunkBoard"
+"Powered by Gravity Board"
+"Powered by Land Down Under 601"
+"Powered by SilverNews"
+"Powered by Xcomic"
+"Warning:" "Cannot execute a blank command in"
+"create the Super User" "now by clicking here"
+"e107.org 2002/2003" inurl:forum_post.php?nt
+"maxwebportal" inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+"powered by YellDL"
+"powered by mailgust"
+"powered by my little forum"
+File Upload Manager v1.3 "rename to"
+Mail-it Now! intitle:"Contact form" | inurl:contact.php
+PHPFreeNews inurl:Admin.php
+Powered By: Simplicity oF Upload inurl:download.php | inurl:upload.php
+Powered by FlexPHPNews inurl:news | inurl:press
+Powered by FunkBoard
+Powered by Gravity Board
+Powered by Land Down Under 601
+Powered by SilverNews
+Powered by Xcomic
+Warning: "Cannot execute a blank command in"
+create the Super User "now by clicking here"
+e107.org 2002/2003 inurl:forum_post.php?nt
+ext:asp "powered by DUForum" inurl:(messages|details|login|default|register) -site:duware.com
+ext:asp inurl:DUgallery intitle:"3.0" -site:dugall
+ext:cgi inurl:ubb6_test.cgi
+ezBOO "Administrator Panel" -cvs
+filetype:cgi inurl:cachemgr.cgi
+filetype:cnf my.cnf -cvs -example
+filetype:inc inc intext:setcookie
+filetype:lit lit (books|ebooks)
+filetype:mdb "standard jet" (password | username | user | pass)
+filetype:mdb inurl:"news/news"
+filetype:php inurl:"viewfile" -"index.php" -"idfil
+filetype:pl -intext:"/usr/bin/perl" inurl:webcal (inurl:webcal | inurl:add | inurl:delete | inurl:config)
+filetype:wsdl wsdl
+intitle:"ASP FileMan" Resend -site:iisworks.com
+intitle:"CJ Link Out V1"
+intitle:"Control panel" "Control Panel Login" ArticleLive inurl:admin -demo
+intitle:"Directory Listing" "tree view"
+intitle:"Index of /" modified php.exe
+intitle:"PHP Explorer" ext:php (inurl:phpexplorer.php |  inurl:list.php | inurl:browse.php)
+intitle:"PHPstat" intext:"Browser" intext:"PHPstat setup"
+intitle:"SSHVnc Applet"OR intitle:"SSHTerm Applet"
+intitle:"phpremoteview" filetype:php "Name, Size,
+intitle:gallery inurl:setup "Gallery configuration"
+intitle:mywebftp "Please enter your password"
+intitle:phpremoteview filetype:php "Name, Size,"
+inurl:" WWWADMIN.PL" intitle:"wwwadmin"
+inurl:"nph-proxy.cgi" "Start browsing through this CGI-based proxy"
+inurl:"plog/register.php"
+inurl:"simplenews/admin"
+inurl:cartwiz/store/index.asp
+inurl:cgi-bin inurl:bigate.cgi
+inurl:cgi.asx?StoreID
+inurl:changepassword.cgi -cvs
+inurl:click.php intext:PHPClickLog
+inurl:guestbook/guestbooklist.asp "Post Date" From
+inurl:nquser.php filetype:php
+inurl:php.exe filetype:exe -example.com
+inurl:robpoll.cgi filetype:cgi
+inurl:updown.php | intext:"Powered by PHP Uploader Downloader"
+link:http://www.toastforums.com/
+maxwebportal inurl:"default" "snitz forums" +"homepage" -intitle:maxwebportal
+powered by YellDL
+powered by mailgust
+powered by my little forum

@@ -1,0 +1,281 @@
+intext:"Icecast Administration Admin Page" intitle:"Icecast Administration Admin Page"
+intitle:"remote assessment" OpenAanval Console
+intitle:opengroupware.org "resistance is obsolete" "Report Bugs" "Username" "password"
+"4images Administration Control Panel"
+"Emergisoft web applications are a part of our"
+"Establishing a secure Integrated Lights Out session with" OR intitle:"Data Frame - Browser not HTTP 1.1 compatible" OR intitle:"HP Integrated Lights-
+"HostingAccelerator" intitle:"login" +"Username" -"news" -demo
+"IMail Server Web Messaging" intitle:login
+"Login - Sun Cobalt RaQ"
+"Login to Usermin" inurl:20000
+"Microsoft CRM : Unsupported Browser Version"
+"OPENSRS Domain Management" inurl:manage.cgi
+"Please authenticate yourself to get access to the management interface"
+"Please login with admin pass" -"leak" -sourceforge
+"Powered by DWMail" password intitle:dwmail
+"Powered by Merak Mail Server Software" -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff
+"Powered by Midmart Messageboard" "Administrator Login"
+"Powered by Monster Top List" MTL numrange:200-
+"Powered by UebiMiau" -site:sourceforge.net
+"Remote Supervisor Adapter II" inurl:userlogin_logo.ssi
+"SquirrelMail version" "By the SquirrelMail Development Team"
+"SurgeMAIL" inurl:/cgi/user.cgi ext:cgi
+"SysCP - login"
+"This is a restricted Access Server" "Javascript Not Enabled!"|"Messenger Express" -edu -ac
+"This section is for Administrators only. If you are an administrator then please"
+"VHCS Pro   ver" -demo
+"VNC Desktop" inurl:5800
+"Web-Based Management" "Please input password to login" -inurl:johnny.ihackstuff.com
+"WebExplorer Server - Login" "Welcome to WebExplorer Server"
+"WebSTAR Mail - Please Log In"
+"You have requested access to a restricted area of our website. Please authenticate yourself to continue."
+"You have requested to access the management functions"  -.edu
+"bp blog admin" intitle:login | intitle:admin -site:johnny.ihackstuff.com
+"iCONECT 4.1 :: Login"
+"inspanel" intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+"intitle:3300 Integrated Communications Platform" inurl:main.htm
+"login prompt" inurl:GM.cgi
+"pcANYWHERE EXPRESS Java Client"
+"please log in"
+"powered by CuteNews" "2003..2005 CutePHP"
+"site info for" "Enter Admin Password"
+"ttawlogin.cgi/?action="
+#ИМЯ?
+(intitle:"Please login - Forums powered by UBB.threads")|(inurl:login.php "ubb")
+(intitle:"Please login - Forums powered by WWWThreads")|(inurl:"wwwthreads/login.php")|(inurl:"wwwthreads/login.pl?Cat=")
+(intitle:"SilkyMail by Cyrusoft International, Inc
+(intitle:"WmSC e-Cart Administration")|(intitle:"WebMyStyle e-Cart Administration")
+(intitle:"rymo  Login")|(intext:"Welcome to rymo") -family
+(inurl:"ars/cgi-bin/arweb?O=0" | inurl:arweb.jsp)
++"Powered by INDEXU" inurl:(browse|top_rated|power
+4images Administration Control Panel
+ASP.login_aspx "ASP.NET_SessionId"
+Admin intitle:"eZ publish administration"
+Emergisoft web applications are a part of our
+Establishing a secure Integrated Lights Out session with OR intitle:"Data Frame - Browser not HTTP 1.1 compatible" OR intitle:"HP Integrated Lights-
+FlashChat v4.5.7
+HostingAccelerator intitle:"login" +"Username" -"news" -demo
+IMail Server Web Messaging intitle:login
+Login ("Powered by Jetbox One CMS ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢" | "Powered by Jetstream Ãƒâ€šÃ‚Â© *")
+Login ("Powered by Jetbox One CMS" | "Powered by Jetstream © *")
+Login - Sun Cobalt RaQ
+Login to Usermin inurl:20000
+Microsoft CRM : Unsupported Browser Version
+Novell NetWare intext:"netware management portal version"
+OPENSRS Domain Management inurl:manage.cgi
+Please authenticate yourself to get access to the management interface
+Please enter a valid password! inurl:polladmin
+Please login with admin pass -"leak" -sourceforge
+Powered by DWMail password intitle:dwmail
+Powered by Merak Mail Server Software -.gov -.mil -.edu -site:merakmailserver.com -johnny.ihackstuff
+Powered by Midmart Messageboard "Administrator Login"
+Powered by Monster Top List MTL numrange:200-
+Powered by UebiMiau -site:sourceforge.net
+SquirrelMail version "By the SquirrelMail Development Team"
+SurgeMAIL inurl:/cgi/user.cgi ext:cgi
+SysCP - login
+This is a restricted Access Server "Javascript Not Enabled!"|"Messenger Express" -edu -ac
+This section is for Administrators only. If you are an administrator then please
+VHCS Pro   ver -demo
+VNC Desktop inurl:5800
+Web-Based Management "Please input password to login" -inurl:johnny.ihackstuff.com
+WebExplorer Server - Login "Welcome to WebExplorer Server"
+WebSTAR Mail - Please Log In
+You have requested access to a restricted area of our website. Please authenticate yourself to continue.
+You have requested to access the management functions  -.edu
+allintitle:"Welcome to the Cyclades"
+allinurl:"exchange/logon.asp"
+allinurl:wps/portal/ login
+bp blog admin intitle:login | intitle:admin -site:johnny.ihackstuff.com
+ext:cgi intitle:"control panel" "enter your owner password to continue!"
+filetype:cfg login "LoginServer="
+filetype:cgi inurl:"irc.cgi" | intitle:"CGI:IRC Login"
+filetype:php inurl:"webeditor.php"
+filetype:php login (intitle:phpWebMail|WebMail)
+filetype:pl "Download: SuSE Linux Openexchange Server CA"
+filetype:r2w r2w
+iCONECT 4.1 :: Login
+inspanel intitle:"login" -"cannot" "Login ID" -site:inspediumsoft.com
+intext:""BiTBOARD v2.0" BiTSHiFTERS Bulletin Board"
+intext:"BiTBOARD v2.0" BiTSHiFTERS Bulletin Board""
+intext:"Fill out the form below completely to change your password and user name. If new username is left blank, your old one will be assumed." -edu
+intext:"Icecast Administration Admin Page" intitle:"Icecast Administration Admin Page"
+intext:"Mail admins login here to administrate your domain."
+intext:"Master Account"  "Domain Name" "Password" inurl:/cgi-bin/qmailadmin
+intext:"Master Account" "Domain Name" "Password" inurl:/cgi-bin/qmailadmin
+intext:"Storage Management Server for" intitle:"Server Administration"
+intext:"Welcome to" inurl:"cp" intitle:"H-SPHERE" inurl:"begin.html" -Fee
+intext:"vbulletin" inurl:admincp
+intitle:"*- HP WBEM Login" | "You are being prompted to provide login account information for *" | "Please provide the information requested and press
+intitle:"Admin Login" "admin login" "blogware"
+intitle:"Admin login" "Web Site Administration" "Copyright"
+intitle:"AdventNet ManageEngine ServiceDesk Plus" intext:"Remember Me"
+intitle:"AlternC Desktop"
+intitle:"Athens Authentication Point"
+intitle:"Cisco CallManager User Options Log On" "Please enter your User ID and Password in the spaces provided below and click the Log On button to co
+intitle:"ColdFusion Administrator Login"
+intitle:"Content Management System" "user name"|"password"|"admin" "Microsoft IE 5.5" -mambo -johnny.ihackstuff
+intitle:"Dell Remote Access Controller"
+intitle:"Docutek ERes - Admin Login" -edu
+intitle:"EXTRANET * - Identification"
+intitle:"EXTRANET login" -.edu -.mil -.gov -johnny.ihackstuff
+intitle:"EZPartner" -netpond
+intitle:"Employee Intranet Login"
+intitle:"Flash Operator Panel" -ext:php -wiki -cms -inurl:asternic -inurl:sip -intitle:ANNOUNCE -inurl:lists
+intitle:"ISPMan : Unauthorized Access prohibited"
+intitle:"ITS System Information" "Please log on to the SAP System"
+intitle:"Kurant Corporation StoreSense" filetype:bok
+intitle:"ListMail Login" admin -demo
+intitle:"Login - powered by Easy File Sharing Web
+intitle:"Login Forum Powered By AnyBoard" intitle:"If you are a new user:" intext:"Forum Powered By AnyBoard" inurl:gochat -edu
+intitle:"Login to @Mail" (ext:pl | inurl:"index") -dwaffleman
+intitle:"Login to Cacti"
+intitle:"Login to the forums - @www.aimoo.com" inurl:login.cfm?id=
+intitle:"MX Control Console" "If you can't remember"
+intitle:"MX Control Console" "If you can’t remember"
+intitle:"MailMan Login"
+intitle:"Member Login" "NOTE: Your browser must have cookies enabled in order to log into the site." ext:php OR ext:cgi
+intitle:"Merak Mail Server Web Administration" -ihackstuff.com
+intitle:"MikroTik RouterOS Managing Webpage"
+intitle:"Novell Web Services" "GroupWise" -inurl:"doc/11924" -.mil -.edu -.gov -filetype:pdf
+intitle:"Novell Web Services" intext:"Select a service and a language."
+intitle:"OnLine Recruitment Program - Login" -johnny.ihackstuff
+intitle:"PHP Advanced Transfer" inurl:"login.php"
+intitle:"PHPhotoalbum - Upload" | inurl:"PHPhotoalbum/upload"
+intitle:"PHProjekt - login" login password
+intitle:"Philex 0.2*" -script -site:freelists.org
+intitle:"SFXAdmin - sfx_global" | intitle:"SFXAdmin - sfx_local" | intitle:"SFXAdmin - sfx_test"
+intitle:"SHOUTcast Administrator" inurl:admin.cgi
+intitle:"SilkyMail by Cyrusoft International, Inc"
+intitle:"SuSE Linux Openexchange Server" "Please activate JavaScript!"
+intitle:"Supero Doctor III" -inurl:supermicro
+intitle:"TOPdesk ApplicationServer"
+intitle:"TUTOS Login"
+intitle:"TWIG Login"
+intitle:"Tomcat Server Administration"
+intitle:"VMware Management Interface:" inurl:"vmware/en/"
+intitle:"VNC viewer for Java"
+intitle:"Virtual Server Administration System"
+intitle:"VisNetic WebMail" inurl:"/mail/"
+intitle:"VitalQIP IP Management System"
+intitle:"WebLogic Server" intitle:"Console Login" inurl:console
+intitle:"Welcome Site/User Administrator" "Please select the language" -demos
+intitle:"Welcome to Mailtraq WebMail"
+intitle:"WorldClient" intext:"© (2003|2004) Alt-N Technologies."
+intitle:"WorldClient" intext:"Ãƒâ€šÃ‚Â© (2003|2004) Alt-N Technologies."
+intitle:"XMail Web Administration Interface" intext:Login intext:password
+intitle:"XcAuctionLite" | "DRIVEN BY XCENT" Lite inurl:admin
+intitle:"Zope Help System" inurl:HelpSys
+intitle:"ZyXEL Prestige Router" "Enter password"
+intitle:"b2evo > Login form" "Login form. You must log in! You will have to accept cookies in order to log in"  -demo -site:b2evolution.net
+intitle:"eMule *" intitle:"- Web Control Panel" intext:"Web Control Panel" "Enter your password here."
+intitle:"ePowerSwitch Login"
+intitle:"eXist Database Administration" -demo
+intitle:"i-secure v1.1" -edu
+intitle:"iDevAffiliate - admin" -demo
+intitle:"inc. vpn 3000 concentrator"
+intitle:"microsoft certificate services" inurl:certsrv
+intitle:"oMail-admin Administration - Login"  -inurl:omnis.ch
+intitle:"php icalendar administration" -site:sourceforge.net
+intitle:"phpPgAdmin - Login" Language
+intitle:"please login" "your password is *"
+intitle:"remote assessment" OpenAanval Console
+intitle:"site administration: please log in" "site designed by emarketsouth"
+intitle:"teamspeak server-administration
+intitle:"vhost" intext:"vHost . 2000-2004"
+intitle:"web-cyradm"|"by Luc de Louw" "This is only for authorized users" -tar.gz -site:web-cyradm.org -johnny.ihackstuff
+intitle:"welcome to netware *" -site:novell.com
+intitle:"xams 0.0.0..15 - Login"
+intitle:("TrackerCam Live Video")|("TrackerCam Application Login")|("Trackercam Remote") -trackercam.com
+intitle:3300 Integrated Communications Platform inurl:main.htm
+intitle:ARI "Phone System Administrator"
+intitle:Ampache intitle:"love of music"  password | login | "Remember Me." -welcome
+intitle:Group-Office "Enter your username and password to login"
+intitle:IMP inurl:imp/index.php3
+intitle:Login * Webmailer
+intitle:Login intext:"RT is © Copyright"
+intitle:Login intext:"RT is Ãƒâ€šÃ‚Â© Copyright"
+intitle:Node.List Win32.Version.3.11
+intitle:Novell intitle:WebAccess "Copyright *-* Novell, Inc"
+intitle:Ovislink inurl:private/login
+intitle:Remote.Desktop.Web.Connection inurl:tsweb
+intitle:asterisk.management.portal web-access
+intitle:communigate pro entrance
+intitle:endymion.sakÃƒÂ©.mail.login.page | inurl:sake.servlet
+intitle:endymion.sakÃƒÆ’Ã‚Â©.mail.login.page | inurl:sake.servlet
+intitle:ilohamail "Powered by IlohaMail"
+intitle:ilohamail intext:"Version 0.8.10" "Powered by IlohaMail"
+intitle:open-xchange inurl:login.pl
+intitle:opengroupware.org "resistance is obsolete" "Report Bugs" "Username" "password"
+intitle:phpnews.login
+intitle:plesk inurl:login.php3
+inurl:"/?pagename=AdministratorLogin"
+inurl:"/?pagename=CustomerLogin"
+inurl:"/admin/configuration. php?" Mystore
+inurl:"/slxweb.dll/external?name=(custportal|webticketcust)"
+inurl:"1220/parse_xml.cgi?"
+inurl:"631/admin" (inurl:"op=*") | (intitle:CUPS)
+inurl:":10000" intext:webmin
+inurl:"Activex/default.htm" "Demo"
+inurl:"calendar.asp?action=login"
+inurl:"default/login.php" intitle:"kerio"
+inurl:"exchange/logon.asp" OR intitle:"Microsoft Outlook Web Access - Logon"
+inurl:"gs/adminlogin.aspx"
+inurl:"php121login.php"
+inurl:"suse/login.pl"
+inurl:"typo3/index.php?u=" -demo
+inurl:"usysinfo?login=true"
+inurl:"utilities/TreeView.asp"
+inurl:"vsadmin/login" | inurl:"vsadmin/admin" inurl:.php|.asp  -"Response.Buffer = True" -javascript
+inurl:"webadmin" filetype:nsf
+inurl:+:8443/login.php3
+inurl:/Citrix/Nfuse17/
+inurl:/Merchant2/admin.mv | inurl:/Merchant2/admin.mvc | intitle:"Miva Merchant Administration Login" -inurl:cheap-malboro.net
+inurl:/SUSAdmin intitle:"Microsoft Software Update Services"
+inurl:/admin/login.asp
+inurl:/cgi-bin/sqwebmail?noframes=1
+inurl:/dana-na/auth/
+inurl:/dana-na/auth/welcome.html
+inurl:/eprise/
+inurl:/modcp/ intext:Moderator+vBulletin
+inurl:/webedit.* intext:WebEdit Professional -html
+inurl:1810 "Oracle Enterprise Manager"
+inurl:2000 intitle:RemotelyAnywhere -site:realvnc.comg
+inurl::2082/frontend -demo
+inurl:Citrix/MetaFrame/default/default.aspx
+inurl:PHPhotoalbum/statistics intitle:"PHPhotoalbum - Statistics"
+inurl:WCP_USER
+inurl:administrator "welcome to mambo"
+inurl:bin.welcome.sh | inurl:bin.welcome.bat | intitle:eHealth.5.0
+inurl:cgi-bin/ultimatebb.cgi?ubb=login
+inurl:confixx inurl:login|anmeldung
+inurl:coranto.cgi intitle:Login (Authorized Users Only)
+inurl:csCreatePro.cgi
+inurl:default.asp intitle:"WebCommander"
+inurl:exchweb/bin/auth/owalogon.asp
+inurl:gnatsweb.pl
+inurl:ids5web
+inurl:irc filetype:cgi cgi:irc
+inurl:login filetype:swf swf
+inurl:login.asp
+inurl:login.cfm
+inurl:login.php "SquirrelMail version"
+inurl:metaframexp/default/login.asp | intitle:"Metaframe XP Login"
+inurl:mewebmail
+inurl:names.nsf?opendatabase
+inurl:ocw_login_username
+inurl:orasso.wwsso_app_admin.ls_login
+inurl:postfixadmin intitle:"postfix admin" ext:php
+inurl:search/admin.php
+inurl:src/login.php
+inurl:textpattern/index.php
+inurl:webmail./index.pl "Interface"
+inurl:webvpn.html "login" "Please enter your"
+login prompt inurl:GM.cgi
+pcANYWHERE EXPRESS Java Client
+please log in
+powered by CuteNews "2003..2005 CutePHP"
+site info for "Enter Admin Password"
+ttawlogin.cgi/?action=
+uploadpics.php?did= -forum
+Powered by [ClipBucket 2.0.91]

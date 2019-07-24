@@ -1,0 +1,4203 @@
+"/lire.php?rub="
+"/os/pointer.php?url="
+"Book.asp?bookID="
+"BookDetails.asp?ID="
+"Browse_Item_Details.asp?Store_Id="
+"GetItems.asp?itemid="
+"List.asp?CatID="
+"OrderForm.asp?Cart="
+"Select_Item.asp?id="
+"Services.asp?ID="
+"ShopSearch.asp?CategoryID="
+"StoreRedirect.asp?ID="
+"Store_ViewProducts.asp?Cat="
+"ViewProduct.asp?misc="
+"WsAncillary.asp?ID"
+"add-to-cart.asp?ID="
+"add.asp?bookid="
+"addItem.asp"
+"addToCart.asp?idProduct="
+"add_cart.asp?num="
+"addcart.asp?"
+"addtomylist.asp?ProdId="
+"adminEditProductFields.asp?intProdID="
+"advSearch_h.asp?idCategory="
+"affiliate-agreement.cfm?storeid="
+"affiliate.asp?ID="
+"affiliates.asp?id="
+"ancillary.asp?ID="
+"archive.asp?id="
+"article.asp?id="
+"aspx?PageID"
+"basket.asp?id="
+"book_list.asp?bookid="
+"book_view.asp?bookid="
+"browse.asp?catid="
+"browse_item_details.asp"
+"buy.asp?"
+"buy.asp?bookid="
+"bycategory.asp?id="
+"cardinfo.asp?card="
+"cart.asp?action="
+"cart.asp?cart_id="
+"cart.asp?id="
+"cart_additem.asp?id="
+"cart_validate.asp?id="
+"cartadd.asp?id="
+"cat.asp?iCat="
+"catalog.asp"
+"catalog.asp?CatalogID="
+"catalog_item.asp?ID="
+"catalog_main.asp?catid="
+"category.asp"
+"category.asp?catid="
+"category_list.asp?id="
+"categorydisplay.asp?catid="
+"checkout.asp?UserID="
+"checkout.asp?cartid="
+"checkout1.asp?cartid="
+"checkout_confirmed.asp?order_id="
+"comersus_listCategoriesAndProducts.asp?idCategory ="
+"comersus_optEmailToFriendForm.asp?idProduct="
+"comersus_optReviewReadExec.asp?idProduct="
+"comersus_viewItem.asp?idProduct="
+"comments_form.asp?ID="
+"contact.asp?cartId="
+"content.asp?id="
+"customerService.asp?TextID1="
+"default.asp?catID="
+"description.asp?bookid="
+"details.asp?BookID="
+"details.asp?Press_Release_ID="
+"details.asp?Product_ID="
+"details.asp?Service_ID="
+"display_item.asp?id="
+"displayproducts.asp"
+"downloadTrial.asp?intProdID="
+"emailToFriend.asp?idProduct="
+"emailproduct.asp?itemid="
+"events.asp?ID="
+"faq.asp?cartID="
+"faq_list.asp?id="
+"faqs.asp?id="
+"feedback.asp?title="
+"folder.php?id="
+"freedownload.asp?bookid="
+"fullDisplay.asp?item="
+"getbook.asp?bookid="
+"giftDetail.asp?id="
+"help.asp?CartId="
+"home.asp?id="
+"id=" & intext:"Warning: Unknown()
+"id=" & intext:"Warning: array_merge()
+"id=" & intext:"Warning: filesize()
+"id=" & intext:"Warning: getimagesize()
+"id=" & intext:"Warning: ilesize()
+"id=" & intext:"Warning: is_writable()
+"id=" & intext:"Warning: mysql_fetch_array()
+"id=" & intext:"Warning: mysql_fetch_assoc()
+"id=" & intext:"Warning: mysql_num_rows()
+"id=" & intext:"Warning: mysql_query()
+"id=" & intext:"Warning: mysql_result()
+"id=" & intext:"Warning: pg_exec()
+"id=" & intext:"Warning: preg_match()
+"id=" & intext:"Warning: require()
+"id=" & intext:"Warning: session_start()
+"index.asp?ID="
+"index.asp?cart="
+"index.asp?cartID="
+"index.php?Language="
+"index.php?body="
+"index.php?canal="
+"index.php?go="
+"index.php?langc="
+"index.php?screen="
+"index1.php?="
+"index1.php?choix="
+"index1.php?menu="
+"index2.php?DoAction="
+"index2.php?ascii_seite="
+"index2.php?p=" 
+"info.asp?ID="
+"item.asp?eid="
+"item.asp?item_id="
+"item.asp?itemid="
+"item.asp?model="
+"item.asp?prodtype="
+"item.asp?shopcd="
+"itemDesc.asp?CartId="
+"item_details.asp?catid="
+"item_list.asp?maingroup"
+"item_show.asp?code_no="
+"itemdetail.asp?item="
+"itemdetails.asp?catalogid="
+"kb_constants.php?module_root_path="
+"learnmore.asp?cartID="
+"lib/gore.php?libpath="
+"links.asp?catid="
+"list.asp?bookid="
+"listcategoriesandproducts.asp?idCategory="
+"modline.asp?id="
+"myaccount.asp?catid="
+"news.asp?id="
+"order.asp?BookID="
+"order.asp?id="
+"order.asp?item_ID="
+"page.asp?PartID="
+"pages.php?page="
+"payment.asp?CartID="
+"pdetail.asp?item_id="
+"powersearch.asp?CartId="
+"price.asp"
+"privacy.asp?cartID="
+"prodView.asp?idProduct="
+"prodbycat.asp?intCatalogID="
+"prodetails.asp?prodid="
+"prodlist.asp?catid="
+"product.asp?bookID="
+"product.asp?intProdID="
+"productDetails.asp?idProduct="
+"productDisplay.asp"
+"product_info.asp?item_id="
+"productinfo.asp?item="
+"productlist.asp?ViewType=Category&CategoryID= "
+"productpage.asp"
+"products.asp?ID="
+"products.asp?keyword="
+"productsByCategory.asp?intCatalogID="
+"products_category.asp?CategoryID="
+"products_detail.asp?CategoryID="
+"promo.asp?id="
+"promotion.asp?catid="
+"pview.asp?Item="
+"resellers.asp?idCategory="
+"results.asp?cat="
+"savecart.asp?CartId="
+"search.asp?CartID="
+"searchcat.asp?search_id="
+"shippinginfo.asp?CartId="
+"shop.asp?a="
+"shop.asp?action="
+"shop.asp?bookid="
+"shop.asp?cartID="
+"shop_details.asp?prodid="
+"shopaddtocart.asp"
+"shopaddtocart.asp?catalogid="
+"shopbasket.asp?bookid="
+"shopbycategory.asp?catid="
+"shopcart.asp?title="
+"shopcreatorder.asp"
+"shopcurrency.asp?cid="
+"shopdc.asp?bookid="
+"shopdisplaycategories.asp"
+"shopdisplayproduct.asp?catalogid="
+"shopdisplayproducts.asp"
+"shopexd.asp"
+"shopexd.asp?catalogid="
+"shopping_basket.asp?cartID="
+"shopprojectlogin.asp"
+"shopquery.asp?catalogid="
+"shopremoveitem.asp?cartid="
+"shopreviewadd.asp?id="
+"shopreviewlist.asp?id="
+"shoptellafriend.asp?id="
+"shopthanks.asp"
+"shopwelcome.asp?title="
+"show.php?page="
+"showStore.asp?catID="
+"show_item.asp?id="
+"show_item_details.asp?item_id="
+"showbook.asp?bookid="
+"shprodde.asp?SKU="
+"specials.asp?id="
+"store-details.asp?id="
+"store.asp?id="
+"store_bycat.asp?id="
+"store_listing.asp?id="
+"storefront.asp?id="
+"storefronts.asp?title="
+"storeitem.asp?item="
+"subcategories.asp?id="
+"tek9.asp?"
+"template.asp?Action=Item&pid="
+"template.php?goto="
+"topic.asp?ID="
+"tuangou.asp?bookid="
+"type.asp?iType="
+"updatebasket.asp?bookid="
+"updates.asp?ID="
+"video.php?content="
+"view.asp?cid="
+"view.php?page="
+"viewCart.asp?userID="
+"viewCat_h.asp?idCategory="
+"viewPrd.asp?idcategory="
+"view_cart.asp?title="
+"view_detail.asp?ID="
+"viewcart.asp?CartId="
+"viewevent.asp?EventID="
+"viewitem.asp?recor="
+"voteList.asp?item_ID="
+"whatsnew.asp?idCategory="
+*.php?catch=
+*.php?f=
+*.php?go=
+*.php?include=
+*.php?inf=
+*.php?layout=
+*.php?load=
+*.php?loc=
+*.php?locate=
+*.php?mode=
+*.php?naam=
+*.php?name=
+*.php?pg=
+*.php?place=
+*.php?secc=
+*.php?sel=
+*.php?session=&content=
+*/newbb/print.php?forum=*topic_id=*"
+*/newbb_plus/*="
+*/news/archive.php?op=*year=*month=*"
+*/tsep/include/colorswitch.php?tsep_config[absPath]=*"
+*coppercop/theme.php?THEME_DIR= 
+*default.php?body=
+*default.php?body= 
+*default.php?page=
+*default.php?page= 
+*inc*.php?addr=
+*inc*.php?adresa=
+*inc*.php?base_dir=
+*inc*.php?body=
+*inc*.php?c=
+*inc*.php?category=
+*inc*.php?doshow=
+*inc*.php?ev=
+*inc*.php?get=
+*inc*.php?i=
+*inc*.php?inc=
+*inc*.php?incl=
+*inc*.php?include=
+*inc*.php?j=
+*inc*.php?k=
+*inc*.php?ki=
+*inc*.php?left=
+*inc*.php?link=
+*inc*.php?m=
+*inc*.php?menu=
+*inc*.php?modo=
+*inc*.php?open=
+*inc*.php?pg=
+*inc*.php?rub=
+*inc*.php?showpage=
+*inc*.php?sivu=
+*inc*.php?start=
+*inc*.php?str=
+*inc*.php?to=
+*inc*.php?type=
+*inc*.php?y=
+*inc/header.php/step_one.php?server_inc= 
+*inc/pipe.php?HCL_path= 
+*include/new-visitor.inc.php?lvc_include_dir= 
+*include/write.php?dir= 
+*includes/header.php?systempath= 
+*index.php?arquivo=
+*index.php?arquivo= 
+*index.php?url=
+*index.php?url= 
+*inst/index.php?lng=../../include/main.inc&G_PATH= 
+*mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]= 
+*pivot/modules/module_db.php?pivot_path= 
+*support/mailling/maillist/inc/initdb.php?absolute_path= 
+*zentrack/index.php?configFile= 
+.br/index.php?loc=
+.gov.br/index.php?arquivo=
+.php?Page_ID="
+.php?S="
+.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path="
+.php?a="
+.php?abrir="
+.php?act="
+.php?action="
+.php?ad="
+.php?archive="
+.php?area="
+.php?article="
+.php?b="
+.php?back="
+.php?base="
+.php?basedir="
+.php?bbs="
+.php?board_no="
+.php?body="
+.php?c="
+.php?cal_dir="
+.php?cat="
+.php?category="
+.php?choice="
+.php?class="
+.php?club_id="
+.php?cod.tipo="
+.php?cod="
+.php?conf="
+.php?configFile="
+.php?cont="
+.php?corpo="
+.php?cvsroot="
+.php?d="
+.php?da="
+.php?date="
+.php?debug="
+.php?debut="
+.php?default="
+.php?destino="
+.php?dir="
+.php?display="
+.php?east="
+.php?f="
+.php?f_content="
+.php?file="
+.php?file_id="
+.php?filepath="
+.php?flash="
+.php?folder="
+.php?for="
+.php?form="
+.php?formatword="
+.php?from="
+.php?funcao="
+.php?function="
+.php?g="
+.php?get="
+.php?go="
+.php?gorumDir="
+.php?goto="
+.php?h="
+.php?headline="
+.php?i="
+.php?inc="
+.php?include="
+.php?includedir="
+.php?inter="
+.php?item_id="
+.php?itemid="
+.php?j="
+.php?join="
+.php?jojo="
+.php?l="
+.php?la="
+.php?lan="
+.php?lang="
+.php?lest="
+.php?link="
+.php?load="
+.php?loc="
+.php?m="
+.php?main="
+.php?meio.php="
+.php?meio="
+.php?menu="
+.php?menuID="
+.php?mep="
+.php?mid="
+.php?month="
+.php?mostra="
+.php?my="
+.php?n="
+.php?name="
+.php?nav="
+.php?new="
+.php?news="
+.php?next="
+.php?nextpage="
+.php?o="
+.php?op="
+.php?open="
+.php?option="
+.php?origem="
+.php?p="
+.php?pageurl="
+.php?para="
+.php?part="
+.php?perm="
+.php?pg="
+.php?pid="
+.php?place="
+.php?play="
+.php?plugin="
+.php?pm_path="
+.php?pollname="
+.php?post="
+.php?pr="
+.php?prefix="
+.php?prefixo="
+.php?q="
+.php?redirect="
+.php?ref="
+.php?refid="
+.php?regionId="
+.php?release="
+.php?release_id="
+.php?return="
+.php?root="
+.php?searchcode_id="
+.php?sec="
+.php?secao="
+.php?sect="
+.php?sel="
+.php?server="
+.php?servico="
+.php?sg="
+.php?shard="
+.php?show="
+.php?sid="
+.php?site="
+.php?sourcedir="
+.php?start="
+.php?storyid="
+.php?str="
+.php?subd="
+.php?subdir="
+.php?subject="
+.php?sufixo="
+.php?systempath="
+.php?t="
+.php?task="
+.php?teste="
+.php?theme_dir="
+.php?thread_id="
+.php?tid="
+.php?title="
+.php?to="
+.php?topic_id="
+.php?type="
+.php?u="
+.php?url="
+.php?urlFrom="
+.php?v="
+.php?var="
+.php?vi="
+.php?view="
+.php?visual="
+.php?wPage="
+.php?y="
+.php?z="
+.php?zo="
+/?p= .php5?id=
+/?pag= .php5?id=
+/?page= .php5?id=
+/?pg= .php5?id=
+/Gery/displayCategory.php?basepath=
+/GradeMap/index.php?page=
+/Popper/index.php?childwindow.inc.php?form=
+/_functions.php?prefix=
+/addpost_newpoll.php?addpoll=preview&thispath=
+/addpost_newpoll.php?addpoll=preview&thispath= "/ubbthreads/"
+/addpost_newpoll.php?addpoll=preview&thispath= "ubbthreads"
+/addpost_newpoll.php?addpoll=preview&thispath= /ubbthreads/
+/addpost_newpoll.php?addpoll=preview&thispath= /ubbthreads/"
+/addpost_newpoll.php?addpoll=preview&thispath= ubbthreads
+/admin/index.php?o= admin/index.php"
+/admin/index.php?o= admin/index.php";
+/admin_modules/admin_module_deldir.inc.php?config[path_src_include]=
+/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path=
+/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path= "com_serverstat"
+/administrator/components/com_serverstat/inst.serverstat.php?mosConfig_absolute_path= com_serverstat
+/administrator/components/com_uhp/uhp_config.php?mosConfig_absolute_path=
+/agendax/addevent.inc.php?agendax_path=
+/app/common/lib/codeBeautifier/Beautifier/Core.php?BEAUT_PATH=
+/application.php?base_path=
+/archive.php?CONFIG[script_path]=
+/ashheadlines.php?pathtoashnews=
+/ashnews.php?pathtoashnews=
+/b2-tools/gm-2-b2.php?b2inc=
+/bb_lib/checkdb.inc.php?libpach=
+/becommunity/community/index.php?pageurl=
+/bz/squito/photolist.inc.php?photoroot=
+/calendar.php?l= calendar.php?l=
+/calendar.php?l= calendar.php?l="
+/calendar.php?p= calendar.php?p=
+/calendar.php?p= calendar.php?p="
+/calendar.php?pg= calendar.php?pg=
+/calendar.php?pg= calendar.php?pg="
+/calendar.php?s= calendar.php?s=
+/calendar.php?s= calendar.php?s="
+/class.mysql.php?path_to_bt_dir=
+/classes.php?LOCAL_PATH=
+/classes/adodbt/sql.php?classes_dir=
+/classes/adodbt/sql.php?classes_dir= "adobt"
+/classes/adodbt/sql.php?classes_dir= "index2.php?option=rss"
+/classes/adodbt/sql.php?classes_dir= /classes/adodbt/sql.php?classes_dir="
+/classes/adodbt/sql.php?classes_dir= adobt
+/classified_right.php?language_dir=
+/classified_right.php?language_dir= "classified.php"
+/classified_right.php?language_dir= "phpbazar"
+/classified_right.php?language_dir= classified.php
+/classified_right.php?language_dir= classified.php phpbazar
+/classified_right.php?language_dir= phpbazar
+/codebb/lang_select?phpbb_root_path= codebb
+/codebb/lang_select?phpbb_root_path= codebb 1.1b3
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]=
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "phpCOIN 1.2.3"
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "phpCOIN"
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= "powered by phpCOIN 1.2.3"
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= phpCOIN
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= phpCOIN 1.2.3
+/coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]= powered by phpCOIN 1.2.3
+/common.php?include_path=
+/components/com_cpg/cpg.php?mosConfig_absolute_path=
+/components/com_cpg/cpg.php?mosConfig_absolute_path= com_cpg" 
+/components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]= com_extcalendar
+/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path=
+/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= "com_extended_registration"
+/components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+/components/com_facileforms/facileforms.frame.php?ff_compath=
+/components/com_facileforms/facileforms.frame.php?ff_compath= "com_facileforms"
+/components/com_facileforms/facileforms.frame.php?ff_compath= com_facileforms
+/components/com_facileforms/facileforms.frame.php?ff_compath= com_facileforms"
+/components/com_forum/download.php?phpbb_root_path= com_forum
+/components/com_mtree/Savant2/Savant2_Plugin_textarea.php?mosConfig_absolute_path=
+/components/com_rsgery/rsgery.html.php?mosConfig_absolute_path=
+/components/com_simpleboard/image_upload.php?sbp= com_simpleboard"
+/components/com_smf/smf.php?mosConfig_absolute_path=
+/components/com_zoom/includes/database.php?mosConfig_absolute_path=
+/components/com_zoom/includes/database.php?mosConfig_absolute_path= "com_zoom"
+/components/com_zoom/includes/database.php?mosConfig_absolute_path= "index.php?option="com_zoom"
+/components/com_zoom/includes/database.php?mosConfig_absolute_path= com_zoom
+/contenido/classes/class.inuse.php
+/content.php?page=
+/contrib/yabbse/poc.php?poc_root_path=
+/coppermine/themes/maze/theme.php?THEME_DIR=
+/cpcommerce/_functions.php?prefix=
+/db.php?path_local=
+/default.php?page=
+/demo/includes/init.php?user_inc=
+/derniers_commentaires.php?rep=
+/e107/e107_handlers/secure_img_render.php?p=
+/eblog/blog.inc.php?xoopsConfig[xoops_url]=
+/embed/day.php?path=
+/embed/day.php?path= "Calendar"
+/embed/day.php?path= "Login to Calendar"
+/embed/day.php?path= "WebCalendar"
+/embed/day.php?path= Calendar
+/embed/day.php?path= Login to Calendar
+/embed/day.php?path= WebCalendar
+/embed/day.php?path= intitle:"Login to Calendar"
+/es/index.php?action=
+/exibir.php?arquivo= .php?arquivo=
+/extensions/moblog/moblog_lib.php?basedir=
+/eyeos/desktop.php?baccio=eyeOptions.eyeapp&a=eyeOptions.eyeapp&_SESSION%5busr%5d=root&_SESSION%5bapps%5d%5beyeOptions.eyeapp%5d%5bwrapup%5d=include($_GET%5ba%5d);&a=
+/eyeos/desktop.php?baccio=eyeOptions.eyeapp&a=eyeOptions.eyeapp&_SESSION%5busr%5d=root&_SESSION%5bapps%5d%5beyeOptions.eyeapp%5d%5bwrapup%5d=system($cmd);&cmd=id
+/forum/admin/index.php?inc_conf=
+/forum/inst.php?phpbb_root_dir=
+/functions.php?include_path=
+/gnu/index.php?doc=
+/gnu3/index.php?doc=
+/hcl/inc/pipe.php?HCL_path=
+/header.php?abspath=
+/header.php?abspath= "MobilePublisherPHP"
+/header.php?abspath= MobilePublisherPHP
+/help/faq/inc/pipe.php?HCL_path=
+/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHP Ged View
+/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHP GedView
+/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHPGedView
+/help_text_vars.php?cmd=dir&PGV_BASE_DIRECTORY= PHPGedView <= 3.3.7
+/help_text_vars.php?dir&PGV_BASE_DIRECTORY=
+/helpcenter/inc/pipe.php?HCL_path=
+/html&highlight=%2527.include($_GET[a]),exit.%2527&a=
+/html/page.php?page=
+/htmltonuke.php?filnavn=
+/inc/authform.inc.php?path_pre=
+/inc/irayofuncs.php?irayodirhack= "/inc/"
+/inc/pipe.php?HCL_path=
+/inc/shows.inc.php?cutepath=
+/include/authform.inc.php?path_pre=
+/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+/include/init.inc.php?CPG_M_DIR="
+/include/livre_include.php?no_connect=lol&chem_absolu=
+/include/main.php?config[search_disp]=true&include_dir=
+/include/new-visitor.inc.php?lvc_include_dir=
+/include/write.php?dir=
+/includes/calendar.php?phpc_root_path=
+/includes/dbal.php?eqdkp_root_path=
+/includes/dbal.php?eqdkp_root_path= "EQdkp"
+/includes/dbal.php?eqdkp_root_path= "powered by EQdkp"
+/includes/dbal.php?eqdkp_root_path= EQdkp
+/includes/dbal.php?eqdkp_root_path= powered by EQdkp
+/includes/functions_portal.php?phpbb_root_path=
+/includes/header.php?systempath=
+/includes/include_once.php?include_file=
+/includes/include_onde.php?include_file=
+/includes/kb_constants.php?module_root_path=
+/includes/kb_constants.php?module_root_path= "Base"
+/includes/kb_constants.php?module_root_path= "Knowledge Base"
+/includes/kb_constants.php?module_root_path= "Knowledge"
+/includes/kb_constants.php?module_root_path= "Powered by Knowledge Base"
+/includes/kb_constants.php?module_root_path= Base
+/includes/kb_constants.php?module_root_path= Knowledge
+/includes/kb_constants.php?module_root_path= Knowledge Base
+/includes/kb_constants.php?module_root_path= Powered by Knowledge Base
+/includes/mx_functions_ch.php?phpbb_root_path="
+/includes/orderSuccess.inc.php?glob=1&cart_order_id=1&glob[rootDir]=
+/includes/setup.php?phpc_root_path=
+/index.inc.php?PATH_Includes=
+/index.php/main.php?x=
+/index.php?L2=
+/index.php?TWC=
+/index.php?_REQUEST=&_REQUEST[option]=com_content&_REQUEST[Itemid]=1&GLOBALS=&mosConfig_absolute_path=
+/index.php?action=
+/index.php?babInstPath=
+/index.php?cat=
+/index.php?cms= /index.php?cms=
+/index.php?cms= /index.php?cms="
+/index.php?conteudo=
+/index.php?dn= .php?dn=
+/index.php?dn= .php?dn="
+/index.php?dn= /index.php?dn=
+/index.php?dn= index.php?dn="
+/index.php?file=
+/index.php?file= site:*.dk
+/index.php?from_market=Y&pageurl=
+/index.php?id=&lang= .php?id="
+/index.php?id=&lang= index.php?id="
+/index.php?id=&page= .php?id="
+/index.php?id=&page= index.php?id="
+/index.php?inc=
+/index.php?include=
+/index.php?inter_url=
+/index.php?lang=en&cat= .php?lang="
+/index.php?lang=en&cat= index.php?lang="
+/index.php?lang=en&page= .php?lang=
+/index.php?lang=en&page= .php?lang="
+/index.php?lang=en&page= index.php?lang=
+/index.php?lang=en&page= index.php?lang="
+/index.php?level=
+/index.php?ln= .php?ln=
+/index.php?loc= .php?loc=
+/index.php?loc= .php?loc="
+/index.php?loc=&cat= .php?loc="
+/index.php?loc=&cat= index.php?loc="
+/index.php?loc=&lang= .php?loc="
+/index.php?loc=&lang= index.php?loc="
+/index.php?loc=&page= index.php?loc="
+/index.php?loc=start&page= index.php?loc="
+/index.php?main=
+/index.php?menu=
+/index.php?myContent=
+/index.php?open=
+/index.php?page=
+/index.php?page= site:*.dk
+/index.php?pagina=
+/index.php?pg=
+/index.php?sec=
+/index.php?seccion= .php?seccion=
+/index.php?seccion= /index.php?seccion=
+/index.php?seite= .php?seite=
+/index.php?seite= /index.php?seite=
+/index.php?show=
+/index.php?site=
+/index.php?slang= ".php?slang="
+/index.php?slang= "index.php?slang="
+/index.php?slang= .php?slang=
+/index.php?slang= /index.php?slang=
+/index.php?vis= .php?vis=
+/index.php?vis= /index.php?vis=
+/index.php?visualizar=
+/index.php?x=
+/index.php?z=
+/index1.php?link=
+/index1.php?ln= .php?ln=
+/index1.php?main=
+/index1.php?nav=
+/index1.php?p=
+/index2.php?content=
+/index2.php?menu=
+/index2.php?page=
+/index2.php?x=
+/index4.php?body=
+/interna.php?meio= .php?meio="
+/jaf/index.php?show=
+/jscript.php?my_ms[root]=
+/kietu/index.php?kietu[url_hit]=
+/lib/db/ez_sql.php?lib_path= ttCMS
+/lib/db/ez_sql.php?lib_path= ttCMS <= v4
+/lib/static/header.php?set_menu= iPhoto Album
+/lib/static/header.php?set_menu= iPhotoAlbum
+/lib/static/header.php?set_menu= iPhotoAlbum v1.1
+/library/editor/editor.php?root=
+/library/lib.php?root=
+/live-support/inc/pipe.php?HCL_path=
+/livehelp/inc/pipe.php?HCL_path=
+/login.php?dir=
+/login.php?dir= "login.php?dir="
+/login.php?dir= login.php?dir=
+/main.php?body=
+/main.php?page=
+/main.php?sayfa=
+/main.php?sayfa= "main.php?sayfa="
+/main.php?sayfa= main.php?sayfa=
+/main.php?view=
+/main.php?x=
+/main_site.php?page=
+/mcf.php?content=
+/mcf.php?content= mcf.php"
+/modules.php?name=
+/modules/4nAlbum/public/displayCategory.php?basepath=
+/modules/Forums/admin/admin_styles.php?phpbb_root_path=
+/modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]=
+/modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]="
+/modules/My_eGery/public/displayCategory.php?basepath=
+/modules/PNphpBB2/includes/functions_admin.php?phpbb_root_path=
+/modules/TotalCalendar/about.php?inc_dir=
+/modules/TotalCalendar/about.php?inc_dir= "TotalCalendar"
+/modules/TotalCalendar/about.php?inc_dir= /TotalCalendar
+/modules/TotalCalendar/about.php?inc_dir= TotalCalendar
+/modules/agendax/addevent.inc.php?agendax_path=
+/modules/coppermine/include/init.inc.php?CPG_M_DIR=
+/modules/coppermine/themes/coppercop/theme.php?THEME_DIR=
+/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine
+/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine                                                                                                  
+/modules/coppermine/themes/default/theme.php?THEME_DIR=
+/modules/kernel/system/startup.php?CFG_PHPGIGGLE_ROOT= CFG_PHPGIGGLE_ROOT
+/modules/mod_mainmenu.php?mosConfig_absolute_path=
+/modules/newbb_plus/class/forumpollrenderer.php?bbPath[path]=
+/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= "PostGuestbook 0.6.1"
+/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= "PostGuestbook"
+/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= PostGuestbook
+/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= PostGuestbook 0.6.1
+/modules/postguestbook/styles/internal/header.php?tpl_pgb_moddir= PostGuestbook"
+/modules/vwar/admin/admin.php?vwar_root=
+/modules/vwar/admin/admin.php?vwar_root= "vwar"
+/modules/vwar/admin/admin.php?vwar_root= vwar
+/modules/vwar/admin/admin.php?vwar_root=index.php?loc=
+/modules/xgery/upgrade_album.php?GERY_BASEDIR=
+/modules/xoopsgery/upgrade_album.php?GERY_BASEDIR=
+/myPHPCalendar/admin.php?cal_dir=
+/mylinks/include/footer.inc.php?_AMLconfig[cfg_serverpath]=
+/mylinks/include/info.inc.php?_AMVconfig[cfg_serverpath]=
+/osticket/include/main.php?config[search_disp]=true&include_dir=
+/page.php?view=
+/paginedinamiche/main.php?pagina=
+/palportal/index.php?page= /palportal/
+/palportal/index.php?page= pal portal
+/phorum/plugin/replace/plugin.php?PHORUM[settings_dir]=
+/photoalb/lib/static/header.php?set_menu=
+/phpcoin/config.php?_CCFG[_PKG_PATH_DBSE]=
+/phpgwapi/setup/tables_update.inc.php?appdir=
+/phplivehelper/initiate.php?abs_path=
+/phpopenchat/contrib/yabbse/poc.php?sourcedir=
+/pivot/modules/module_db.php?pivot_path=
+/pm/lib.inc.php?pm_path=
+/poll/admin/common.inc.php?base_path=
+/pollvote/pollvote.php?pollname=
+/popup_window.php?site_isp_root=
+/ppa/inc/functions.inc.php?config[ppa_root_path]=
+/read.php?fpage= /read.php?fpage=
+/shoutbox/expanded.php?conf=
+/side/index.php?side=
+/skin/zero_vote/error.php?dir=
+/skin/zero_vote/error.php?dir= "skin/zero_vote/error.php"
+/skin/zero_vote/error.php?dir= skin/zero_vote/error.php
+/sources/functions.php?CONFIG[main_path]=
+/sources/functions.php?CONFIG[main_path]= "(Powered By ScozNews)"
+/sources/functions.php?CONFIG[main_path]= "Powered By ScozNews"
+/sources/functions.php?CONFIG[main_path]= "ScozNews"
+/sources/functions.php?CONFIG[main_path]= (Powered By ScozNews)
+/sources/functions.php?CONFIG[main_path]= Powered By ScozNews
+/sources/functions.php?CONFIG[main_path]= ScozNews
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]=
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= "Aardvark TopSites"
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= "Aardvark"
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= "Powered By Aardvark Topsites PHP 4.2.2"
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= Aardvark
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= Aardvark TopSites
+/sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]= Powered By Aardvark Topsites PHP 4.2.2
+/sources/post.php?fil_config=
+/sources/template.php?CONFIG[main_path]=
+/sources/template.php?CONFIG[main_path]= "(Powered By ScozNews)"
+/sources/template.php?CONFIG[main_path]= "ScozNews"
+/sources/template.php?CONFIG[main_path]= (Powered By ScozNews)
+/sources/template.php?CONFIG[main_path]= Powered By ScozNews
+/sources/template.php?CONFIG[main_path]= ScozNews
+/spid/lang/lang.php?lang_path=
+/squirrelcart/cart_content.php?cart_isp_root=
+/squito/photolist.inc.php?photoroot=
+/static.php?load=
+/support/faq/inc/pipe.php?HCL_path=
+/surveys/survey.inc.php?path=
+/surveys/survey.inc.php?path= "surveys"
+/surveys/survey.inc.php?path= surveys
+/tags.php?BBCodeFile=
+/tags.php?BBCodeFile= "Tagger LE"
+/tags.php?BBCodeFile= "tags.php"
+/tags.php?BBCodeFile= Tagger LE
+/tags.php?BBCodeFile= intitle:"Tagger LE"
+/tags.php?BBCodeFile= intitle:"Tagger LE" tags.php
+/tags.php?BBCodeFile= tags.php
+/temp_eg/phpgwapi/setup/tables_update.inc.php?appdir=
+/template.php?pagina=
+/templates/headline_temp.php?nst_inc=
+/templates/headline_temp.php?nst_inc= "fusion"
+/templates/headline_temp.php?nst_inc= "management"
+/templates/headline_temp.php?nst_inc= "news"
+/templates/headline_temp.php?nst_inc= "system"
+/templates/headline_temp.php?nst_inc= 'fusion"
+/templates/headline_temp.php?nst_inc= fusion
+/templates/headline_temp.php?nst_inc= fusion:news:management:system
+/templates/headline_temp.php?nst_inc= intitle:fusion:news:management
+/templates/headline_temp.php?nst_inc= management
+/templates/headline_temp.php?nst_inc= news
+/templates/headline_temp.php?nst_inc= system
+/templates/mangobery/footer.sample.php?Site_Path= Mangobery
+/templates/mangobery/footer.sample.php?Site_Path= Mangobery 0.5.5
+/templates/mangobery/footer.sample.php?Site_Path= Mangobery-0.5.5
+/tools/send_reminders.php?includedir=
+/tools/send_reminders.php?includedir= "day.php?date="
+/tools/send_reminders.php?includedir= day.php?date=
+/trans/trans.php?trans=&p= .php?trans="
+/trans/trans.php?trans=&page= .php?trans="
+/trans/trans.php?trans=en&page= .php?trans="
+/trans/trans.php?trans=eng&page= .php?trans="
+/trans/trans.php?trans=fr&page= .php?trans="
+/trans/trans.php?trans=ko&page= .php?trans="
+/tutorials/print.php?page=
+/ws/get_events.php?includedir= "/WebCalendar/"
+/ws/get_events.php?includedir= "WebCalendar"
+/ws/get_events.php?includedir= /WebCalendar/
+/ws/get_events.php?includedir= Web Calendar
+/ws/get_events.php?includedir= WebCalendar
+/ws/get_events.php?includedir= WebCalendar v0.9.45
+/ws/get_reminders.php?includedir= WebCalendar
+/ws/get_reminders.php?includedir= WebCalendar v0.9.45
+/ws/login.php?includedir= WebCalendar
+/ws/login.php?includedir= WebCalendar v0.9.45
+/yabbse/Sources/Packages.php?sourcedir=
+/zentrack/index.php?configFile=
+/zipndownload.php?PP_PATH=
+/zipndownload.php?PP_PATH= "PhotoPost PHP 4.6"
+/zipndownload.php?PP_PATH= "PhotoPost PHP"
+/zipndownload.php?PP_PATH= "PhotoPost"
+/zipndownload.php?PP_PATH= "PhotoPostP"
+/zipndownload.php?PP_PATH= "Powered by: PhotoPost PHP 4.6"
+/zipndownload.php?PP_PATH= PhotoPost
+/zipndownload.php?PP_PATH= PhotoPost PHP 4.6
+/zipndownload.php?PP_PATH= Powered by: PhotoPost PHP 4.6
+1. my_egery site:.org
+10. google = kietu/hit_js.php, kietu/hit_js.php
+11. keyword : "Powered by phpBB 2.0.6"
+12. keyword : "powered by CubeCart 3.0.6"
+13. keyword : "powered by paBugs 2.0 Beta 3"
+14. keyword : "powered eyeOs"
+14. powered by AshNews", AshNews atau  /ashnews.php
+15. .php?bodyfile=
+15. keyword : /phorum/login.php
+16. /includes/orderSuccess.inc.php?glob=
+16. ihm.php?p=*
+17. forums.html
+18. /default.php?page=home
+19. /folder.php?id=
+2. xgery site:.org
+20. main.php?pagina=
+21. Key Word: ( Nuke ET Copyright 2004 por Truzone. ) or ( *.edu.*/modules.php?name=myguests ) or ( "powered by MyGuests")
+22. application.php?base_path=
+23. inurlp:hplivehelper
+24. inurlp:hpnuke
+25. key word : "powered by Fantastic News v2.1.2"
+26. keyword: "powered by smartblog" AND ?page=login
+27. /forum/
+28. keyword:"Powered By FusionPHP"
+29. shoutbox/expanded.php filetypep:hp
+3. coppermine site:.org
+30.  /osticket/
+31. keyword : "Powered by iUser"
+32.  "static.php?load="
+33. keyworld : /phpcoin/login.php
+34. keyworld: /phpGedview/login.php site:
+35. /folder.php?id=
+4. 4nAlbum site:.org
+5. inurlP:NphpBB2 site:.org
+6. ihm.php?p=
+7. Keyword : "powered by MyLinks"
+8. /modules.php?name=myguests
+9. /Popper/index.php?
+GradeMap/index.php?page= 
+INURL OR INURL WITH:
+Index.php?id=
+Index.php?id= 
+My_eGery/public/displayCategory.php?basepath=
+My_eGery/public/displayCategory.php?basepath= 
+Packages.php?sourcedir=
+Pageid=
+Productinfo.php?id=
+SQuery/lib/gore.php?libpath=
+SQuery/lib/gore.php?libpath= "/SQuery/"
+Stray-Questions-View.php?num=
+[MyAlbum_DIR]/language.inc.php?langs_dir= [MyAlbum_DIR]
+[Script Path]/admin/index.php?o= admin/index.php"
+[Script Path]/admin/index.php?o= admin/index.php";
+_functions.php?prefix
+_functions.php?prefix=
+aboutbook.php?id=
+account.php?action= .php?action=
+account.php?action= account.php?action=
+account.php?action= iurl:".php?action="
+account.php?action= iurl:"account.php?action="
+accounts.php?command= .php?command="
+addedit.php?root_dir=
+addevent.inc.php?agendax_path=
+addmedia.php?factsfile[$LANGUAGE]= phpGedView
+admin.php?cal_dir=
+admin.php?cal_dir= 
+admin.php?page=
+admin/doeditconfig.php?thispath=../includes&config[path]=
+admin/doeditconfig.php?thispath=../includes&config[path]= "admin"
+admin/index.php?o=
+administrator/components/com_a6mambocredits/admin.a6mambocredits.php?mosConfig_live_site=
+administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path=
+administrator/components/com_comprofiler/plugin.class.php?mosConfig_absolute_path= /tools/send_reminders.php?includedir= day.php?date=
+administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=
+administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=modules/My_eGery/index.php?basepath=
+administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
+administrator/components/com_mgm/help.mgm.php?mosConfig_absolute_path=
+administrator/components/com_peoplebook/param.peoplebook.php?mosConfig_absolute_path=
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path=
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "Mambo"
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository"
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= /com_remository/
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= /tags.php?BBCodeFile=
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= Mambo
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= com_remository
+administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= index.php?option=com_remository
+administrator/components/com_webring/admin.webring.docs.php?component_dir=
+affich.php?base=
+agendax/addevent.inc.php?agendax_path=
+agendax/addevent.inc.php?agendax_path= 
+ages.php?id=
+akocomments.php?mosConfig_absolute_path=
+al_initialize.php?alpath=
+album_portal.php?phpbb_root_path=
+album_portal.php?phpbb_root_path= 
+announce.php?id=
+announcements.php?phpraid_dir= "phpraid signup"
+announcements.php?phpraid_dir= "phpraid"
+announcements.php?phpraid_dir= php raid
+announcements.php?phpraid_dir= phpraid
+announcements.php?phpraid_dir= phpraid signup
+app/webeditor/login.cgi?username=&command=simple&do=edit&password=&file=
+arg.php?arg= .php?arg=
+args.php?arg= .php?arg=
+arquivo.php?data=
+art.php?idm=
+article.php?ID=
+article.php?id=
+article.php?sid=
+articles.cgi?a=34&t=
+artikelinfo.php?id=
+atom.php5?page= .php5?id=
+auktion.pl?menue=
+auto.php?inc= .php?inc="
+auto.php?page= auto.php?page=
+avatar.php?page=
+avd_start.php?avd=
+band_info.php?id=
+base.php?*
+base.php?*[*]*=
+base.php?abre=
+base.php?adresa=
+base.php?base_dir=
+base.php?basepath=
+base.php?body=
+base.php?category=
+base.php?chapter=
+base.php?choix=
+base.php?cont=
+base.php?disp=
+base.php?doshow=
+base.php?ev=
+base.php?eval=
+base.php?f1= .php?f1="
+base.php?f1= base.php?f1="
+base.php?filepath=
+base.php?home=
+base.php?id=
+base.php?incl=
+base.php?include=
+base.php?ir=
+base.php?itemnav=
+base.php?k=
+base.php?ki=
+base.php?l=
+base.php?lang=
+base.php?link=
+base.php?loc=
+base.php?mid=
+base.php?middle=
+base.php?middlePart=
+base.php?module=
+base.php?name=
+base.php?numero=
+base.php?oldal=
+base.php?opcion=
+base.php?pa=
+base.php?pag=
+base.php?pageweb=
+base.php?panel=
+base.php?path=
+base.php?phpbb_root_path=
+base.php?play=
+base.php?pname=
+base.php?rub=
+base.php?seccion=
+base.php?second=
+base.php?seite=
+base.php?sekce=
+base.php?sivu=
+base.php?str=
+base.php?subject=
+base.php?t=
+base.php?texto=
+base.php?to=
+base.php?v=
+base.php?var=
+base.php?w=
+bb_usage_stats/include/bb_usage_stats.php?phpbb_root_path=
+bb_usage_stats/include/bb_usage_stats.php?phpbb_root_path= forum
+becommunity/community/index.php?pageurl=
+becommunity/community/index.php?pageurl= 
+big.php?pathtotemplate=
+biznews.cgi?a=33&t=
+blank.php?OpenPage=
+blank.php?abre=
+blank.php?action=
+blank.php?base_dir=
+blank.php?basepath=
+blank.php?body=
+blank.php?category=
+blank.php?channel=
+blank.php?corpo=
+blank.php?destino=
+blank.php?dir=
+blank.php?filepath=
+blank.php?get=
+blank.php?goFile=
+blank.php?goto=
+blank.php?h=
+blank.php?header=
+blank.php?id=
+blank.php?in=
+blank.php?incl=
+blank.php?ir=
+blank.php?itemnav=
+blank.php?j=
+blank.php?ki=
+blank.php?lang=
+blank.php?left=
+blank.php?link=
+blank.php?loader=
+blank.php?menu=
+blank.php?mod=
+blank.php?name=
+blank.php?o=
+blank.php?oldal=
+blank.php?open=
+blank.php?pa=
+blank.php?page=
+blank.php?pagina=
+blank.php?panel=
+blank.php?path=
+blank.php?phpbb_root_path=
+blank.php?pname=
+blank.php?pollname=
+blank.php?pr=
+blank.php?pre=
+blank.php?pref=
+blank.php?qry=
+blank.php?read=
+blank.php?ref=
+blank.php?rub=
+blank.php?section=
+blank.php?sivu=
+blank.php?sp=
+blank.php?strona=
+blank.php?subject=
+blank.php?t=
+blank.php?url=
+blank.php?var=
+blank.php?where=
+blank.php?xlink=
+blank.php?z=
+board.php?see= .php?see="
+board.php?see= board.php?see="
+book.php5?page= php5?page=
+bp_ncom.php?bnrep=
+buy.php?category=
+calendar.pl?command=login&fromTemplate= 
+canal.php?meio= .php?meio="
+category.php?id=
+ccbill/whereami.cgi?g=ls
+ccbill/whereami.cgi?g=ls 
+cgi-bin/1/cmd.cgi
+cgi-bin/1/cmd.cgi 
+cgi-bin/acart/acart.pl?&page=
+cgi-bin/acart/acart.pl?&page= 
+cgi-bin/awstats.pl?update=1&logfile=
+cgi-bin/awstats.pl?update=1&logfile= 
+cgi-bin/awstats/awstats.pl?configdir
+cgi-bin/awstats/awstats.pl?configdir 
+cgi-bin/bbs/read.cgi?file=
+cgi-bin/bp/bp-lib.pl?g= 
+cgi-bin/bp/bp-lib.pl?g=               
+cgi-bin/hinsts.pl? 
+cgi-bin/hinsts.pl?                    
+cgi-bin/ikonboard.cgi
+cgi-bin/ikonboard.cgi 
+cgi-bin/index.cgi?page=
+cgi-bin/index.cgi?page= 
+cgi-bin/jammail.pl?job=showoldmail&mail=
+cgi-bin/probe.cgi?olddat=
+cgi-bin/quikstore.cgi?category=
+cgi-bin/quikstore.cgi?category= 
+cgi-bin/telnet.cgi 
+cgi-bin/telnet.cgi                                   
+cgi-bin/ubb/ubb.cgi?g=
+cgi-bin/ubb/ubb.cgi?g= 
+cgi-sys/guestbook.cgi?user=cpanel&template=
+channel_id=
+chappies.php?id=
+clanek.php4?id=
+classes/adodbt/sql.php?classes_dir=
+clubpage.php?id=
+cmd.php?arg= .php?arg=
+collectionitem.php?id=
+com_extended_registration
+communique_detail.php?id=
+components/com_artlinks/artlinks.dispnew.php?mosConfig_absolute_path=
+components/com_cpg/cpg.php?mosConfig_absolute_path=
+components/com_extcalendar/admin_events.php?CONFIG_EXT[LANGUAGES_DIR]=
+components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path=
+components/com_extended_registration/registration_detailed.inc.php?mosConfig_absolute_path= com_extended_registration
+components/com_forum/download.php?phpbb_root_path=
+components/com_forum/download.php?phpbb_root_path= "com_forum"
+components/com_geria/geria.html.php?mosConfig_absolute_path=
+components/com_mtree/Savant2/Savant2_Plugin_stylesheet.php?mosConfig_absolute_path=
+components/com_performs/performs.php?mosConfig_absolute_path=
+components/com_performs/performs.php?mosConfig_absolute_path= "com_performs"
+components/com_performs/performs.php?mosConfig_absolute_path= com_performs
+components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path=
+components/com_phpshop/toolbar.phpshop.html.php?mosConfig_absolute_path= "com_phpshop"
+components/com_rsgery/rsgery.html.php?mosConfig_absolute_path=
+components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= com_rsgery
+components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= rs gery
+components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= rsgery
+components/com_rsgery/rsgery.html.php?mosConfig_absolute_path= rsgery.php
+components/com_simpleboard/image_upload.php?sbp=
+components/com_simpleboard/image_upload.php?sbp= com_simpleboard"
+config.php?_CCFG[_PKG_PATH_DBSE]=
+contacts.php?cal_dir=
+contacts.php?cal_dir= 
+contenido.php?sec=
+content.php?inc= .php?inc="
+content.php?page=
+content.php?page= "content.php?page=*.php"
+content.php?seite= .php?seite=
+content.php?seite= content.php?seite=
+convert-date.php?cal_dir=
+convert-date.php?cal_dir= 
+coppercop/theme.php?THEME_DIR=
+coppercop/theme.php?THEME_DIR= 
+csv_db/csv_db.cgi?fil e=file.extention
+curriculum.php?id=
+cyberfolio/portfolio/msg/view.php?av= cyberfolio
+db.php?path_local=
+dbase.php?action= .php?action=
+dbase.php?action= dbase.php
+dbase.php?action= dbase.php?action=
+declaration_more.php?decl_id=
+default.php?*root*=
+default.php?abre=
+default.php?arquivo= .php?arquivo=
+default.php?base_dir=
+default.php?basepath=
+default.php?body=
+default.php?channel=
+default.php?chapter=
+default.php?choix=
+default.php?cmd=
+default.php?cont=
+default.php?destino=
+default.php?e=
+default.php?eval=
+default.php?f=
+default.php?goto=
+default.php?header=
+default.php?id=
+default.php?inc=
+default.php?incl=
+default.php?include=
+default.php?index=
+default.php?ir=
+default.php?itemnav=
+default.php?k=
+default.php?ki=
+default.php?l=
+default.php?left=
+default.php?load=
+default.php?loader=
+default.php?loc=
+default.php?m=
+default.php?menu=
+default.php?menue=
+default.php?mid=
+default.php?mod=
+default.php?module=
+default.php?n=
+default.php?name=
+default.php?nivel=
+default.php?oldal=
+default.php?opcion=
+default.php?option=
+default.php?p=
+default.php?pa=
+default.php?pag=
+default.php?page=
+default.php?page= 
+default.php?page= "/default.php?page=*.php"
+default.php?pageweb=
+default.php?panel=
+default.php?param=
+default.php?play=
+default.php?pr=
+default.php?pre=
+default.php?read=
+default.php?ref=
+default.php?rub=
+default.php?secao=
+default.php?secc=
+default.php?seccion=
+default.php?seite=
+default.php?showpage=
+default.php?sivu=
+default.php?sp=
+default.php?str=
+default.php?strona=
+default.php?t=
+default.php?thispage=
+default.php?tipo=
+default.php?to=
+default.php?type=
+default.php?v=
+default.php?var=
+default.php?vis= .php?vis="
+default.php?x=
+default.php?y=
+default/theme.php?THEME_DIR=
+define.php?term= .php?term="
+deportes.cgi?a=latest&t=
+detail.php?ID=
+detail.php?prod= .php?prod="
+detail.php?prod= detail.php?prod="
+details.php?loc= .php?loc=
+details.php?loc= details.php?loc=
+diganti dengan :
+direct.php?loc= direct.php?loc=
+directions.php?loc= directions.php?loc=
+display.php?f= display.php?f=
+display.php?file= display.php?file=
+display.php?l= display.php?l=
+display.php?lang= display.php?lang=
+display.php?ln= display.php?ln=
+display.php?p= display.php?p=
+display.php?pag= display.php?pag=
+display.php?page= .php?page="
+display.php?page= display.php?page="
+display.php?page=&lang= .php?page="
+display.php?page=&lang= display.php?page="
+display.php?pg= display.php?pg=
+display.php?s= display.php?s=
+display.php?table= .php?table=
+display.php?table= display.php?table=
+displayCategory.php?basepath=
+dork: "Login to Calendar"
+dork: "MobilePublisherPHP"
+dork: "Powered By ScozNews"
+dork: "main.php?sayfa="
+dork: "powered by EQdkp"
+dork: "powered by doodle cart"
+dork: "powered by phpCOIN 1.2.3"
+dork: adobt sitel
+dork: mcf.php"
+dork: surveys
+dotproject/modules/files/index_table.php?root_dir=
+dotproject/modules/files/index_table.php?root_dir= 
+dotproject/modules/projects/addedit.php?root_dir= 
+dotproject/modules/projects/view.php?root_dir= 
+dotproject/modules/projects/vw_files.php?root_dir= 
+dotproject/modules/tasks/addedit.php?root_dir= 
+dotproject/modules/tasks/viewgantt.php?root_dir=
+dotproject/modules/tasks/viewgantt.php?root_dir= 
+down*.php?OpenPage=
+down*.php?action=
+down*.php?addr=
+down*.php?channel=
+down*.php?choix=
+down*.php?cmd=
+down*.php?corpo=
+down*.php?disp=
+down*.php?doshow=
+down*.php?ev=
+down*.php?filepath=
+down*.php?goFile=
+down*.php?home=
+down*.php?in=
+down*.php?inc=
+down*.php?incl=
+down*.php?include=
+down*.php?ir=
+down*.php?lang=
+down*.php?left=
+down*.php?nivel=
+down*.php?oldal=
+down*.php?open=
+down*.php?pa=
+down*.php?pag=
+down*.php?pageweb=
+down*.php?param=
+down*.php?path=
+down*.php?pg=
+down*.php?phpbb_root_path=
+down*.php?pollname=
+down*.php?pr=
+down*.php?pre=
+down*.php?qry=
+down*.php?r=
+down*.php?read=
+down*.php?s=
+down*.php?second=
+down*.php?section=
+down*.php?seite=
+down*.php?showpage=
+down*.php?sp=
+down*.php?strona=
+down*.php?subject=
+down*.php?t=
+down*.php?texto=
+down*.php?to=
+down*.php?u=
+down*.php?url=
+down*.php?v=
+down*.php?where=
+down*.php?x=
+down*.php?z=
+download.php?id=
+download.php?sub= "download.php?sub="
+download.php?sub= download.php?sub=
+downloads_info.php?id=
+e107/e107_handlers/secure_img_render.php?p=
+e107/e107_handlers/secure_img_render.php?p= 
+editor.php?root=
+emsgb/easymsgb.pl?print=
+enc/content.php?Home_Path=
+enc/content.php?Home_Path= "doodle cart"
+enc/content.php?Home_Path= "doodle"
+enc/content.php?Home_Path= "powered by doodle cart"
+enc/content.php?Home_Path= doodle
+enc/content.php?Home_Path= doodle cart
+enc/content.php?Home_Path= powered by doodle cart
+encapscms_PATH/core/core.php?root= encapscms_PATH
+encore/forumcgi/display.cgi?preftemp=temp&page=anonymous&file=
+encore/forumcgi/display.cgi?preftemp=temp&page=anonymous&file= 
+eng.php?img= .php?img=
+eng.php?img= eng.php?img=
+enter.php?a=
+enter.php?abre=
+enter.php?addr=
+enter.php?b=
+enter.php?base_dir=
+enter.php?body=
+enter.php?chapter=
+enter.php?cmd=
+enter.php?content=
+enter.php?e=
+enter.php?ev=
+enter.php?get=
+enter.php?go=
+enter.php?goto=
+enter.php?home=
+enter.php?id=
+enter.php?incl=
+enter.php?include=
+enter.php?index=
+enter.php?ir=
+enter.php?itemnav=
+enter.php?lang=
+enter.php?left=
+enter.php?link=
+enter.php?loader=
+enter.php?menue=
+enter.php?mid=
+enter.php?middle=
+enter.php?mod=
+enter.php?module=
+enter.php?name=
+enter.php?numero=
+enter.php?open=
+enter.php?pa=
+enter.php?page=
+enter.php?pagina=
+enter.php?panel=
+enter.php?path=
+enter.php?pg=
+enter.php?phpbb_root_path=
+enter.php?play=
+enter.php?pname=
+enter.php?pr=
+enter.php?pref=
+enter.php?qry=
+enter.php?r=
+enter.php?read=
+enter.php?ref=
+enter.php?s=
+enter.php?sec=
+enter.php?second=
+enter.php?seite=
+enter.php?sivu=
+enter.php?sp=
+enter.php?start=
+enter.php?str=
+enter.php?strona=
+enter.php?subject=
+enter.php?texto=
+enter.php?thispage=
+enter.php?type=
+enter.php?viewpage=
+enter.php?w=
+enter.php?y=
+event.php?id=
+events.cgi?a=155&t=
+events.cgi?t=
+exibir.php?abre=
+exibir.php?get=
+exibir.php?lang=
+exibir.php?p=
+exibir.php?page=
+expanded.php?conf=
+experts.php?sub= "experts.php?sub="
+experts.php?sub= experts.php?sub=
+faq2.php?id=
+fellows.php?id=
+fiche_spectacle.php?id=
+file.php?action=
+file.php?basepath=
+file.php?body=
+file.php?channel=
+file.php?chapter=
+file.php?choix=
+file.php?cmd=
+file.php?cont=
+file.php?corpo=
+file.php?disp=
+file.php?doshow=
+file.php?ev=
+file.php?eval=
+file.php?get=
+file.php?id=
+file.php?inc=
+file.php?incl=
+file.php?include=
+file.php?index=
+file.php?ir=
+file.php?ki=
+file.php?left=
+file.php?load=
+file.php?loader=
+file.php?middle=
+file.php?modo=
+file.php?n=
+file.php?nivel=
+file.php?numero=
+file.php?oldal=
+file.php?pagina=
+file.php?param=
+file.php?pg=
+file.php?play=
+file.php?pollname=
+file.php?pref=
+file.php?q=
+file.php?qry=
+file.php?ref=
+file.php?seccion=
+file.php?second=
+file.php?showpage=
+file.php?sivu=
+file.php?sp=
+file.php?start=
+file.php?strona=
+file.php?texto=
+file.php?to=
+file.php?type=
+file.php?url=
+file.php?var=
+file.php?viewpage=
+file.php?where=
+file.php?y=
+fileseek.cgi?head=&foot=
+folder.php?id=
+forum.php?act=
+forum.php?seite= .php?seite=
+forum_bds.php?num=
+frag.php?exec= .php?exec="
+frag.php?exec= frag.php"
+frag.php?exec= frag.php?exec="
+frame.php?loc= .php?loc="
+galeri_info.php?l=
+galerie.php?do= .php?do="
+game.php?id=
+games.php?id=
+general.php?abre=
+general.php?addr=
+general.php?adresa=
+general.php?b=
+general.php?base_dir=
+general.php?body=
+general.php?channel=
+general.php?chapter=
+general.php?choix=
+general.php?cmd=
+general.php?content=
+general.php?doshow=
+general.php?e=
+general.php?f=
+general.php?get=
+general.php?goto=
+general.php?header=
+general.php?id=
+general.php?inc=
+general.php?include=
+general.php?ir=
+general.php?itemnav=
+general.php?left=
+general.php?link=
+general.php?menu=
+general.php?menue=
+general.php?mid=
+general.php?middle=
+general.php?modo=
+general.php?module=
+general.php?my=
+general.php?name=
+general.php?nivel=
+general.php?opcion=
+general.php?p=
+general.php?page=
+general.php?pageweb=
+general.php?pollname=
+general.php?pr=
+general.php?pre=
+general.php?qry=
+general.php?read=
+general.php?redirect=
+general.php?ref=
+general.php?rub=
+general.php?secao=
+general.php?seccion=
+general.php?second=
+general.php?section=
+general.php?seite=
+general.php?sekce=
+general.php?sivu=
+general.php?strona=
+general.php?subject=
+general.php?texto=
+general.php?thispage=
+general.php?tipo=
+general.php?to=
+general.php?type=
+general.php?var=
+general.php?w=
+general.php?where=
+general.php?xlink=
+gery.php?*
+gery.php?*[*]*=
+gery.php?abre=
+gery.php?action=
+gery.php?addr=
+gery.php?base_dir=
+gery.php?basepath=
+gery.php?chapter=
+gery.php?cont=
+gery.php?corpo=
+gery.php?disp=
+gery.php?ev=
+gery.php?eval=
+gery.php?filepath=
+gery.php?get=
+gery.php?go=
+gery.php?h=
+gery.php?id=
+gery.php?index=
+gery.php?itemnav=
+gery.php?ki=
+gery.php?left=
+gery.php?loader=
+gery.php?menu=
+gery.php?menue=
+gery.php?mid=
+gery.php?mod=
+gery.php?module=
+gery.php?my=
+gery.php?name=
+gery.php?nivel=
+gery.php?oldal=
+gery.php?open=
+gery.php?option=
+gery.php?pag=
+gery.php?page=
+gery.php?pageweb=
+gery.php?panel=
+gery.php?param=
+gery.php?pg=
+gery.php?phpbb_root_path=
+gery.php?pname=
+gery.php?pollname=
+gery.php?pre=
+gery.php?pref=
+gery.php?qry=
+gery.php?redirect=
+gery.php?ref=
+gery.php?rub=
+gery.php?sec=
+gery.php?secao=
+gery.php?seccion=
+gery.php?seite=
+gery.php?showpage=
+gery.php?sivu=
+gery.php?sp=
+gery.php?strona=
+gery.php?thispage=
+gery.php?tipo=
+gery.php?to=
+gery.php?url=
+gery.php?var=
+gery.php?viewpage=
+gery.php?where=
+gery.php?xlink=
+gery.php?y=
+gery/init.php?HTTP_POST_VARS=
+gery/init.php?HTTP_POST_VARS= 
+glossary.php?term= .php?term="
+grademade/index.php?page=
+h.php?file=
+h.php?page=
+handlinger.php?vis= .php?vis="
+head.php?*
+head.php?*[*]*=
+head.php?abre=
+head.php?adresa=
+head.php?b=
+head.php?base_dir=
+head.php?c=
+head.php?choix=
+head.php?cmd=
+head.php?content=
+head.php?corpo=
+head.php?d=
+head.php?dir=
+head.php?disp=
+head.php?ev=
+head.php?filepath=
+head.php?g=
+head.php?goto=
+head.php?inc=
+head.php?incl=
+head.php?include=
+head.php?index=
+head.php?ir=
+head.php?ki=
+head.php?lang=
+head.php?left=
+head.php?load=
+head.php?loader=
+head.php?loc=
+head.php?middle=
+head.php?middlePart=
+head.php?mod=
+head.php?modo=
+head.php?module=
+head.php?numero=
+head.php?oldal=
+head.php?opcion=
+head.php?pag=
+head.php?pageweb=
+head.php?play=
+head.php?pname=
+head.php?pollname=
+head.php?read=
+head.php?ref=
+head.php?rub=
+head.php?sec=
+head.php?sekce=
+head.php?sivu=
+head.php?start=
+head.php?str=
+head.php?strona=
+head.php?tipo=
+head.php?viewpage=
+head.php?where=
+head.php?y=
+header.php?systempath=
+help.php?css_path=
+historialeer.php?num=
+home.php?a=
+home.php?a= .php?a="
+home.php?a= home.php?a="
+home.php?act= "home.php?act="
+home.php?act= home.php?act=
+home.php?action=
+home.php?addr=
+home.php?arg= .php?arg=
+home.php?base_dir=
+home.php?basepath=
+home.php?body=
+home.php?category=
+home.php?channel=
+home.php?chapter=
+home.php?choix=
+home.php?cmd=
+home.php?content=
+home.php?disp=
+home.php?doshow=
+home.php?e=
+home.php?ev=
+home.php?eval=
+home.php?func= .php?func="
+home.php?g=
+home.php?h=
+home.php?i= "home.php?i="
+home.php?i= home.php?i=
+home.php?in=
+home.php?inc= "home.php?inc="
+home.php?inc= home.php?inc=
+home.php?include=
+home.php?index=
+home.php?ir=
+home.php?itemnav=
+home.php?k=
+home.php?link=
+home.php?ln= .php?ln=
+home.php?loader=
+home.php?loc=
+home.php?ltr= .php?ltr="
+home.php?menu=
+home.php?middle=
+home.php?middlePart=
+home.php?module=
+home.php?my=
+home.php?oldal=
+home.php?opcion=
+home.php?pa=
+home.php?pag= "/home.php?pag=*.php"
+home.php?page=
+home.php?pageweb=
+home.php?pagina=
+home.php?panel=
+home.php?path=
+home.php?play=
+home.php?pollname=
+home.php?pr=
+home.php?pre=
+home.php?qry=
+home.php?read=
+home.php?recipe=
+home.php?redirect=
+home.php?ref=
+home.php?rub=
+home.php?sec=
+home.php?secao=
+home.php?section=
+home.php?seite=
+home.php?sekce=
+home.php?showpage=
+home.php?sit= .php?sit="
+home.php?sp=
+home.php?str=
+home.php?table= .php?table=
+home.php?thispage=
+home.php?tipo=
+home.php?w=
+home.php?where=
+home.php?x=
+home.php?z=
+home1.php?ln= .php?ln=
+home2.php?ln= .php?ln=
+homepage.php?sel=
+hosting_info.php?id=
+html/affich.php?base= 
+htmltonuke.php?filnavn=
+humor.php?id=
+i-m/i-m.cgi?p= 
+ideabox/include.php?gorumDir=
+ideabox/include.php?gorumDir= 
+ihm.php?p=
+image.php?img= .php?img=
+image.php?img= image.php?img=
+images/evil.php?owned= e107
+img.php?loc= .php?loc="
+img.php?loc= img.php?loc="
+impex/ImpExData.php?systempath=
+impex/ImpExData.php?systempath= "vbulletin"
+impex/ImpExData.php?systempath= intext:powered by vbulletin
+impex/ImpExData.php?systempath= powered by vbulletin
+impex/ImpExData.php?systempath= vbulletin
+inc.php?inc= .php?inc="
+inc/cmses/aedating4CMS.php?dir[inc]=
+inc/cmses/aedating4CMS.php?dir[inc]= flashchat site:br bp_ncom.php?bnrep=
+inc/cmses/aedatingCMS.php?dir[inc]=
+inc/cmses/aedatingCMS.php?dir[inc]= "flashchat"
+inc/functions.inc.php?config[ppa_root_path]=
+inc/functions.inc.php?config[ppa_root_path]= "Index - Albums" index.php 
+inc/header.php/step_one.php?server_inc=
+inc/pipe.php?HCL_path=
+inc/session.php?sessionerror=0&lang= inc
+inc/step_one_tables.php?server_inc=
+inc/step_one_tables.php?server_inc= 
+include.php?*
+include.php?*[*]*=
+include.php?adresa=
+include.php?b=
+include.php?basepath=
+include.php?channel=
+include.php?chapter=
+include.php?cmd=
+include.php?cont=
+include.php?content=
+include.php?corpo=
+include.php?destino=
+include.php?dir=
+include.php?eval=
+include.php?filepath=
+include.php?go=
+include.php?goFile=
+include.php?gorumDir=
+include.php?goto=
+include.php?header=
+include.php?in=
+include.php?include=
+include.php?index=
+include.php?ir=
+include.php?ki=
+include.php?left=
+include.php?loader=
+include.php?loc=
+include.php?mid=
+include.php?middle=
+include.php?middlePart=
+include.php?module=
+include.php?my=
+include.php?name=
+include.php?nivel=
+include.php?numero=
+include.php?oldal=
+include.php?option=
+include.php?pag=
+include.php?pageweb=
+include.php?panel=
+include.php?path=
+include.php?phpbb_root_path=
+include.php?play=
+include.php?read=
+include.php?redirect=
+include.php?ref=
+include.php?sec=
+include.php?secao=
+include.php?seccion=
+include.php?second=
+include.php?sivu=
+include.php?tipo=
+include.php?to=
+include.php?u=
+include.php?url=
+include.php?w=
+include.php?x=
+include/editfunc.inc.php?NWCONF_SYSTEM[server_path]=
+include/editfunc.inc.php?NWCONF_SYSTEM[server_path]= intitle:Newswriter
+include/editfunc.inc.php?NWCONF_SYSTEM[server_path]= site:.gr
+include/new-visitor 
+include/new-visitor.inc.php?lvc_include_dir=
+include/new-visitor.inc.php?lvc_include_dir= 
+include/write.php?dir=
+includes/functions.php?phpbb_root_path=
+includes/header.php?systempath=
+includes/header.php?systempath= 
+includes/search.php?GlobalSettings[templatesDirectory]=
+index.php3?act= .php3?act=
+index.php3?act= .php3?act="
+index.php3?act= index.php3?act=
+index.php3?file= .php3?f="
+index.php3?file= .php3?file="
+index.php3?i= index.php3?i=
+index.php3?id= index.php3?id=
+index.php3?l= index.php3?l=
+index.php3?lang= index.php3?lang=
+index.php3?p= index.php3?p=
+index.php3?p= index.php3?p="
+index.php3?p= index.php3?pag="
+index.php3?p= index.php3?page="
+index.php3?p= index.php3?pg="
+index.php3?pag= index.php3?pag=
+index.php3?page= index.php3?page=
+index.php3?pg= index.php3?pg=
+index.php3?s= .php3?s=
+index.php3?s= .php3?s="
+index.php3?s= index.php3?s=
+index.php3?s= index.php3?s="
+index.php4?lang= .php4?lang=
+index.php4?lang= .php4?lang="
+index.php4?lang= index.php4?lang="
+index.php5?lang= .php5?lang="
+index.php5?lang= index.php5?lang=
+index.php5?lang= index.php5?lang="
+index.php?=
+index.php?Language=
+index.php?Load=
+index.php?RP_PATH=
+index.php?RP_PATH= reviewpost
+index.php?_REQUEST=&_REQUEST%5boption%5d=com_content&_REQUEST%5bItemid%5d=1&GLOBALS=&mosConfig_absolute_path=
+index.php?a=
+index.php?a= .php?a="
+index.php?a= index.php?a="
+index.php?acao=
+index.php?acao= .php?acao=
+index.php?acao= index.php?acao=
+index.php?act= "index.php?act="
+index.php?act= index.php?act=
+index.php?action=
+index.php?action= 
+index.php?action= .php?action="
+index.php?action= index.php?action="
+index.php?addr=
+index.php?adresa=
+index.php?arg= .php?arg=
+index.php?arg= index.php?arg=
+index.php?arq=
+index.php?arq= .php?arq=
+index.php?arq= index.php?arq=
+index.php?arquivo=
+index.php?arquivo= .php?arquivo=
+index.php?b=
+index.php?b= index.php?b="
+index.php?ba= index.php?ba="
+index.php?bas= .php?bas="
+index.php?bas= index.php?bas="
+index.php?base_dir=
+index.php?basepath=
+index.php?body=
+index.php?body= "index.php?body="
+index.php?body= index.php?body=
+index.php?c=
+index.php?c= 
+index.php?c= ".php?c="
+index.php?c= "index.php?c="
+index.php?c= .php?c=
+index.php?c= index.php?c=
+index.php?c= index.php?c="
+index.php?cal=
+index.php?cal= ".php?cal="
+index.php?cal= "index.php?cal="
+index.php?cal= .php?cal=
+index.php?cal= index.php?cal=
+index.php?canal=
+index.php?cat=
+index.php?cat= 
+index.php?channel=
+index.php?chapter=
+index.php?cmd=
+index.php?command= .php?command="
+index.php?command= index.php?command="
+index.php?configFile=
+index.php?configFile= 
+index.php?cont=
+index.php?cont= 
+index.php?content=
+index.php?content= 
+index.php?content= .php?content=
+index.php?content= index.php?content=
+index.php?conteudo=
+index.php?d1= .php?d1="
+index.php?d=
+index.php?def= .php?def="
+index.php?def= index.php?def=
+index.php?def= index.php?def="
+index.php?dept=
+index.php?dir=
+index.php?directfile=
+index.php?disp=
+index.php?do=
+index.php?do= 
+index.php?doc=
+index.php?document=
+index.php?dok= .php?dok="
+index.php?dok= index.php?dok="
+index.php?dsp=
+index.php?e=
+index.php?e= index.php?e="
+index.php?ev=
+index.php?exec= .php?exec=
+index.php?exec= index.php?exec=
+index.php?f1= .php?f1="
+index.php?f=
+index.php?f= index.php?f="
+index.php?fPage= .php?fPage=
+index.php?fPage= .php?fPage="
+index.php?fPage= index.php?fPage=
+index.php?fPage= index.php?fPage="
+index.php?fase= .php?fase="
+index.php?fase= index.php?fase="
+index.php?file=
+index.php?file= index.php?file="
+index.php?filename=
+index.php?filepath=
+index.php?fn= .php?fn="
+index.php?fn= index.php?fn="
+index.php?fset= .php?fset="
+index.php?func= .php?func="
+index.php?funcion=
+index.php?function=custom&custom= custom
+index.php?g=
+index.php?go1= "index.php?go1="
+index.php?go1= index.php?go1=
+index.php?go=
+index.php?go= "index.php?go="
+index.php?go= index.php?go=
+index.php?gorumdir=
+index.php?goto=
+index.php?goto= .php?goto="
+index.php?goto= index.php?goto="
+index.php?h=
+index.php?hl=
+index.php?i=
+index.php?id=
+index.php?id= index.php?id="
+index.php?id=&lang= ".php?id="
+index.php?id=&lang= "index.php?id="
+index.php?id=1&lang= ".php?id="
+index.php?id=1&lang= "index.php?id="
+index.php?id=1&lang= index.php?i=
+index.php?id=1&lang= index.php?id=
+index.php?inc=
+index.php?inc= 
+index.php?inc= .php?inc="
+index.php?incl=
+index.php?include=
+index.php?include= 
+index.php?index=
+index.php?inhalt=
+index.php?ir=
+index.php?ir= ".php?ir="
+index.php?j=
+index.php?k=
+index.php?kobr=
+index.php?l=
+index.php?lang=
+index.php?lang= "index.php?lang="
+index.php?lang= index.php?lang=
+index.php?lang=&page= .php?lang=
+index.php?lang=&page= index.php?lang=
+index.php?lang=en&page= .php?lang=
+index.php?lang=en&page= index.php?lang=
+index.php?lang=gr&file
+index.php?langc=
+index.php?lg=
+index.php?lg= "index.php?lg="
+index.php?lg= index.php?lg=
+index.php?link=
+index.php?lk= .php?lk="
+index.php?ll=
+index.php?ln= ".php?ln="
+index.php?ln= "index.php?ln="
+index.php?ln= .php?ln=
+index.php?ln= index.php?ln=
+index.php?lng= "index.php?lng="
+index.php?lng= index.php?lng=
+index.php?lng=../../include/main.inc&G_PATH=
+index.php?lnk=
+index.php?lnk= ".php?lnk="
+index.php?lnk= "index.php?lnk="
+index.php?lnk= .php?lnk=
+index.php?lnk= index.php?lnk=
+index.php?load=
+index.php?loc=
+index.php?loca= .php?loca=
+index.php?loca= index.php?loca=
+index.php?ltr= .php?ltr="
+index.php?ltr= index.php?ltr="
+index.php?lv1=
+index.php?m=
+index.php?m= index.php?m="
+index.php?main= .php?main="
+index.php?meio.php=
+index.php?meio.php= 
+index.php?meio=
+index.php?meio= 
+index.php?meio= .php?meio=
+index.php?meio= .php?meio="
+index.php?meio= index.php?meio=
+index.php?meio= index.php?meio="
+index.php?menu=
+index.php?menu=deti&page=
+index.php?menu=deti&page= index.php?menu=deti&page"
+index.php?mf= .php?mf=
+index.php?mf= .php?mf="
+index.php?mf= index.php?mf=
+index.php?mid=
+index.php?mid= .php?mid=
+index.php?mid= .php?mid="
+index.php?mid= index.php?mid=
+index.php?mid= index.php?mid="
+index.php?middle=
+index.php?middle= .php?middle="
+index.php?middle= index.php?middle=
+index.php?middle= index.php?middle="
+index.php?middlePart=
+index.php?mn= .php?mn="
+index.php?mn= index.php?mn="
+index.php?mod= .php?mod="
+index.php?mod= index.php?mod="
+index.php?mode=
+index.php?modo=
+index.php?module=
+index.php?n=
+index.php?new= index.php?new="
+index.php?news= index.php?news="
+index.php?nic=
+index.php?o=
+index.php?oldal=
+index.php?op=
+index.php?opcao=
+index.php?opcion=
+index.php?open=
+index.php?open= 
+index.php?openfile=
+index.php?option=
+index.php?ort=
+index.php?p=
+index.php?p= 
+index.php?p= "/index.php?p=*.php"
+index.php?p= index.php?p="
+index.php?pag=
+index.php?pag= 
+index.php?pag= "/index.php?pag=*.php"
+index.php?pag= "index.php?pag="
+index.php?pag= index.php?pag=
+index.php?page1= .php?page1="
+index.php?page1= index.php?page1="
+index.php?page=
+index.php?page= 
+index.php?page= "/index.php?page=*.php"
+index.php?page= index.php?page=
+index.php?page= php5?page=
+index.php?page=&lang= .php?p=
+index.php?page=&lang= .php?pag=
+index.php?page=&lang= .php?page=
+index.php?page=&lang= .php?pg=
+index.php?page=&lang= index.php?p=
+index.php?page=&lang= index.php?pag=
+index.php?page=&lang= index.php?page=
+index.php?page=&lang= index.php?pg=
+index.php?pageN= .php?pageN="
+index.php?pagename=
+index.php?pagename= phpquiz
+index.php?pager= .php?pager=
+index.php?pager= index.php?pager=
+index.php?pageurl=
+index.php?pageurl= "index.php?pageurl="
+index.php?pageurl= "index.php?pageurl=*.php
+index.php?pageurl= "index.php?pageurl=*.php"
+index.php?pageurl= index.php?pageurl=*.php
+index.php?pagina1= "index.php?pagina1="
+index.php?pagina1= index.php?pagina1=
+index.php?pagina=
+index.php?pagina= 
+index.php?pagina= "index.php?pagina="
+index.php?pagina= "index.php?pagina=*.php"
+index.php?pagina= index.php?pagina=
+index.php?param=
+index.php?path=
+index.php?pg=
+index.php?pg= "index.php?pg="
+index.php?pg= index.php?pg=
+index.php?pg_ID=
+index.php?pilih=
+index.php?place=
+index.php?play=
+index.php?plugin=
+index.php?pname=
+index.php?pollname=
+index.php?pr=
+index.php?pre=
+index.php?pref=
+index.php?prefix=
+index.php?principal=
+index.php?prod= .php?prod="
+index.php?prod= .php?product="
+index.php?product= .php?prod="
+index.php?product= .php?product="
+index.php?q=
+index.php?r=
+index.php?r= index.php?r="
+index.php?rage=
+index.php?recipe=
+index.php?root_PATH=
+index.php?s=
+index.php?s= "index.php?s="
+index.php?s= .php?s=
+index.php?s= .php?s="
+index.php?s= index.php?s=
+index.php?s= index.php?s="
+index.php?screen=
+index.php?sec=
+index.php?sec= "index.php?sec="
+index.php?sec= index.php?sec=
+index.php?secao=
+index.php?secao= ".php?secao="
+index.php?secao= "index.php?secao="
+index.php?secao= .php?secao=
+index.php?secao= index.php?secao=
+index.php?seite=
+index.php?sekce=
+index.php?sel=
+index.php?select= .php?select=
+index.php?select= .php?select="
+index.php?select= index.php?select=
+index.php?server=
+index.php?set= .php?set=
+index.php?set= .php?set="
+index.php?set= index.php?set=
+index.php?set= index.php?set="
+index.php?sf= index.php?sf="
+index.php?show=
+index.php?show= .php?show="
+index.php?side=
+index.php?sit= .php?sit="
+index.php?sit= index.php?sit="
+index.php?site1= "index.php?site1="
+index.php?site1= index.php?site1=
+index.php?site=
+index.php?site= 
+index.php?site= "index.php?site="
+index.php?site= index.php?site=
+index.php?sivu=
+index.php?sort= .php?sort="
+index.php?spage= .php?spage=
+index.php?spage= .php?spage="
+index.php?spage= index.php?spage=
+index.php?spage= index.php?spage="
+index.php?ss= .php?ss="
+index.php?ss= index.php?ss="
+index.php?st= index.php?st="
+index.php?str=
+index.php?stranica=
+index.php?strona=
+index.php?sub2=
+index.php?sub=
+index.php?sub= ".php?sub="
+index.php?sub= "index.php?sub="
+index.php?sub= "index.php?sub=""
+index.php?sub= .php?sub=
+index.php?sub= index.php?sub=
+index.php?sub= index.php?sub="
+index.php?sub=index.php?id=index.php?t=
+index.php?subp= .php?subp="
+index.php?subp= index.php?subp="
+index.php?subpage= .php?subpage="
+index.php?subpage= index.php?subpage="
+index.php?t=
+index.php?t= index.php?t="
+index.php?table= .php?table=
+index.php?table= index.php?table=
+index.php?task= .php?task=
+index.php?task= index.php?task=
+index.php?template=
+index.php?templateid=
+index.php?term= .php?term="
+index.php?textfield= .php?textfield="
+index.php?theme=
+index.php?theme= .php?theme=
+index.php?theme= index.php?theme=
+index.php?tipo=
+index.php?to=
+index.php?topic=
+index.php?trans= .php?trans="
+index.php?trans= index.php?trans="
+index.php?type=
+index.php?u=
+index.php?u=administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
+index.php?url=
+index.php?v=
+index.php?v= index.php?v="
+index.php?var1= "index.php?var1="
+index.php?var1= index.php?var1=
+index.php?var2= index.php?var2=
+index.php?var=
+index.php?var= "index.php?var1="
+index.php?var= "index.php?var2="
+index.php?var= "index.php?var=*.php"
+index.php?var= index.php?va21=
+index.php?var= index.php?var1=
+index.php?var= index.php?var2=
+index.php?var= index.php?var=
+index.php?var= index.php?var=*.php
+index.php?ver=
+index.php?ver= .php?ver=
+index.php?ver= .php?ver="
+index.php?ver= index.php?ver=
+index.php?ver= index.php?ver="
+index.php?view=
+index.php?visualizar=
+index.php?visualizar= 
+index.php?vpagina=
+index.php?w=
+index.php?way= .php?way=
+index.php?way= index.php?way=
+index.php?where=
+index.php?wpage= .php?wpage="
+index.php?wpage= index.php?wpage="
+index.php?x=
+index.php?x= 
+index.php?x= index.php?mode=index.php?stranica=
+index.php?y=
+index.php?z=
+index.phpmain.php?x=
+index0.php?show=
+index1.php?*
+index1.php?*[*]*=
+index1.php?*root*=
+index1.php?=
+index1.php?= "index1.php?="
+index1.php?= "index1.php?=*.php?
+index1.php?= index1.php?=
+index1.php?OpenPage=
+index1.php?abre=
+index1.php?action=
+index1.php?adresa=
+index1.php?arg= .php?arg=
+index1.php?arq= .php?arq=
+index1.php?b=
+index1.php?body=
+index1.php?c=
+index1.php?chapter=
+index1.php?choix=
+index1.php?cmd=
+index1.php?d=
+index1.php?dat=
+index1.php?dir=
+index1.php?filepath=
+index1.php?func= .php?func="
+index1.php?get=
+index1.php?go=
+index1.php?goFile=
+index1.php?home=
+index1.php?inc= .php?inc="
+index1.php?incl=
+index1.php?itemnav=
+index1.php?l=
+index1.php?link=
+index1.php?lk= .php?lk="
+index1.php?load=
+index1.php?loc=
+index1.php?ltr= .php?ltr="
+index1.php?menu=
+index1.php?mid= index1.php?mid=
+index1.php?mod=
+index1.php?modo=
+index1.php?my=
+index1.php?nivel=
+index1.php?o=
+index1.php?oldal=
+index1.php?op=
+index1.php?p= .php?p="
+index1.php?p= .php?pag="
+index1.php?p= .php?page="
+index1.php?p= .php?pg="
+index1.php?pa=
+index1.php?page= index1.php?page="
+index1.php?pagina=
+index1.php?param=
+index1.php?path=
+index1.php?pg=
+index1.php?pname=
+index1.php?pollname=
+index1.php?pr=
+index1.php?pre=
+index1.php?qry=
+index1.php?read=
+index1.php?recipe=
+index1.php?redirect=
+index1.php?s= index1.php?s="
+index1.php?second=
+index1.php?seite=
+index1.php?sekce=
+index1.php?show= .php?show="
+index1.php?show= index1.php?show="
+index1.php?showpage=
+index1.php?site=
+index1.php?str=
+index1.php?strona=
+index1.php?subject=
+index1.php?t=
+index1.php?table= .php?table=
+index1.php?texto=
+index1.php?tipo=
+index1.php?type=
+index1.php?url=
+index1.php?v=
+index1.php?var=
+index1.php?x=
+index2.php?= "index2.php?="
+index2.php?= "index2.php?=*.php?"
+index2.php?= index2.php?=
+index2.php?DoAction=
+index2.php?ID=
+index2.php?OpenPage=
+index2.php?a=
+index2.php?acao=
+index2.php?action=
+index2.php?adresa=
+index2.php?arg= .php?arg=
+index2.php?arq= .php?arq=
+index2.php?ascii_seite=
+index2.php?b=
+index2.php?base_dir=
+index2.php?basepath=
+index2.php?c=
+index2.php?c= .php?c="
+index2.php?c= index2.php?c="
+index2.php?cal=
+index2.php?category=
+index2.php?channel=
+index2.php?chapter=
+index2.php?choix=
+index2.php?cmd=
+index2.php?cont=
+index2.php?cont= .php?cont="
+index2.php?cont= index2.php?cont="
+index2.php?content=
+index2.php?content= 
+index2.php?content= .php?content=
+index2.php?content= .php?content="
+index2.php?content= index2.php?cont="
+index2.php?content= index2.php?content=
+index2.php?content= index2.php?content="
+index2.php?corpo=
+index2.php?d=
+index2.php?directfile=
+index2.php?doshow=
+index2.php?e=
+index2.php?f=
+index2.php?filepath=
+index2.php?funcion=
+index2.php?g=
+index2.php?get=
+index2.php?gorumdir=
+index2.php?goto=
+index2.php?h=
+index2.php?home=
+index2.php?i=
+index2.php?i= /index2.php?i=
+index2.php?in=
+index2.php?inc=
+index2.php?inc= .php?inc="
+index2.php?incl=
+index2.php?include=
+index2.php?ir=
+index2.php?itemnav=
+index2.php?j=
+index2.php?k=
+index2.php?ki=
+index2.php?l=
+index2.php?l= .php?l="
+index2.php?lang=
+index2.php?language=
+index2.php?left=
+index2.php?lg= index.php?lg="
+index2.php?link=
+index2.php?lk= .php?lk="
+index2.php?ll=
+index2.php?ln= .php?ln="
+index2.php?ln= index.php?ln="
+index2.php?lng= index.php?lng="
+index2.php?lnk=
+index2.php?load=
+index2.php?loader=
+index2.php?loc=
+index2.php?loca= .php?loca=
+index2.php?loca= index2.php?loca=
+index2.php?lv1=
+index2.php?m=
+index2.php?meio= .php?meio=
+index2.php?module=
+index2.php?my=
+index2.php?n=
+index2.php?o=
+index2.php?oldal=
+index2.php?open=
+index2.php?option=
+index2.php?p=
+index2.php?pa=
+index2.php?pag=
+index2.php?pag= "/index2.php?pag=*.php"
+index2.php?param=
+index2.php?path= AKI
+index2.php?pg=
+index2.php?phpbb_root_path=
+index2.php?pname=
+index2.php?pollname=
+index2.php?pre=
+index2.php?pref=
+index2.php?prefix=
+index2.php?q=
+index2.php?qry=
+index2.php?r=
+index2.php?recipe=
+index2.php?redirect=
+index2.php?ref=
+index2.php?root_PATH=
+index2.php?rub=
+index2.php?s=
+index2.php?s= .php?s="
+index2.php?s= index2.php?s="
+index2.php?second=
+index2.php?section=
+index2.php?sekce=
+index2.php?server=
+index2.php?showpage=
+index2.php?strona=
+index2.php?sub2=
+index2.php?sub=
+index2.php?t=
+index2.php?table= .php?table=
+index2.php?texto=
+index2.php?theme=
+index2.php?thispage=
+index2.php?to=
+index2.php?type=
+index2.php?u=
+index2.php?url_page=
+index2.php?v=
+index2.php?var=
+index2.php?x=
+index2.php?x= 
+index2.php?x= .php?x=
+index2.php?x= index2.php?x=
+index2.php?y=
+index2.php?z=
+index2:php?aa=
+index3.php?abre=
+index3.php?addr=
+index3.php?adresa=
+index3.php?base_dir=
+index3.php?body=
+index3.php?channel=
+index3.php?chapter=
+index3.php?choix=
+index3.php?cmd=
+index3.php?d=
+index3.php?destino=
+index3.php?dir=
+index3.php?disp=
+index3.php?ev=
+index3.php?get=
+index3.php?go=
+index3.php?home=
+index3.php?inc=
+index3.php?include=
+index3.php?index=
+index3.php?ir=
+index3.php?itemnav=
+index3.php?left=
+index3.php?link=
+index3.php?loader=
+index3.php?menue=
+index3.php?mid=
+index3.php?middle=
+index3.php?mod=
+index3.php?my=
+index3.php?name=
+index3.php?nivel=
+index3.php?oldal=
+index3.php?open=
+index3.php?option=
+index3.php?p=
+index3.php?pag=
+index3.php?pageweb=
+index3.php?panel=
+index3.php?path=
+index3.php?phpbb_root_path=
+index3.php?pname=
+index3.php?pollname=
+index3.php?pre=
+index3.php?pref=
+index3.php?q=
+index3.php?read=
+index3.php?redirect=
+index3.php?ref=
+index3.php?rub=
+index3.php?secao=
+index3.php?secc=
+index3.php?seccion=
+index3.php?second=
+index3.php?sekce=
+index3.php?showpage=
+index3.php?sivu=
+index3.php?sp=
+index3.php?start=
+index3.php?t=
+index3.php?thispage=
+index3.php?tipo=
+index3.php?type=
+index3.php?url=
+index3.php?var=
+index3.php?x=
+index3.php?xlink=
+index3:php?aa=
+index5.php?body=
+index5.php?cat=
+index5.php?configFile=
+index5.php?cont=
+index5.php?content=
+index5.php?do=
+index5.php?inc=
+index5.php?include=
+index5.php?lang=
+index5.php?language=
+index5.php?lv1=
+index5.php?m=
+index5.php?main=
+index5.php?open=
+index5.php?p=
+index5.php?pag=
+index5.php?page=
+index5.php?pagina=
+index5.php?pg=
+index5.php?root=
+index5.php?site=
+index5.php?visualizar=
+index5.php?x=
+index_principal.php?pagina=
+index_table.php?root_dir=
+info.php?*
+info.php?*[*]*=
+info.php?adresa=
+info.php?base_dir=
+info.php?body=
+info.php?c=
+info.php?chapter=
+info.php?content=
+info.php?doshow=
+info.php?ev=
+info.php?eval=
+info.php?f=
+info.php?filepath=
+info.php?go=
+info.php?header=
+info.php?home=
+info.php?in=
+info.php?incl=
+info.php?ir=
+info.php?itemnav=
+info.php?j=
+info.php?ki=
+info.php?l=
+info.php?ln= .php?ln="
+info.php?ln= info.php?ln=
+info.php?ln= info.php?ln="
+info.php?loader=
+info.php?menue=
+info.php?mid=
+info.php?middlePart=
+info.php?o=
+info.php?oldal=
+info.php?op=
+info.php?opcion=
+info.php?option=
+info.php?pageweb=
+info.php?pagina=
+info.php?param=
+info.php?phpbb_root_path=
+info.php?pname=
+info.php?pref=
+info.php?r=
+info.php?read=
+info.php?recipe=
+info.php?redirect=
+info.php?ref=
+info.php?rub=
+info.php?sec=
+info.php?secao=
+info.php?seccion=
+info.php?start=
+info.php?strona=
+info.php?subject=
+info.php?t=
+info.php?texto=
+info.php?url=
+info.php?var=
+info.php?xlink=
+info.php?z=
+init.inc.php?CPG_M_DIR=
+init.php?HTTP_POST_VARS=
+initdb.php?absolute_path=
+iniziativa.php?in=
+inst/index.php?lng=../../include/main.inc&G_PATH=
+interna/tiny_mce/plugins/ibrowser/ibrowser.php?tinyMCE_imglib_include=
+item_id=
+jobs.cgi?a=9&t=
+kalender.php?vis= .php?vis="
+kalender.php?vis= kalender.php"
+kalender.php?vis= kalender.php?vis="
+kategorie.php4?id=
+labels.php?id=
+lang.php?arg= .php?arg=
+lang.php?arq= .php?arq=
+lang.php?lk= .php?lk="
+lang.php?ln= .php?ln=
+lang.php?subp= .php?sub="
+lang.php?subp= .php?subp="
+lang.php?subpage= .php?subpage="
+latinbitz.cgi?t=
+layout.php?OpenPage=
+layout.php?abre=
+layout.php?action=
+layout.php?addr=
+layout.php?basepath=
+layout.php?c=
+layout.php?category=
+layout.php?chapter=
+layout.php?choix=
+layout.php?cmd=
+layout.php?cont=
+layout.php?disp=
+layout.php?g=
+layout.php?goto=
+layout.php?incl=
+layout.php?ir=
+layout.php?link=
+layout.php?loader=
+layout.php?menue=
+layout.php?modo=
+layout.php?my=
+layout.php?nivel=
+layout.php?numero=
+layout.php?oldal=
+layout.php?opcion=
+layout.php?page=
+layout.php?pageweb=
+layout.php?pagina=
+layout.php?panel=
+layout.php?path=
+layout.php?play=
+layout.php?pollname=
+layout.php?pref=
+layout.php?qry=
+layout.php?secao=
+layout.php?section=
+layout.php?seite=
+layout.php?sekce=
+layout.php?strona=
+layout.php?thispage=
+layout.php?tipo=
+layout.php?url=
+layout.php?var=
+layout.php?where=
+layout.php?xlink=
+layout.php?z=
+lc.cgi?a=
+lib.inc.php?pm_path=
+lib.php?root=
+lib/gore.php?libpath=
+library/editor/editor.php?root=
+library/editor/editor.php?root= 
+library/lib.php?root=
+library/lib.php?root= 
+link.php?do= .php?do="
+list.php?product= .php?product=
+list.php?table= .php?table=
+llindex.php?sub=
+ln.php?ln= .php?ln=
+loadpsb.php?id=
+loc.php?l= .php?l="
+loc.php?l= .php?loc="
+loc.php?lang= .php?lang="
+loc.php?lang= .php?loc="
+loc.php?loc= .php?loc="
+loc.php?loc= loc.php?loc="
+login.php?dir=
+login.php?loca= .php?loca=
+look.php?ID=
+m2f/m2f_phpbb204.php?m2f_root_path=
+m2f/m2f_phpbb204.php?m2f_root_path= /m2f_usercp.php?
+magazine.php?inc= .php?inc="
+mai.php?act= mai.php?act=
+mai.php?act= mai.php?act="
+mai.php?loc= mai.php?loc=
+mai.php?loc= mai.php?loc="
+mai.php?src= mai.php?src=
+mai.php?src= mai.php?src="
+main.html.php?seite= .php?seite=
+main.php3?act= .php3?act="
+main.php3?act= main.php3?act="
+main.php5?page= .php5?id=
+main.php?a= .php?a="
+main.php?action=
+main.php?addr=
+main.php?adresa=
+main.php?arg= .php?arg=
+main.php?ba= .php?ba="
+main.php?ba= main.php?ba="
+main.php?basepath=
+main.php?body=
+main.php?category=
+main.php?chapter=
+main.php?command= .php?command="
+main.php?command= main.php?command="
+main.php?content=
+main.php?corpo=
+main.php?d1= .php?d1="
+main.php?d1= main.php?d1="
+main.php?dir=
+main.php?disp=
+main.php?doshow=
+main.php?e=
+main.php?eval=
+main.php?f1= .php?f1="
+main.php?filepath=
+main.php?fset= .php?fset="
+main.php?goto=
+main.php?h=
+main.php?id=
+main.php?id= "main.php?id=*.php"
+main.php?inc=
+main.php?inc= .php?inc="
+main.php?include=
+main.php?index=
+main.php?ir=
+main.php?itemnav=
+main.php?j=
+main.php?link=
+main.php?ln= .php?ln=
+main.php?load=
+main.php?loc=
+main.php?ltr= .php?ltr="
+main.php?middle=
+main.php?mod=
+main.php?my=
+main.php?name=
+main.php?oldal=
+main.php?opcion=
+main.php?page=
+main.php?page= 
+main.php?page= "/main.php?page=*.php"
+main.php?pagina=
+main.php?param=
+main.php?path=
+main.php?pg=
+main.php?pname=
+main.php?pre=
+main.php?pref=
+main.php?r=
+main.php?ref=
+main.php?s= .php?s=
+main.php?s= .php?s="
+main.php?s= main.php?s=
+main.php?s= main.php?s="
+main.php?second=
+main.php?section=
+main.php?sit= .php?sit="
+main.php?site=
+main.php?start=
+main.php?str=
+main.php?strona=
+main.php?subject=
+main.php?table= .php?table=
+main.php?thispage=
+main.php?tipo=
+main.php?type=
+main.php?url=
+main.php?v=
+main.php?vis= .php?vis="
+main.php?vis= main.php?vis=
+main.php?vis= main.php?vis="
+main.php?where=
+main.php?x=
+main.php?x= 
+main.php?xlink=
+main1.php?arg= .php?arg=
+main1.php?ln= .php?ln=
+main2.php?ln= .php?ln=
+mainfile.php?MAIN_PATH=
+mainfile.php?MAIN_PATH= 
+map.php?loc= map.php?loc=
+material.php?id=
+mcf.php?content= "mcf.php"
+mcf.php?content= mcf.php
+mcf.php?content= mcf.php"
+media.cgi?a=11&t=
+media.php?page=
+memberInfo.php?id=
+middle.php?file= ".php?file="
+middle.php?file= ".php?page="
+middle.php?file= "middle.php?file="
+middle.php?file= "middle.php?page="
+middle.php?file= .php?file=
+middle.php?file= .php?page=
+middle.php?file= middle.php?file=
+middle.php?file= middle.php?page=
+middle.php?page= ".php?page="
+middle.php?page= "middle.php?page="
+middle.php?page= .php?page=
+middle.php?page= middle.php?page=
+misc.php?do= .php?do="
+mod*.php?OpenPage=
+mod*.php?action=
+mod*.php?addr=
+mod*.php?b=
+mod*.php?channel=
+mod*.php?chapter=
+mod*.php?choix=
+mod*.php?cont=
+mod*.php?content=
+mod*.php?corpo=
+mod*.php?d=
+mod*.php?destino=
+mod*.php?dir=
+mod*.php?ev=
+mod*.php?goFile=
+mod*.php?home=
+mod*.php?incl=
+mod*.php?include=
+mod*.php?index=
+mod*.php?ir=
+mod*.php?j=
+mod*.php?lang=
+mod*.php?link=
+mod*.php?m=
+mod*.php?middle=
+mod*.php?module=
+mod*.php?numero=
+mod*.php?oldal=
+mod*.php?pag=
+mod*.php?pageweb=
+mod*.php?pagina=
+mod*.php?path=
+mod*.php?pg=
+mod*.php?phpbb_root_path=
+mod*.php?play=
+mod*.php?pname=
+mod*.php?pre=
+mod*.php?qry=
+mod*.php?recipe=
+mod*.php?secao=
+mod*.php?secc=
+mod*.php?seccion=
+mod*.php?section=
+mod*.php?sekce=
+mod*.php?start=
+mod*.php?strona=
+mod*.php?thispage=
+mod*.php?tipo=
+mod*.php?to=
+mod*.php?v=
+mod*.php?var=
+mod.php?mod=
+mod.php?mod= .php?mod="
+mod.php?mod= mod.php?mod="
+mod_mainmenu.php?mosConfig_absolute_path=
+modul.php?mod= .php?mod="
+modul.php?mod= modul.php?mod="
+module.php?mod= .php?mod="
+module.php?mod= module.php?mod="
+module_db.php?pivot_path=
+module_db.php?pivot_path= module_db.php?pivot_path="
+modules.php?op=
+modules/4nAlbum/public/displayCategory.php?basepath=
+modules/4nAlbum/public/displayCategory.php?basepath= 
+modules/MyGuests/signin.php?_AMGconfig[cfg_serverpath]=
+modules/My_eGery/index.php?basepath=
+modules/My_eGery/public/displayCategory.php?basepath=
+modules/My_eGery/public/displayCategory.php?basepath= 
+modules/agendax/addevent.inc.php?agendax_path=
+modules/agendax/addevent.inc.php?agendax_path= 
+modules/coppermine/include/init.inc.php?CPG_M_DIR=
+modules/coppermine/include/init.inc.php?CPG_M_DIR= 
+modules/coppermine/themes/coppercop/theme.php?THEME_DIR=
+modules/coppermine/themes/default/theme.php?THEME_DIR=
+modules/coppermine/themes/default/theme.php?THEME_DIR= 
+modules/mod_mainmenu.php?mosConfig_absolute_path= 
+modules/tasks/viewgantt.php?root_dir= 
+modules/vwar/admin/admin.php?vwar_root=
+modules/xgery/upgrade_album.php?GERY_BASEDIR=
+modules/xgery/upgrade_album.php?GERY_BASEDIR= 
+modules/xoopsgery/upgrade_album.php?GERY_BASEDIR=
+modules/xoopsgery/upgrade_album.php?GERY_BASEDIR= 
+more.php?sub= "more.php?sub="
+more.php?sub= more.php?sub=
+mwchat/libs/start_lobby.php?CONFIG[MWCHAT_Libs]=
+myPHPCalendar/admin.php?cal_dir=
+myPHPCalendar/admin.php?cal_dir= 
+myevent.php?myevent_path=
+nav.php?g= "nav.php?g="
+nav.php?g= nav.php?g=
+nav.php?go= "nav.php?go="
+nav.php?go= nav.php?go=
+nav.php?lk= .php?lk="
+nav.php?ln= .php?ln=
+nav.php?loc= .php?loc=
+nav.php?loc= nav.php
+nav.php?loc= nav.php?loc=
+nav.php?nav= "nav.php?nav="
+nav.php?nav= nav.php?nav=
+nav.php?p= "nav.php?p="
+nav.php?p= nav.php?p=
+nav.php?pag= "nav.php?pag="
+nav.php?pag= nav.php?pag=
+nav.php?page= "nav.php?page="
+nav.php?page= nav.php?page=
+nav.php?pagina= "nav.php?pagina="
+nav.php?pagina= nav.php?pagina=
+nav.php?pg= "nav.php?pg="
+nav.php?pg= nav.php?pg=
+new-visitor.inc.php?lvc_include_dir=
+news-full.php?id=
+news.cgi?a=114&t=
+news.cgi?a=latest&t=
+news.cgi?t=
+news.php?CONFIG[script_path]=
+news.php?id=
+newsDetail.php?id=
+news_detail.php?file=
+news_display.php?getid=
+news_view.php?id=
+newscat.php?id=
+newsdesk.cgi?a=latest&t=
+newsdesk.cgi?t=
+newsid=
+newsitem.php?num=
+newsone.php?id=
+newsticker_info.php?idn=
+newsupdate.cgi?a=latest&t=
+nota.php?OpenPage=
+nota.php?abre=
+nota.php?adresa=
+nota.php?b=
+nota.php?base_dir=
+nota.php?basepath=
+nota.php?category=
+nota.php?channel=
+nota.php?chapter=
+nota.php?cmd=
+nota.php?content=
+nota.php?corpo=
+nota.php?destino=
+nota.php?disp=
+nota.php?doshow=
+nota.php?eval=
+nota.php?filepath=
+nota.php?get=
+nota.php?goFile=
+nota.php?h=
+nota.php?header=
+nota.php?home=
+nota.php?in=
+nota.php?inc=
+nota.php?include=
+nota.php?ir=
+nota.php?itemnav=
+nota.php?ki=
+nota.php?lang=
+nota.php?left=
+nota.php?link=
+nota.php?m=
+nota.php?mid=
+nota.php?mod=
+nota.php?modo=
+nota.php?module=
+nota.php?n=
+nota.php?nivel=
+nota.php?oldal=
+nota.php?opcion=
+nota.php?option=
+nota.php?pag=
+nota.php?pagina=
+nota.php?panel=
+nota.php?pg=
+nota.php?play=
+nota.php?pollname=
+nota.php?pr=
+nota.php?pre=
+nota.php?qry=
+nota.php?rub=
+nota.php?sec=
+nota.php?secc=
+nota.php?seccion=
+nota.php?second=
+nota.php?seite=
+nota.php?sekce=
+nota.php?showpage=
+nota.php?subject=
+nota.php?t=
+nota.php?tipo=
+nota.php?url=
+nota.php?v=
+noticias.php?arq=
+ocp-103/index.php?req_path= ocPortal
+offer.php?idf=
+ogl_inet.php?ogl_id=
+old_reports.php?file=
+opinions.php?id=
+order.php?l= order.php?l=
+order.php?lang= order.php?lang=
+order.php?list= order.php?list=
+order.php?ln= order.php?ln=
+order.php?p= order.php?p=
+order.php?pag= order.php?pag=
+order.php?page= order.php?page=
+order.php?pg= order.php?pg=
+order.php?wp= .php?wp=
+order.php?wp= order.php?wp=
+p.php?p= "p.php?p="
+p.php?p= .php?p=
+p.php?p= .php?p="
+p.php?p= p.php?p=
+p.php?p= p.php?p="
+padrao.php?*
+padrao.php?*[*]*=
+padrao.php?*root*=
+padrao.php?OpenPage=
+padrao.php?a=
+padrao.php?abre=
+padrao.php?addr=
+padrao.php?base_dir=
+padrao.php?basepath=
+padrao.php?body=
+padrao.php?c=
+padrao.php?choix=
+padrao.php?cont=
+padrao.php?corpo=
+padrao.php?d=
+padrao.php?destino=
+padrao.php?eval=
+padrao.php?filepath=
+padrao.php?h=
+padrao.php?header=
+padrao.php?incl=
+padrao.php?index=
+padrao.php?ir=
+padrao.php?link=
+padrao.php?loc=
+padrao.php?menu=
+padrao.php?menue=
+padrao.php?mid=
+padrao.php?middle=
+padrao.php?n=
+padrao.php?name=
+padrao.php?nivel=
+padrao.php?oldal=
+padrao.php?op=
+padrao.php?open=
+padrao.php?pag=
+padrao.php?page=
+padrao.php?path=
+padrao.php?pname=
+padrao.php?pre=
+padrao.php?qry=
+padrao.php?read=
+padrao.php?redirect=
+padrao.php?rub=
+padrao.php?secao=
+padrao.php?secc=
+padrao.php?seccion=
+padrao.php?section=
+padrao.php?seite=
+padrao.php?sekce=
+padrao.php?sivu=
+padrao.php?str=
+padrao.php?strona=
+padrao.php?subject=
+padrao.php?texto=
+padrao.php?tipo=
+padrao.php?type=
+padrao.php?u=
+padrao.php?url=
+padrao.php?var=
+padrao.php?xlink=
+page.php5?id= .php5?id=
+page.php5?id= page.php5?id=
+page.php?*
+page.php?*[*]*=
+page.php?OpenPage=
+page.php?abre=
+page.php?action=
+page.php?addr=
+page.php?adresa=
+page.php?arq= .php?arq=
+page.php?base_dir=
+page.php?chapter=
+page.php?choix=
+page.php?cmd=
+page.php?cont=
+page.php?doc=
+page.php?e=
+page.php?ev=
+page.php?eval=
+page.php?file=
+page.php?g=
+page.php?go=
+page.php?goto=
+page.php?id=
+page.php?inc=
+page.php?incl=
+page.php?ir=
+page.php?left=
+page.php?link=
+page.php?ln= .php?ln=
+page.php?load=
+page.php?loader=
+page.php?mid=
+page.php?middle=
+page.php?mod=
+page.php?modo=
+page.php?module=
+page.php?numero=
+page.php?oldal=
+page.php?option=
+page.php?p=
+page.php?p= .php?p=
+page.php?p= .php?p="
+page.php?p= page.php?p=
+page.php?p= page.php?p="
+page.php?pa=
+page.php?panel=
+page.php?phpbb_root_path=
+page.php?pname=
+page.php?pref=
+page.php?q=
+page.php?qry=
+page.php?read=
+page.php?recipe=
+page.php?redirect=
+page.php?s= .php?s=
+page.php?s= .php?s="
+page.php?s= page.php?s=
+page.php?s= page.php?s="
+page.php?secao=
+page.php?section=
+page.php?seite=
+page.php?showpage=
+page.php?sivu=
+page.php?strona=
+page.php?subject=
+page.php?tipo=
+page.php?url=
+page.php?where=
+page.php?z=
+pageid=
+pages.php?id=
+pages.php?page=
+pagina.php?OpenPage=
+pagina.php?base_dir=
+pagina.php?basepath=
+pagina.php?category=
+pagina.php?channel=
+pagina.php?chapter=
+pagina.php?choix=
+pagina.php?cmd=
+pagina.php?dir=
+pagina.php?ev=
+pagina.php?filepath=
+pagina.php?g=
+pagina.php?go=
+pagina.php?goto=
+pagina.php?header=
+pagina.php?home=
+pagina.php?id=
+pagina.php?in=
+pagina.php?incl=
+pagina.php?include=
+pagina.php?index=
+pagina.php?ir=
+pagina.php?k=
+pagina.php?lang=
+pagina.php?left=
+pagina.php?link=
+pagina.php?load=
+pagina.php?loader=
+pagina.php?loc=
+pagina.php?mid=
+pagina.php?middlePart=
+pagina.php?modo=
+pagina.php?my=
+pagina.php?n=
+pagina.php?nivel=
+pagina.php?numero=
+pagina.php?oldal=
+pagina.php?pagina=
+pagina.php?panel=
+pagina.php?path=
+pagina.php?pr=
+pagina.php?pre=
+pagina.php?q=
+pagina.php?read=
+pagina.php?recipe=
+pagina.php?ref=
+pagina.php?sec=
+pagina.php?secao=
+pagina.php?seccion=
+pagina.php?section=
+pagina.php?sekce=
+pagina.php?start=
+pagina.php?str=
+pagina.php?thispage=
+pagina.php?tipo=
+pagina.php?to=
+pagina.php?type=
+pagina.php?u=
+pagina.php?v=
+pagina.php?z=
+participant.php?id=
+path.php?*
+path.php?*[*]*=
+path.php?action=
+path.php?addr=
+path.php?adresa=
+path.php?body=
+path.php?category=
+path.php?channel=
+path.php?chapter=
+path.php?cmd=
+path.php?destino=
+path.php?disp=
+path.php?doshow=
+path.php?ev=
+path.php?eval=
+path.php?filepath=
+path.php?goto=
+path.php?header=
+path.php?home=
+path.php?id=
+path.php?in=
+path.php?incl=
+path.php?ir=
+path.php?left=
+path.php?link=
+path.php?load=
+path.php?loader=
+path.php?menue=
+path.php?mid=
+path.php?middle=
+path.php?middlePart=
+path.php?my=
+path.php?nivel=
+path.php?numero=
+path.php?opcion=
+path.php?option=
+path.php?p=
+path.php?pageweb=
+path.php?panel=
+path.php?path=
+path.php?play=
+path.php?pname=
+path.php?pre=
+path.php?pref=
+path.php?qry=
+path.php?recipe=
+path.php?sec=
+path.php?secao=
+path.php?sivu=
+path.php?sp=
+path.php?start=
+path.php?strona=
+path.php?subject=
+path.php?thispage=
+path.php?tipo=
+path.php?type=
+path.php?var=
+path.php?where=
+path.php?xlink=
+path.php?y=
+path/index.php?function=custom&custom= path
+path_of_cpcommerce/_functions.php?prefix
+path_of_cpcommerce/_functions.php?prefix 
+path_of_cpcommerce/_functions.php?prefix=
+path_of_cpcommerce/_functions.php?prefix= 
+person.php?id=
+phpshop/index.php?base_dir=
+phpshop/index.php?base_dir= 
+phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root=
+phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= "index.php?id="
+phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= "phpwcms/index.php?id="
+phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= index.php?id=
+phpwcms/include/inc_ext/spaw/dialogs/table.php?spaw_root= phpwcms/index.php?id=
+pipe.php?HCL_path=
+pivot/modules/module_db.php?pivot_path=
+pivot/modules/module_db.php?pivot_path= 
+play_old.php?id=
+pm/lib.inc.php?pm_path=
+pm/lib.inc.php?pm_path= 
+pop.php?id=
+port.php?content=
+post.php?id=
+powerup.cgi?a=latest&t=
+press.php?*
+press.php?*[*]*=
+press.php?*root*=
+press.php?OpenPage=
+press.php?abre=
+press.php?addr=
+press.php?base_dir=
+press.php?category=
+press.php?channel=
+press.php?destino=
+press.php?dir=
+press.php?ev=
+press.php?get=
+press.php?goFile=
+press.php?home=
+press.php?i=
+press.php?id=
+press.php?inc=
+press.php?incl=
+press.php?include=
+press.php?ir=
+press.php?itemnav=
+press.php?lang=
+press.php?link=
+press.php?loader=
+press.php?menu=
+press.php?mid=
+press.php?middle=
+press.php?modo=
+press.php?module=
+press.php?my=
+press.php?nivel=
+press.php?opcion=
+press.php?option=
+press.php?pa=
+press.php?page=
+press.php?pageweb=
+press.php?pagina=
+press.php?panel=
+press.php?param=
+press.php?path=
+press.php?pg=
+press.php?pname=
+press.php?pr=
+press.php?pref=
+press.php?redirect=
+press.php?rub=
+press.php?second=
+press.php?seite=
+press.php?strona=
+press.php?subject=
+press.php?t=
+press.php?thispage=
+press.php?to=
+press.php?type=
+press.php?where=
+press.php?xlink=
+presse.php?do= .php?do="
+presse.php?do= presse.php?do="
+preview.php?id=
+principal.php?abre=
+principal.php?addr=
+principal.php?b=
+principal.php?basepath=
+principal.php?choix=
+principal.php?cont=
+principal.php?conteudo=
+principal.php?corpo=
+principal.php?d=
+principal.php?destino=
+principal.php?disp=
+principal.php?ev=
+principal.php?eval=
+principal.php?f=
+principal.php?filepath=
+principal.php?goto=
+principal.php?header=
+principal.php?home=
+principal.php?id=
+principal.php?in=
+principal.php?inc=
+principal.php?index=
+principal.php?ir=
+principal.php?ki=
+principal.php?l=
+principal.php?left=
+principal.php?link=
+principal.php?load=
+principal.php?loader=
+principal.php?loc=
+principal.php?menue=
+principal.php?middle=
+principal.php?middlePart=
+principal.php?module=
+principal.php?my=
+principal.php?n=
+principal.php?nivel=
+principal.php?oldal=
+principal.php?opcion=
+principal.php?p=
+principal.php?pag=
+principal.php?pagina=
+principal.php?param=
+principal.php?phpbb_root_path=
+principal.php?pollname=
+principal.php?pr=
+principal.php?pre=
+principal.php?pref=
+principal.php?q=
+principal.php?read=
+principal.php?recipe=
+principal.php?ref=
+principal.php?rub=
+principal.php?s=
+principal.php?secc=
+principal.php?seccion=
+principal.php?seite=
+principal.php?strona=
+principal.php?subject=
+principal.php?tipo=
+principal.php?to=
+principal.php?type=
+principal.php?url=
+principal.php?viewpage=
+principal.php?w=
+principal.php?z=
+print.php?*root*=
+print.php?OpenPage=
+print.php?addr=
+print.php?base_dir=
+print.php?basepath=
+print.php?category=
+print.php?chapter=
+print.php?choix=
+print.php?cont=
+print.php?dir=
+print.php?disp=
+print.php?doshow=
+print.php?g=
+print.php?goFile=
+print.php?goto=
+print.php?header=
+print.php?in=
+print.php?inc=
+print.php?itemnav=
+print.php?ki=
+print.php?l=
+print.php?left=
+print.php?link=
+print.php?loc=
+print.php?menu=
+print.php?menue=
+print.php?middle=
+print.php?middlePart=
+print.php?module=
+print.php?my=
+print.php?name=
+print.php?numero=
+print.php?opcion=
+print.php?open=
+print.php?option=
+print.php?pag=
+print.php?page=
+print.php?pager= .php?pager=
+print.php?pager= print.php?pager=
+print.php?param=
+print.php?path=
+print.php?play=
+print.php?pname=
+print.php?pollname=
+print.php?pre=
+print.php?r=
+print.php?read=
+print.php?rub=
+print.php?s=
+print.php?sekce=
+print.php?sivu=
+print.php?sp=
+print.php?str=
+print.php?strona=
+print.php?table= .php?table=
+print.php?thispage=
+print.php?tipo=
+print.php?type=
+print.php?u=
+print.php?where=
+prod.php?prod= .php?prod="
+prod_detail.php?id=
+prod_info.php?id=
+proddetail.php?prod= .php?prod="
+product-item.php?id=
+product.php?id=
+product_ranges_view.php?ID=
+productdetail.php?id=
+productinfo.php?id=
+products.php?prod= .php?prod="
+produit.php?id=
+produit.php?prod= .php?prod="
+produkt.php?prod= .php?prod="
+profile_view.php?id=
+publications.php?id=
+ray.php?id=
+read.php?id=
+readnews.php?id=
+reagir.php?num=
+releases.php?id=
+reporter.cgi?t=
+reports.php?sub= "reports.php?sub="
+reports.php?sub= reports.php?sub=
+review.php?id=
+rfi of this dork: /embed/day.php?path=
+rfi of this dork: /includes/dbal.php?eqdkp_root_path=
+rfi of this dork: enc/content.php?Home_Path=
+rfi to rhis dork: /coin_includes/constants.php?_CCFG[_PKG_PATH_INCL]=
+rfi to this dork: /classes/adodbt/sql.php?classes_dir=
+rfi to this dork: /header.php?abspath=
+rfi to this dork: /main.php?sayfa=
+rfi to this dork: /mcf.php?content=
+rfi to this dork: /sources/functions.php?CONFIG[main_path]=
+rfi to this dork: /sources/template.php?CONFIG[main_path]=
+rfi to this dork: /surveys/survey.inc.php?path=
+rss.php?phpraid_dir= ""$2-"
+rss.php?phpraid_dir= "php raid"
+rss.php?phpraid_dir= php raid
+rss.php?phpraid_dir= phpraid
+rss.php?phpraid_dir= phpraid"
+rub.php?idr=
+rubp.php?idr=
+rubrika.php?idr=
+s.php?table= .php?table=
+s1.php?ln= .php?ln=
+search.php?cutepath=
+search.php?exec= search.php?exec=
+section.php?id=
+secure_img_render.php?p=
+select_biblio.php?id=
+sem.php3?id=
+send_reminders.php?includedir=
+send_reminders.php?includedir= "send_reminders.php?includedir="
+sendpage.php?page=
+services.php?page=
+shop.php?do=part&id=
+shop.php?prod= .php?prod="
+shop.pl/page=
+shop.pl/page= shop.pl/page=
+shop_category.php?id=
+shopping.php?id=
+shoutbox/expanded.php?conf=
+shoutbox/expanded.php?conf= 
+show.php?*root*=
+show.php?abre=
+show.php?adresa=
+show.php?b=
+show.php?base_dir=
+show.php?channel=
+show.php?chapter=
+show.php?cmd=
+show.php?corpo=
+show.php?d=
+show.php?disp=
+show.php?filepath=
+show.php?get=
+show.php?go=
+show.php?header=
+show.php?home=
+show.php?id=
+show.php?inc=
+show.php?incl=
+show.php?include=
+show.php?index=
+show.php?ir=
+show.php?j=
+show.php?ki=
+show.php?l=
+show.php?left=
+show.php?loader=
+show.php?m=
+show.php?mid=
+show.php?middlePart=
+show.php?modo=
+show.php?module=
+show.php?my=
+show.php?n=
+show.php?nivel=
+show.php?oldal=
+show.php?page1= .php?page1="
+show.php?page=
+show.php?pageweb=
+show.php?pagina=
+show.php?param=
+show.php?path=
+show.php?play=
+show.php?pname=
+show.php?pre=
+show.php?product= .php?product=
+show.php?product= show.php?product=
+show.php?qry=
+show.php?r=
+show.php?read=
+show.php?recipe=
+show.php?redirect=
+show.php?seccion=
+show.php?second=
+show.php?sp=
+show.php?thispage=
+show.php?to=
+show.php?type=
+show.php?x=
+show.php?xlink=
+show.php?z=
+show_an.php?id=
+show_news.php?cutepath=
+showimg.php?id=
+shredder-categories.php?id=
+side.php?arq= .php?arq=
+side.php?table= .php?table=
+side.php?vis= .php?vis=
+side.php?vis= side.php?vis=
+site.php?arq= .php?arq=
+site.php?meio= .php?meio=
+site.php?table= .php?table=
+sitio.php?*root*=
+sitio.php?abre=
+sitio.php?addr=
+sitio.php?body=
+sitio.php?category=
+sitio.php?chapter=
+sitio.php?content=
+sitio.php?destino=
+sitio.php?disp=
+sitio.php?doshow=
+sitio.php?e=
+sitio.php?ev=
+sitio.php?get=
+sitio.php?go=
+sitio.php?goFile=
+sitio.php?inc=
+sitio.php?incl=
+sitio.php?index=
+sitio.php?ir=
+sitio.php?left=
+sitio.php?menu=
+sitio.php?menue=
+sitio.php?mid=
+sitio.php?middlePart=
+sitio.php?modo=
+sitio.php?name=
+sitio.php?nivel=
+sitio.php?oldal=
+sitio.php?opcion=
+sitio.php?option=
+sitio.php?pageweb=
+sitio.php?param=
+sitio.php?pg=
+sitio.php?pr=
+sitio.php?qry=
+sitio.php?r=
+sitio.php?read=
+sitio.php?recipe=
+sitio.php?redirect=
+sitio.php?rub=
+sitio.php?sec=
+sitio.php?secao=
+sitio.php?secc=
+sitio.php?section=
+sitio.php?sivu=
+sitio.php?sp=
+sitio.php?start=
+sitio.php?strona=
+sitio.php?t=
+sitio.php?texto=
+sitio.php?tipo=
+skins/advanced/advanced1.php?pluginpath[0]=
+skins/advanced/advanced1.php?pluginpath[0]= "Sabdrimer CMS"
+skins/advanced/advanced1.php?pluginpath[0]= "Sabdrimer"
+skins/advanced/advanced1.php?pluginpath[0]= Sabdrimer
+skins/advanced/advanced1.php?pluginpath[0]= Sabdrimer CMS
+skins/advanced/advanced1.php?pluginpath[0]= skins/advanced/advanced1.php?pluginpath[0]= "CMS"
+skins/advanced/advanced1.php?pluginpath[0]= skins/advanced/advanced1.php?pluginpath[0]= "Sabdrimer CMS"
+smarty_config.php?root_dir=
+smarty_config.php?root_dir= "smarty"
+solpot.html?body=
+sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]=
+spr.php?id=
+sql.php?id=
+staff_id=
+standard.php?*
+standard.php?*[*]*=
+standard.php?abre=
+standard.php?action=
+standard.php?base_dir=
+standard.php?body=
+standard.php?channel=
+standard.php?chapter=
+standard.php?cmd=
+standard.php?cont=
+standard.php?destino=
+standard.php?dir=
+standard.php?e=
+standard.php?ev=
+standard.php?eval=
+standard.php?go=
+standard.php?goFile=
+standard.php?goto=
+standard.php?home=
+standard.php?in=
+standard.php?include=
+standard.php?index=
+standard.php?j=
+standard.php?lang=
+standard.php?link=
+standard.php?menu=
+standard.php?middle=
+standard.php?my=
+standard.php?name=
+standard.php?numero=
+standard.php?oldal=
+standard.php?op=
+standard.php?open=
+standard.php?pagina=
+standard.php?panel=
+standard.php?param=
+standard.php?phpbb_root_path=
+standard.php?pollname=
+standard.php?pr=
+standard.php?pre=
+standard.php?pref=
+standard.php?q=
+standard.php?qry=
+standard.php?ref=
+standard.php?s=
+standard.php?secc=
+standard.php?seccion=
+standard.php?section=
+standard.php?showpage=
+standard.php?sivu=
+standard.php?str=
+standard.php?subject=
+standard.php?url=
+standard.php?var=
+standard.php?viewpage=
+standard.php?w=
+standard.php?where=
+standard.php?xlink=
+standard.php?z=
+start.php?*root*=
+start.php?abre=
+start.php?addr=
+start.php?adresa=
+start.php?b=
+start.php?base_dir=
+start.php?basepath=
+start.php?body=
+start.php?chapter=
+start.php?cmd=
+start.php?corpo=
+start.php?destino=
+start.php?eval=
+start.php?go=
+start.php?header=
+start.php?home=
+start.php?id= .php?id="
+start.php?id= start.php?id=
+start.php?id= start.php?id="
+start.php?in=
+start.php?include=
+start.php?index=
+start.php?ir=
+start.php?lang=
+start.php?lang= .php?lang=
+start.php?lang= .php?lang="
+start.php?lang= start.php?lang=
+start.php?lang= start.php?lang="
+start.php?load=
+start.php?loader=
+start.php?mid=
+start.php?mod= .php?mod="
+start.php?mod= start.php?mod="
+start.php?modo=
+start.php?module=
+start.php?name=
+start.php?nivel=
+start.php?o=
+start.php?oldal=
+start.php?op=
+start.php?option=
+start.php?p=
+start.php?p= start.php?p=
+start.php?pag= start.php?pag=
+start.php?page= .php?page="
+start.php?page= start.php?page=
+start.php?page= start.php?page="
+start.php?pageweb=
+start.php?panel=
+start.php?param=
+start.php?pg=
+start.php?pg= start.php?pg=
+start.php?play=
+start.php?pname=
+start.php?pollname=
+start.php?rub=
+start.php?s= .php?s="
+start.php?s= start.php?s=
+start.php?s= start.php?s="
+start.php?secao=
+start.php?seccion=
+start.php?seite=
+start.php?showpage=
+start.php?sivu=
+start.php?sp=
+start.php?str=
+start.php?strona=
+start.php?thispage=
+start.php?tipo=
+start.php?where=
+start.php?xlink=
+start_lobby.php?CONFIG[MWCHAT_Libs]=
+step_one.php?server_inc=
+step_one_tables.php?server_inc=
+story.php?id=
+str.php?l= str.php?l=
+str.php?lang= str.php?lang=
+str.php?ln= str.php?ln=
+str.php?p= str.php?p=
+str.php?page= str.php?page=
+sub*.php?*
+sub*.php?*[*]*=
+sub*.php?*root*=
+sub*.php?OpenPage=
+sub*.php?abre=
+sub*.php?action=
+sub*.php?adresa=
+sub*.php?b=
+sub*.php?base_dir=
+sub*.php?basepath=
+sub*.php?body=
+sub*.php?category=
+sub*.php?channel=
+sub*.php?chapter=
+sub*.php?cont=
+sub*.php?content=
+sub*.php?corpo=
+sub*.php?destino=
+sub*.php?g=
+sub*.php?go=
+sub*.php?goFile=
+sub*.php?header=
+sub*.php?id=
+sub*.php?include=
+sub*.php?ir=
+sub*.php?itemnav=
+sub*.php?j=
+sub*.php?k=
+sub*.php?lang=
+sub*.php?left=
+sub*.php?link=
+sub*.php?load=
+sub*.php?menue=
+sub*.php?mid=
+sub*.php?middle=
+sub*.php?mod=
+sub*.php?modo=
+sub*.php?module=
+sub*.php?my=
+sub*.php?name=
+sub*.php?oldal=
+sub*.php?op=
+sub*.php?open=
+sub*.php?option=
+sub*.php?pa=
+sub*.php?pag=
+sub*.php?panel=
+sub*.php?path=
+sub*.php?phpbb_root_path=
+sub*.php?play=
+sub*.php?pname=
+sub*.php?pre=
+sub*.php?qry=
+sub*.php?recipe=
+sub*.php?rub=
+sub*.php?s=
+sub*.php?sec=
+sub*.php?secao=
+sub*.php?secc=
+sub*.php?seite=
+sub*.php?sp=
+sub*.php?str=
+sub*.php?thispage=
+sub*.php?u=
+sub*.php?viewpage=
+sub*.php?where=
+sub*.php?z=
+sub.php?menu= "sub.php?menu="
+sub.php?menu= sub.php?menu=
+sub.php?s= "sub.php?s="
+sub.php?s= sub.php?s=
+sub.php?sub= "sub.php?sub="
+sub.php?sub= sub.php?sub=
+support/mailling/maillist/inc/initdb.php?absolute_path=
+support/mailling/maillist/inc/initdb.php?absolute_path= 
+support_page.cgi?file_name=           
+sw_comment.php?id=
+task.php?task= .php?task=
+task.php?task= task.php?task=
+tekst.php?idt=
+template.php?*
+template.php?*[*]*=
+template.php?a=
+template.php?addr=
+template.php?base_dir=
+template.php?basepath=
+template.php?c=
+template.php?choix=
+template.php?cont=
+template.php?content=
+template.php?corpo=
+template.php?dir=
+template.php?doshow=
+template.php?e=
+template.php?f=
+template.php?goto=
+template.php?h=
+template.php?header=
+template.php?ir=
+template.php?k=
+template.php?lang=
+template.php?left=
+template.php?load=
+template.php?menue=
+template.php?mid=
+template.php?mod=
+template.php?name=
+template.php?nivel=
+template.php?op=
+template.php?opcion=
+template.php?pag=
+template.php?page=
+template.php?page= "/template.php?page=*.php"
+template.php?pagina
+template.php?pagina 
+template.php?pagina=
+template.php?panel=
+template.php?param=
+template.php?path=
+template.php?play=
+template.php?pre=
+template.php?qry=
+template.php?ref=
+template.php?s=
+template.php?secao=
+template.php?second=
+template.php?section=
+template.php?seite=
+template.php?sekce=
+template.php?showpage=
+template.php?sp=
+template.php?str=
+template.php?t=
+template.php?texto=
+template.php?thispage=
+template.php?tipo=
+template.php?viewpage=
+template.php?where=
+template.php?y=
+test.php?page=
+theme.php?THEME_DIR=
+theme.php?id=
+title.php?id=
+tools/send_reminders.php?includedir=
+top10.php?cat=
+tradeCategory.php?id=
+trainers.php?id=
+trans.php?trans= .php?trans="
+trans.php?trans= trans.php?trans="
+transcript.php?id=
+upgrade_album.php?GERY_BASEDIR=
+video.php?content=
+view.php?*
+view.php?*[*]*=
+view.php?adresa=
+view.php?b=
+view.php?body=
+view.php?channel=
+view.php?chapter=
+view.php?choix=
+view.php?cmd=
+view.php?content=
+view.php?disp=
+view.php?get=
+view.php?go=
+view.php?goFile=
+view.php?goto=
+view.php?header=
+view.php?id=
+view.php?incl=
+view.php?ir=
+view.php?ki=
+view.php?lang=
+view.php?load=
+view.php?loader=
+view.php?mid=
+view.php?middle=
+view.php?mod=
+view.php?oldal=
+view.php?option=
+view.php?pag=
+view.php?page=
+view.php?panel=
+view.php?pg=
+view.php?phpbb_root_path=
+view.php?pollname=
+view.php?pr=
+view.php?qry=
+view.php?recipe=
+view.php?redirect=
+view.php?root_dir=
+view.php?sec=
+view.php?secao=
+view.php?seccion=
+view.php?second=
+view.php?seite=
+view.php?showpage=
+view.php?sp=
+view.php?str=
+view.php?sub= "view.php?sub="
+view.php?sub= view.php?sub=
+view.php?table= .php?table=
+view.php?to=
+view.php?type=
+view.php?u=
+view.php?var=
+view.php?where=
+view_faq.php?id=
+view_product.php?id=
+viewapp.php?id=
+viewgantt.php?root_dir=
+viewphoto.php?id=
+viewshowdetail.php?id=
+voir.php?inc= .php?inc="
+vote.pl?action=show&id=
+vw_files.php?root_dir=
+wamp_dir/setup/yesno.phtml?no_url=
+wamp_dir/setup/yesno.phtml?no_url= "setup"
+website.php?id=
+werbungFrame.php?do= .php?do="
+whereami.cgi?g=id 
+word.php?id=
+write.php?dir=
+yabbse/Sources/Packages.php?sourcedir=
+yabbse/Sources/Packages.php?sourcedir= 
+yahoo = by Kietu? v 3.2
+zboard/zboard.php
+zboard/zboard.php 
+zentrack/index.php?configFile=
