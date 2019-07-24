@@ -37,5 +37,5 @@ def from_domain(domain):
         menu_utils.header("Response of hacking tools for NameServers")
         print(ans_ns.response.to_text())
 
-    except (dns.resolver.NoAnswer, dns.resolver.NXDOMAIN) as e:
+    except (dns.resolver.NoAnswer, dns.resolver.NXDOMAIN, dns.exception.Timeout) as e:
         menu_utils.error(e)

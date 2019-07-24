@@ -19,7 +19,7 @@ try:
     from googlesearch import search                 # external package
 except ImportError:
     print("No module named 'google' found")
-import urllib                                       # external package
+import urllib
 import config_params
 from common_utils import menu_utils
 

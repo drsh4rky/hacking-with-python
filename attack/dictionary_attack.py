@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import paramiko         # external package
-import ftplib           # external package
+import ftplib
 import threading
 import queue
 import socket

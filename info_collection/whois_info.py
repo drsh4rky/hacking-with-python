@@ -5,20 +5,22 @@ import whois                                    # external package
 import pprintpp                                 # external package
 from common_utils import menu_utils
 
-""" This module uses pythonwhois API in order to retrieve data from a given domain """
+""" This module uses python-whois API in order to retrieve data from a given domain """
 
 
 def from_domain(domain):
 
-    """This prints GEO info about a given domain, retrieved from the given geoDB"""
+    """This prints WHOIS info about a given domain"""
 
-    try:
-        info = whois.whois(domain)
-        menu_utils.header("Info retrieved")
-        pprintpp.pprint(info)
-
-    except whois.parser.PywhoisError as e:
-        menu_utils.error(e)
+    info = whois.query(domain)
+    menu_utils.header("Info retrieved")
+    info = {"name": info.name,
+            "name servers": info.name_servers,
+            "registrar": info.registrar,
+            "creation date": info.creation_date,
+            "expiration date": info.expiration_date,
+            "last updated": info.last_updated}
+    pprintpp.pprint(info)
 
 
 

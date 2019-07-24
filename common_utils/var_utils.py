@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import itertools                # external package
+import itertools
 from netaddr import *           # external package
 
 """ This module provides utils for handling variables """
