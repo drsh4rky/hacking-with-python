@@ -15,7 +15,7 @@ Additional options for attacks and post-exploitation will be added in the future
 * `git clone https://github.com/drsh4rky/hacking-with-python.git`
 * `cd hacking-with-python`
 * `pip install -r requirements.txt`
-* `python ./launcher.py`  
+* `sudo python ./launcher.py`  
 
 # Configuration 
 

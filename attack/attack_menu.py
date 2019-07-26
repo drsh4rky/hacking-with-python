@@ -1,5 +1,5 @@
 # ################################################################################
-# ## DATE: 2019-18-07
+# ## DATE: 2019-26-07
 # ## AUTHOR: Óscar J. Rubio
 # ##
 # ################################################################################
@@ -17,9 +17,9 @@ def menu():
     while 1:
 
         """ ATTACK MENU """
-        option = menu_utils.nice_menu('Select hacking tool', ['DDoS attack', 'Dictionary attack'])
-
-        if (option < 1) | (option > 2):
+        option = menu_utils.nice_menu('Select hacking tool', ['DDoS attack', 'Dictionary attack',
+                                                              'Navigation eavesdropping attack'])
+        if (option < 1) | (option > 3):
             return
 
         elif option == 1:
@@ -56,5 +56,12 @@ def menu():
                 elif sub_option == 2:
                     dictionary_attack.dictionary_attack("SSH", ip, port, interval, user, dictionary_file)
 
+        elif option == 3:
+            """ Navigation eavesdropping submenu """
+
+            network_iface = menu_utils.highlighted_input('network interface (e.g. en1)')
+            target_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('target IPs (e.g. 192.168.1.28)'))[0]
+            gateway_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('gateway IP (e.g. 192.168.1.1)'))[0]
+            network_attack.navigation_eavesdropping_attack(network_iface, target_ip, gateway_ip)
 
 
