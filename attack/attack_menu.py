@@ -19,6 +19,7 @@ def menu():
         """ ATTACK MENU """
         option = menu_utils.nice_menu('Select hacking tool', ['DDoS attack', 'Dictionary attack',
                                                               'Navigation eavesdropping attack'])
+
         if (option < 1) | (option > 3):
             return
 
@@ -58,10 +59,10 @@ def menu():
 
         elif option == 3:
             """ Navigation eavesdropping submenu """
-
+        
             network_iface = menu_utils.highlighted_input('network interface (e.g. en1)')
             target_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('target IPs (e.g. 192.168.1.28)'))[0]
             gateway_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('gateway IP (e.g. 192.168.1.1)'))[0]
-            network_attack.navigation_eavesdropping_attack(network_iface, target_ip, gateway_ip)
+            mitm_attack.mitm_attack(network_iface, target_ip, gateway_ip)
 
 

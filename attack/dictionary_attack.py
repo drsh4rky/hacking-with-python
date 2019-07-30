@@ -78,7 +78,7 @@ def dictionary_attack(protocol, ip, port, interval, user, dictionary):
             counter += 1
             additional_info = "Trying pass: %s" % passw
             menu_utils.progress_bar(int(100*counter/len(passwords)),
-                                    config_params.PROGRESS_BAR_WIDTH, additional_info)
+                                    config_params.DISPLAY["progress_bar_width"], additional_info)
 
             if protocol.lower() == 'ftp':
                 t = threading.Thread(target=_ftp_connection_attempt, args=(ip, port, user, passw, my_queue, ))

@@ -6,9 +6,9 @@ Hacking-with-Python is a simple and extensible tool intended for the initiation 
 
 * **Information collection**, including DNS queries, WHOIS queries, geoIP queries, Google hacking, Shodan searches and metadata analysis. 
 * **Vulnerability analysis**, including Nmap scanning, port scanning with Scapy and banner grabbing.
-* **Attacks**, including (D)DoS and dictionary attacks. 
+* **Attacks**, including (D)DoS, dictionary attacks and navigation eavesdropping. 
 
-Additional options for attacks and post-exploitation will be added in the future.
+Additional options for attacks (e.g. DNS poisoning) and post-exploitation will be added in the future.
 
 # Get Started
 

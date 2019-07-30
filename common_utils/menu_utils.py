@@ -18,27 +18,33 @@ def cls():
 def banner():
 
     cls()
-    for i in range(0, len(config_params.display['banner'])):
-        highlighted_info(config_params.display['banner'][i])
-        if i == len(config_params.display['banner']) - 3:
+    for i in range(0, len(config_params.DISPLAY['banner'])):
+        highlighted_info(config_params.DISPLAY['banner'][i])
+        if i == len(config_params.DISPLAY['banner']) - 3:
             print(colored("                                           ENJOY IT :)",
-                          config_params.display['color_error'], attrs=config_params.display['color_attrs_error']))
+                          config_params.DISPLAY['color_error'], attrs=config_params.DISPLAY['color_attrs_error']))
         sleep(0.1)
+
+
+def see_you_soon():
+
+    super_highlighted_info(config_params.DISPLAY["exit_message"])
+    exit()
 
 
 def header(title):
 
     print("")
-    # line with config_params.display['title_width'] characters =
-    print(colored("=", config_params.display['color'],
-                  attrs=config_params.display['color_attrs']) * config_params.display['title_width'])
+    # line with config_params.DISPLAY['title_width'] characters =
+    print(colored("=", config_params.DISPLAY['color'],
+                  attrs=config_params.DISPLAY['color_attrs']) * config_params.DISPLAY['title_width'])
     # centering the text of the title
-    print(" " * int((config_params.display['title_width'] - len(title))/2), end="")
+    print(" " * int((config_params.DISPLAY['title_width'] - len(title))/2), end="")
     # centered title
-    print(colored(title, config_params.display['color'], attrs=config_params.display['color_attrs']))
-    # line with config_params.display['title_width'] characters =
-    print(colored("=", config_params.display['color'],
-                  attrs=config_params.display['color_attrs']) * config_params.display['title_width'])
+    print(colored(title, config_params.DISPLAY['color'], attrs=config_params.DISPLAY['color_attrs']))
+    # line with config_params.DISPLAY['title_width'] characters =
+    print(colored("=", config_params.DISPLAY['color'],
+                  attrs=config_params.DISPLAY['color_attrs']) * config_params.DISPLAY['title_width'])
     print("")
 
 
@@ -53,12 +59,12 @@ def nice_menu(title, options):
     full_text += '\n\tOther) Exit   --> '
 
     try:
-        option = int(float(input(colored(full_text, config_params.display['color'],
-                                         attrs=config_params.display['color_attrs']))))
+        option = int(float(input(colored(full_text, config_params.DISPLAY['color'],
+                                         attrs=config_params.DISPLAY['color_attrs']))))
 
     except ValueError:
-        print(colored('You should introduce a number', config_params.display['color_error'],
-                      attrs=config_params.display['color_attrs_error']))
+        print(colored('You should introduce a number', config_params.DISPLAY['color_error'],
+                      attrs=config_params.DISPLAY['color_attrs_error']))
         option = -1
 
     return option
@@ -66,23 +72,23 @@ def nice_menu(title, options):
 
 def mixed_info(info1, info2):
 
-    print(colored(info1, config_params.display['color'], attrs=config_params.display['color_attrs']), end=" ")
+    print(colored(info1, config_params.DISPLAY['color'], attrs=config_params.DISPLAY['color_attrs']), end=" ")
     print(info2)
 
 
 def highlighted_info(info):
 
-    print(colored(info, config_params.display['color'], attrs=config_params.display['color_attrs']))
+    print(colored(info, config_params.DISPLAY['color'], attrs=config_params.DISPLAY['color_attrs']))
 
 
 def super_highlighted_info(info):
 
-    print(colored(info, config_params.display['color'], attrs=config_params.display['color_attrs_error']))
+    print(colored(info, config_params.DISPLAY['color'], attrs=config_params.DISPLAY['color_attrs_error']))
 
 
 def warning(warn):
 
-    print(colored(warn, config_params.display['color_error'], attrs=config_params.display['color_attrs']))
+    print(colored(warn, config_params.DISPLAY['color_error'], attrs=config_params.DISPLAY['color_attrs']))
 
 
 def error(e):
@@ -92,8 +98,8 @@ def error(e):
 
 def highlighted_input(question):
 
-    return input(colored("\n Introduce the %s : " % question, config_params.display['color'],
-                         attrs=config_params.display['color_attrs']))
+    return input(colored("\n Introduce the %s : " % question, config_params.DISPLAY['color'],
+                         attrs=config_params.DISPLAY['color_attrs']))
 
 
 def conditional_highlighting(info, positive_word, negative_word):

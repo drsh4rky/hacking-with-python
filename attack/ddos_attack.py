@@ -46,7 +46,7 @@ def ddos_attack(attackers_ips, ips, ports, duration):
         pkt_counter += 1
         additional_info = "attack: %s -> %s:%s" % (chosen_attacker_ip, chosen_ip, chosen_port)
         menu_utils.progress_bar(int(100*(time.time() - t0)/duration),
-                                config_params.PROGRESS_BAR_WIDTH, additional_info)
+                                config_params.DISPLAY["progress_bar_width"], additional_info)
 
     menu_utils.super_highlighted_info("\n%s DDoS packets successfully sent" % pkt_counter)
 

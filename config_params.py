@@ -19,7 +19,7 @@ MAX_NUMBER_THREADS = 200												# Maximum number of threads in multi-thread 
 
 # Parametrized display format: 
 
-display = {
+DISPLAY = {
 	"color": "green",     	  			# Font color for regular text
 	"color_attrs": ["bold"],  			# Style for regular menu text
 	"color_error": "red",  				# Color for error text
@@ -42,7 +42,9 @@ display = {
 		"           \/__/             \/__/                  			  ",
 		"                               								  ",
 		"=========================== drsh4rky ============================"
-	]
+	],
+	"exit_message": "\n\nThanks for using Hacking-With-Python, see you soon !\n",
+	"progress_bar_width": 50			# Width of the progress bar
 }
 
-PROGRESS_BAR_WIDTH = 50					# Width of the progress bar
+

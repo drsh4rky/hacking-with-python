@@ -13,8 +13,7 @@ import signal
 
 
 def main_keyboard_interrupt_handler(signal, frame):
-    menu_utils.super_highlighted_info("\n\nThanks for using Hacking-With-Python, see you soon !\n")
-    exit()
+    menu_utils.see_you_soon()
 
 
 signal.signal(signal.SIGINT, main_keyboard_interrupt_handler)
@@ -25,8 +24,9 @@ while 1:
     """ MAIN MENU """
 
     option = menu_utils.nice_menu('Select category', ['Info collection', 'Vulnerability analysis', 'Attack'])
+
     if (option < 1) | (option > 3):
-        break
+        menu_utils.see_you_soon()
 
     if option == 1:
         info_collection_menu.menu()
