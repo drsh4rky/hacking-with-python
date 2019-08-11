@@ -18,9 +18,10 @@ def menu():
 
         """ ATTACK MENU """
         option = menu_utils.nice_menu('Select hacking tool', ['DDoS attack', 'Dictionary attack',
-                                                              'Navigation eavesdropping attack'])
+                                                              'Navigation eavesdropping attack',
+                                                              'Plain credentials eavesdropping attack'])
 
-        if (option < 1) | (option > 3):
+        if (option < 1) | (option > 4):
             return
 
         elif option == 1:
@@ -64,5 +65,14 @@ def menu():
             target_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('target IPs (e.g. 192.168.1.28)'))[0]
             gateway_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('gateway IP (e.g. 192.168.1.1)'))[0]
             mitm_attack.mitm_attack(network_iface, target_ip, gateway_ip)
+
+        elif option == 4:
+            """ Credentials eavesdropping submenu """
+
+            network_iface = menu_utils.highlighted_input('network interface (e.g. en1)')
+            target_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('target IPs (e.g. 192.168.1.28)'))[0]
+            gateway_ip = var_utils.parse_cidr_ips(menu_utils.highlighted_input('gateway IP (e.g. 192.168.1.1)'))[0]
+            port = [int(menu_utils.highlighted_input('FTP port (typically 21)'))]
+            mitm_attack.mitm_attack(network_iface, target_ip, gateway_ip, port)
 
 

